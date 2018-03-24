@@ -46,4 +46,7 @@
 - instrument_code: svc-hr-1024i
   instrument_name: SVC_HR-1024i
   instrument_manufacturer: SVC
+
+- instrument_code: unknown
+  instrument_name: Unknown spectrometer
 ---
