@@ -43,7 +43,7 @@
 - instrument_code: accp-spec
   instrument_name: ACCP field spectrometer (unknown model)
 
-- instrument_code: svc-hr-1024i
+- instrument_code: svc-hr
   instrument_name: SVC_HR-1024i
   instrument_manufacturer: SVC
 

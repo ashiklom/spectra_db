@@ -127,4 +127,9 @@
   SI_unit: ""
   constraints:
     minimum: 0
+
+- trait: leaf_water_potential
+  description: Leaf water potential
+  unit: "Pa"
+  SI_unit: "Pa"
 ---
