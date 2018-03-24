@@ -1,0 +1,38 @@
+---
+- instrument_code: asd-fspro
+  instrument_name: ASD FieldSpec Pro
+  min_wave: 350
+  max_wave: 2500
+  instrument_comment: >
+    1.4nm visible; 2.2nm NIR; 2.3nm SWIR;
+    interpolated to 1nm;
+    Analytical Spectra Devices Boulder CO USA
+
+- instrument_code: asd-fs3
+  instrument_name: ASD FieldSpec 3
+  min_wave: 350
+  max_wave: 2500
+  instrument_comment: >
+    3nm at 700nm, 10nm at 1400nm, 2100nm across full spectrum [sic].
+    Resampled at 1nm.
+
+- instrument_code: asd-fs4
+  instrument_name: ASD FieldSpec 4
+
+- instrument_code: se-psm3500
+  instrument_name: Spectral Evolution PSM-3500
+
+- instrument_code: perkin-elmer-l19
+  instrument_name: Perkin Elmer Lambda 19
+  instrument_comment: >
+    Double beam spectrophotometer, BaSO4 integrating sphere
+
+- instrument_code: nirs-6500
+  instrument_name: NIRS 6500 labratory spectrometer
+
+- instrument_code: accp-spec
+  instrument_name: ACCP field spectrometer (unknown model)
+
+- instrument_code: svc-hr-1024i
+  instrument_name: SVC_HR-1024i
+---

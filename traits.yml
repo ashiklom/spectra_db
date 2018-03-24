@@ -1,0 +1,130 @@
+---
+- trait: leaf_chla_per_area
+  description: Leaf chlorophyll a content per leaf area
+  unit: "ug cm-2"
+  SI_unit: "kg m-2"
+  constraints:
+    minimum: 0
+
+- trait: leaf_chlb_per_area
+  description: Leaf chlorophyll b content per leaf area
+  unit: "ug cm-2"
+  SI_unit: "kg m-2"
+  constraints:
+    minimum: 0
+
+- trait: leaf_chltot_per_area
+  description: Total leaf chlorophyll content per leaf area
+  unit: "ug cm-2"
+  SI_unit: "kg m-2"
+  constraints:
+    minimum: 0
+
+- trait: leaf_cartot_per_area
+  description: Total leaf carotenoid content per leaf area
+  unit: "ug cm-2"
+  SI_unit: "kg m-2"
+  constraints:
+    minimum: 0
+
+- trait: leaf_anth_per_area
+  description: Total leaf anthocyanin content per leaf area
+  unit: "ug cm-2"
+  SI_unit: "kg m-2"
+  constraints:
+    minimum: 0
+
+- trait: leaf_mass_per_area
+  description: Leaf dry mass per leaf area
+  unit: "g cm-2"
+  SI_unit: "kg m-2"
+  constraints:
+    minimum: 0
+
+- trait: leaf_water_thickness
+  description: Leaf equivalent water thickness, or leaf water content per leaf area
+  unit: "g cm-2"
+  SI_unit: "kg m-2"
+  constraints:
+    minimum: 0
+
+- trait: leaf_CN_ratio_mass
+  description: Leaf carbon to nitrogen ratio
+  unit: ""
+  SI_unit: ""
+  constraints:
+    minimum: 0
+
+- trait: leaf_protein_pct_mass
+  description: Percent leaf dry mass in protein
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_cellulose_pct_mass
+  description: Percent leaf dry mass in cellulose
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_lignin_pct_mass
+  description: Percent leaf dry mass in lignin
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_starch_pct_mass
+  description: Percent leaf dry mass in starch
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_C_pct_mass
+  description: Percent leaf dry mass in carbon
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_H_pct_mass
+  description: Percent leaf dry mass as hydrogen
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_O_pct_mass
+  description: Percent leaf dry mass as oxygen
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_N_pct_mass
+  description: Percent leaf dry mass as nitrogen
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+    maximum: 100
+
+- trait: leaf_prospect_N
+  description: >
+    Effective number of leaf mesophyll layers,
+    or 1 less than the number of leaf intracellular air spaces.
+  unit: ""
+  SI_unit: ""
+  constraints:
+    minimum: 0
+---
