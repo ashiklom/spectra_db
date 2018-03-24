@@ -10,6 +10,14 @@ Data for this project are stored in a database of plain text files organized as 
     - `metadata.csvy` -- Metadata about the spectra, which contains the following:
         * A YAML header with the following metadata (`*` indicates required data):
         * CSV data with the following columns (again, `*` indicates required columns):
+            - `*observation_id`
+            - `*year`
+            - `*site_code`
+            - `*plot_code`
+            - `canopy_position` -- Relative position in canopy. Bottom (B), Middle (M), or Top (T)
+            - `sun_shade` -- Whether leaves are sunlit (sun) or shaded (shade)
+            - `needle_old_new` -- Whether needles are old (O) or new (new)
+            - `needle_age` -- Needle age, in years
     - `spectra/` -- Directory containing spectra
 - Each `spectra` folder contains `<observation_id>.csvy` files
     - Each `observation_id` corresponds to observations made on a single leaf at a particular point in time, so each spectra within a file is treated as a single observation in the context of PROSPECT inversion.
