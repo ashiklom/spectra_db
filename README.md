@@ -18,6 +18,7 @@ Data for this project are stored in a database of plain text files organized as 
             - `sun_shade` -- Whether leaves are sunlit (sun) or shaded (shade)
             - `needle_old_new` -- Whether needles are old (O) or new (new)
             - `needle_age` -- Needle age, in years
+            - `sample_prep` -- Whether the sample is on a fresh leaf, dry leaf, or powder
     - `spectra/` -- Directory containing spectra
 - Each `spectra` folder contains `<observation_id>.csvy` files
     - Each `observation_id` corresponds to observations made on a single leaf at a particular point in time, so each spectra within a file is treated as a single observation in the context of PROSPECT inversion.
