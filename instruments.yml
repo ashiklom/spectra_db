@@ -49,4 +49,8 @@
 
 - instrument_code: unknown
   instrument_name: Unknown spectrometer
+
+- instrument_code: oo-2000
+  instrument_name: Ocean Optics USB2000
+  instrument_manufacturer: Ocean Optics
 ---
