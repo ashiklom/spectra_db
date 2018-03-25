@@ -88,7 +88,7 @@
 #  - name: needle_old_new
 #    type: factor
 #    levels:
-#    - 'N'
+#    - N
 #    - O
 #  - name: needle_age
 #    type: number
