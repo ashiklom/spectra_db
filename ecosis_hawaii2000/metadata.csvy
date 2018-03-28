@@ -1,0 +1,883 @@
+#---
+#project_code: ecosis_hawaii2000
+#short_name: Hawaii 2000
+#long_name: Hawaii 2000 vegetation species spectra
+#spectra_methods:
+#  comment: Proximal, not handheld. Various target types. See Ecosis.
+#resources:
+#  fields:
+#  - name: species_common_name
+#    type: string
+#  - name: description
+#    type: string
+#  - name: species_genus
+#    type: string
+#  - name: species_species
+#    type: string
+#  - name: latitude
+#    type: number
+#  - name: longitude
+#    type: number
+#  - name: collection_date
+#    type: date
+#  - name: year
+#    type: number
+#  - name: observation_id
+#    type: string
+#  - name: target_type
+#    type: string
+#  - name: species_code
+#    type: string
+#  - name: Database_ID
+#    type: string
+#  - name: instrument_code
+#    type: string
+#  - name: is_experiment
+#    type: boolean
+#
+#---
+species_common_name,description,species_genus,species_species,latitude,longitude,collection_date,year,observation_id,target_type,species_code,Database_ID,instrument_code,is_experiment
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa1,veg,VAFA,USDA Plants,asd-fs,FALSE
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa2,veg,VAFA,USDA Plants,asd-fs,FALSE
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa3,veg,VAFA,USDA Plants,asd-fs,FALSE
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa4,veg,VAFA,USDA Plants,asd-fs,FALSE
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa5,veg,VAFA,USDA Plants,asd-fs,FALSE
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa6,veg,VAFA,USDA Plants,asd-fs,FALSE
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa7,veg,VAFA,USDA Plants,asd-fs,FALSE
+,coordinates are approximate,Vachellia,farnesiana,21.36025,-158.1320278,2000-04-07,2000,h7bacfa8,veg,VAFA,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa1,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa2,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa3,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa4,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa5,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa6,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa7,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa8,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa9,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.36025,-158.1320278,2000-04-07,2000,h7cprpa10,veg,PRPA4,USDA Plants,asd-fs,FALSE
+pineapple,,Ananas,comosus,21.52061111,-158.0703056,2000-04-07,2000,h7eanco1,veg,ANCO30,USDA Plants,asd-fs,FALSE
+pineapple,,Ananas,comosus,21.52061111,-158.0703056,2000-04-07,2000,h7eanco2,veg,ANCO30,USDA Plants,asd-fs,FALSE
+pineapple,,Ananas,comosus,21.52061111,-158.0703056,2000-04-07,2000,h7eanco3,veg,ANCO30,USDA Plants,asd-fs,FALSE
+pineapple,,Ananas,comosus,21.52061111,-158.0703056,2000-04-07,2000,h7eanco4,veg,ANCO30,USDA Plants,asd-fs,FALSE
+beach naupaka,,Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse1,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,,Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse2,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,,Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse3,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,,Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse4,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,,Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse5,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,"healthier, greener, lusher",Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse6,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,"healthier, greener, lusher",Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse7,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,"healthier, greener, lusher",Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse8,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,"healthier, greener, lusher",Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse9,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,"woodier, less dense",Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse10,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,"woodier, less dense",Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse11,veg,SCSE6,USDA Plants,asd-fs,FALSE
+beach naupaka,"woodier, less dense",Scaevola,sericea,19.99113889,-155.8256944,2000-04-11,2000,h11escse12,veg,SCSE6,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"dried out, no seeds",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese1,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"dried out, no seeds",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese2,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"dried out, no seeds",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese3,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,greener,Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese4,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,slightly green,Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese5,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,taller,Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese6,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,greener with seeds,Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese7,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"greener, no seeds",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese8,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"greener, little dead material",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese9,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"greener, little dead material",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese10,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"greener, little dead material",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese11,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,"greener, little dead material",Pennisetum,setaceum,19.99063889,-155.8250556,2000-04-11,2000,h11fpese12,veg,PESE3,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,19.99036111,-155.8238889,2000-04-11,2000,h11gprpa1,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,19.99036111,-155.8238889,2000-04-11,2000,h11gprpa2,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,19.99036111,-155.8238889,2000-04-11,2000,h11gprpa3,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,19.99036111,-155.8238889,2000-04-11,2000,h11gprpa4,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,19.99036111,-155.8238889,2000-04-11,2000,h11gprpa5,veg,PRPA4,USDA Plants,asd-fs,FALSE
+alaweo,,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa1,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa2,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa3,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa4,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa5,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,dried out,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa6,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,greener,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa7,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,greener,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa8,veg,CHOA,USDA Plants,asd-fs,FALSE
+naio,,Myoporum,sandwicense,19.73177778,-155.5348056,2000-04-11,2000,h11hmysa1,veg,MYSA,USDA Plants,asd-fs,FALSE
+naio,,Myoporum,sandwicense,19.73177778,-155.5348056,2000-04-11,2000,h11hmysa2,veg,MYSA,USDA Plants,asd-fs,FALSE
+naio,"inc. black, dried fruit",Myoporum,sandwicense,19.73177778,-155.5348056,2000-04-11,2000,h11hmysa3,veg,MYSA,USDA Plants,asd-fs,FALSE
+naio,,Myoporum,sandwicense,19.73177778,-155.5348056,2000-04-11,2000,h11hmysa4,veg,MYSA,USDA Plants,asd-fs,FALSE
+naio,"stems, no leaves",Myoporum,sandwicense,19.73177778,-155.5348056,2000-04-11,2000,h11hmysa5,veg,MYSA,USDA Plants,asd-fs,FALSE
+naio,,Myoporum,sandwicense,19.73177778,-155.5348056,2000-04-11,2000,h11hmysa6,veg,MYSA,USDA Plants,asd-fs,FALSE
+mamani,,Sophora,chrysophylla,19.73177778,-155.5348056,2000-04-11,2000,h11hsoch1,veg,SOCH,USDA Plants,asd-fs,FALSE
+mamani,,Sophora,chrysophylla,19.73177778,-155.5348056,2000-04-11,2000,h11hsoch2,veg,SOCH,USDA Plants,asd-fs,FALSE
+mamani,,Sophora,chrysophylla,19.73177778,-155.5348056,2000-04-11,2000,h11hsoch3,veg,SOCH,USDA Plants,asd-fs,FALSE
+mamani,,Sophora,chrysophylla,19.73177778,-155.5348056,2000-04-11,2000,h11hsoch4,veg,SOCH,USDA Plants,asd-fs,FALSE
+mamani,,Sophora,chrysophylla,19.73177778,-155.5348056,2000-04-11,2000,h11hsoch5,veg,SOCH,USDA Plants,asd-fs,FALSE
+mamani,,Sophora,chrysophylla,19.73177778,-155.5348056,2000-04-11,2000,h11hsoch6,veg,SOCH,USDA Plants,asd-fs,FALSE
+mamani,,Sophora,chrysophylla,19.73177778,-155.5348056,2000-04-11,2000,h11hsoch7,veg,SOCH,USDA Plants,asd-fs,FALSE
+alaweo,with seed heads,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa9,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,with seed heads,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa10,veg,CHOA,USDA Plants,asd-fs,FALSE
+alaweo,with seed heads,Chenopodium,oahuense,19.73177778,-155.5348056,2000-04-11,2000,h11hchoa11,veg,CHOA,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,,,2000-04-12,2000,h12amepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,,,2000-04-12,2000,h12amepo2,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,,,2000-04-12,2000,h12amepo3,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,,,2000-04-12,2000,h12amepo4,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,,,2000-04-12,2000,h12bmepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,fruit,Metrosideros,polymorphia,,,2000-04-12,2000,h12bmepo2,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,fruit,Metrosideros,polymorphia,,,2000-04-12,2000,h12bmepo3,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,flower,Metrosideros,polymorphia,,,2000-04-12,2000,h12bmepo4,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,leaves,Metrosideros,polymorphia,,,2000-04-12,2000,h12bmepo5,veg,MEPO5,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,,,2000-04-12,2000,h12bstta1,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,,,2000-04-12,2000,h12bstta2,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,,,2000-04-12,2000,h12bstta3,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,,,2000-04-12,2000,h12bstta4,veg,STTA,USDA Plants,asd-fs,FALSE
+Colombian bluestem,dead,Schzachyrium,condensatum,,,2000-04-12,2000,h12bscco1,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Colombian bluestem,dead,Schzachyrium,condensatum,,,2000-04-12,2000,h12bscco2,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Colombian bluestem,dead,Schzachyrium,condensatum,,,2000-04-12,2000,h12bscco3,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Colombian bluestem,live,Schzachyrium,condensatum,,,2000-04-12,2000,h12bscco4,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Colombian bluestem,live,Schzachyrium,condensatum,,,2000-04-12,2000,h12bscco5,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Colombian bluestem,live,Schzachyrium,condensatum,,,2000-04-12,2000,h12bscco6,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Florida hopbush,no flowers or fruits,Dodonaea,viscosa,,,2000-04-12,2000,h12bdovi1,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,,,2000-04-12,2000,h12bdovi2,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,,,2000-04-12,2000,h12bdovi3,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,,,2000-04-12,2000,h12bdovi4,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,19.43702778,-155.3016111,2000-04-12,2000,h12cdovi1,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,19.43702778,-155.3016111,2000-04-12,2000,h12cdovi2,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,19.43702778,-155.3016111,2000-04-12,2000,h12cdovi3,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,19.43702778,-155.3016111,2000-04-12,2000,h12cdovi4,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,19.43702778,-155.3016111,2000-04-12,2000,h12cdovi5,veg,DOVI,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.43702778,-155.3016111,2000-04-12,2000,h12cstta1,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.43702778,-155.3016111,2000-04-12,2000,h12cstta2,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.43702778,-155.3016111,2000-04-12,2000,h12cstta3,veg,STTA,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12dacko1,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12dacko2,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12dacko3,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12dacko4,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12dacko5,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12dacko6,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12dacko7,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko1,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko2,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,immature,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko3,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,immature,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko4,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,"some leaves, some petules, semi-mature",Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko5,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,"some leaves, some petules, semi-mature",Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko6,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,"some leaves, some petules, semi-mature",Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko7,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,mature,Acacia,koa,19.47086111,-155.3046667,2000-04-12,2000,h12eacko8,veg,ACKO,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.47086111,-155.3046667,2000-04-12,2000,h12estta1,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.47086111,-155.3046667,2000-04-12,2000,h12estta2,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.47086111,-155.3046667,2000-04-12,2000,h12estta3,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.47086111,-155.3046667,2000-04-12,2000,h12estta4,veg,STTA,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl1,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl2,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl3,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl4,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl5,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl6,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl7,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,,Cibotium,glaucum,19.44316667,-155.3213611,2000-04-12,2000,h12fcigl8,veg,CIGL,USDA Plants,asd-fs,FALSE
+,"green grass, species unkown. possibly Deschampsia?",,,19.44316667,-155.3213611,2000-04-12,2000,h12fgrass1,veg,,USDA Plants,asd-fs,FALSE
+,"green grass, species unkown. possibly Deschampsia?",,,19.44316667,-155.3213611,2000-04-12,2000,h12fgrass2,veg,,USDA Plants,asd-fs,FALSE
+,"green grass, species unkown. possibly Deschampsia?",,,19.44316667,-155.3213611,2000-04-12,2000,h12fgrass3,veg,,USDA Plants,asd-fs,FALSE
+,"green grass, species unkown. possibly Deschampsia?",,,19.44316667,-155.3213611,2000-04-12,2000,h12fgrass4,veg,,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,leaves pretty yellow,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa1,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,leaves pretty yellow,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa2,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,leaves pretty yellow,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa3,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa4,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa5,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,greener leaves,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa6,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa7,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,berries,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa8,veg,SASA4,USDA Plants,asd-fs,FALSE
+wingleaf soapberry,berries + leaves,Sapindus,saponaria,19.43961111,-155.30825,2000-04-12,2000,h12gsapsa9,veg,SASA4,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,19.43961111,-155.30825,2000-04-12,2000,h12hgrro1,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,19.43961111,-155.30825,2000-04-12,2000,h12hgrro2,veg,GRRO,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,leaves,Metrosideros,polymorphia,19.43961111,-155.30825,2000-04-12,2000,h12jmepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+Old World forkedfern,medium healthy,Dicranopteris,linearis,19.43961111,-155.30825,2000-04-12,2000,h12kdili1,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,,Dicranopteris,linearis,19.43961111,-155.30825,2000-04-12,2000,h12kdili2,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,,Dicranopteris,linearis,19.43961111,-155.30825,2000-04-12,2000,h12kdili3,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,,Dicranopteris,linearis,19.43961111,-155.30825,2000-04-12,2000,h12kdili4,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,,Dicranopteris,linearis,19.43961111,-155.30825,2000-04-12,2000,h12kdili5,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,,Dicranopteris,linearis,19.43961111,-155.30825,2000-04-12,2000,h12kdili6,veg,DILI,USDA Plants,asd-fs,FALSE
+silkoak,leaves,Grevillea,robusta,19.30622222,-155.4139722,2000-04-13,2000,h13agrro1,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,leaves,Grevillea,robusta,19.30622222,-155.4139722,2000-04-13,2000,h13agrro2,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,"flowers, stamen (yellow)",Grevillea,robusta,19.30622222,-155.4139722,2000-04-13,2000,h13agrro3,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,flowers (red),Grevillea,robusta,19.30622222,-155.4139722,2000-04-13,2000,h13agrro4,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,leaves (greener),Grevillea,robusta,19.30622222,-155.4139722,2000-04-13,2000,h13agrro5,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,flowers (red),Grevillea,robusta,19.30622222,-155.4139722,2000-04-13,2000,h13agrro6,veg,GRRO,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,19.30622222,-155.4139722,2000-04-13,2000,h13amepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,more sticks,Metrosideros,polymorphia,19.30622222,-155.4139722,2000-04-13,2000,h13amepo2,veg,MEPO5,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,green leaves/some berries (berries young),Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan1,veg,OSAN,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,green leaves/some berries (berries young),Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan2,veg,OSAN,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,green leaves/some berries (berries young),Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan3,veg,OSAN,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,green leaves/some berries (berries young),Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan4,veg,OSAN,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,ulei & some sticks,Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan5,veg,OSAN,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,green,Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan6,veg,OSAN,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,"browner, oranger leaves",Metrosideros,polymorphia,19.40716667,-155.3285,2000-04-13,2000,h13bmepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,green leaves,Metrosideros,polymorphia,19.40716667,-155.3285,2000-04-13,2000,h13bmepo2,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,leaves + berry cluster,Metrosideros,polymorphia,19.40716667,-155.3285,2000-04-13,2000,h13bmepo3,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,red bloom,Metrosideros,polymorphia,19.40716667,-155.3285,2000-04-13,2000,h13bmepo4,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,green leaves,Metrosideros,polymorphia,19.40716667,-155.3285,2000-04-13,2000,h13bmepo5,veg,MEPO5,USDA Plants,asd-fs,FALSE
+molassesgrass,1/2 live 1/2 dead,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi1,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,green,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi2,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,1/2 dead,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi3,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,green,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi4,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,green,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi5,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,dead,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi6,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,dead,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi7,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,dead,Melinis,minutiflora,19.40716667,-155.3285,2000-04-13,2000,h13bmemi8,veg,MEMI2,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,"young, bright green no berries",Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan7,veg,OSAN,USDA Plants,asd-fs,FALSE
+Hawai'i hawthorn,"older ulei, with berries",Osteomeles,anthyllidifolia,19.40716667,-155.3285,2000-04-13,2000,h13bosan8,veg,OSAN,USDA Plants,asd-fs,FALSE
+Florida hopbush,"green, young",Dodonaea,viscosa,19.40716667,-155.3285,2000-04-13,2000,h13bdovi1,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"green, young",Dodonaea,viscosa,19.40716667,-155.3285,2000-04-13,2000,h13bdovi2,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"green, young",Dodonaea,viscosa,19.40716667,-155.3285,2000-04-13,2000,h13bdovi3,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"green, young",Dodonaea,viscosa,19.40716667,-155.3285,2000-04-13,2000,h13bdovi4,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"green, young",Dodonaea,viscosa,19.40716667,-155.3285,2000-04-13,2000,h13bdovi5,veg,DOVI,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.40716667,-155.3285,2000-04-13,2000,h13bstta1,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.40716667,-155.3285,2000-04-13,2000,h13bstta2,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameae,19.40716667,-155.3285,2000-04-13,2000,h13bstta3,veg,STTA,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili1,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili2,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili3,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili4,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili5,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,dead,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili6,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,dead,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili7,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,dead,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili8,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,dead,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili9,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili10,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili11,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,green,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili12,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,1/2 live/dead,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili13,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,1/2 live/dead,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili14,veg,DILI,USDA Plants,asd-fs,FALSE
+Old World forkedfern,1/2 live/dead,Dicranopteris,linearis,19.43008333,-155.2835278,2000-04-13,2000,h13cdili15,veg,DILI,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,very green,Metrosideros,polymorphia,19.43008333,-155.2835278,2000-04-13,2000,h13cmepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,very green,Metrosideros,polymorphia,19.43008333,-155.2835278,2000-04-13,2000,h13cmepo2,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,"very green (new growth, light green)",Metrosideros,polymorphia,19.43008333,-155.2835278,2000-04-13,2000,h13cmepo3,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,"very green (new growth, light green)",Metrosideros,polymorphia,19.43008333,-155.2835278,2000-04-13,2000,h13cmepo4,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,"older, green",Metrosideros,polymorphia,19.43008333,-155.2835278,2000-04-13,2000,h13cmepo5,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,ohia w/ epiphyte,Metrosideros,polymorphia,19.43008333,-155.2835278,2000-04-13,2000,h13cmepo6,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,ohia w/ epiphyte,Metrosideros,polymorphia,19.43008333,-155.2835278,2000-04-13,2000,h13cmepo7,veg,MEPO5,USDA Plants,asd-fs,FALSE
+hapu'u,young,Cibotium,glaucum,19.43008333,-155.2835278,2000-04-13,2000,h13ccigl1,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,young,Cibotium,glaucum,19.43008333,-155.2835278,2000-04-13,2000,h13ccigl2,veg,CIGL,USDA Plants,asd-fs,FALSE
+molassesgrass,"green, healthy",Melinis,minutiflora,19.43008333,-155.2835278,2000-04-13,2000,h13cmemi1,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,"green, healthy",Melinis,minutiflora,19.43008333,-155.2835278,2000-04-13,2000,h13cmemi2,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,"green, healthy",Melinis,minutiflora,19.43008333,-155.2835278,2000-04-13,2000,h13cmemi3,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,live + dead,Melinis,minutiflora,19.43008333,-155.2835278,2000-04-13,2000,h13cmemi4,veg,MEMI2,USDA Plants,asd-fs,FALSE
+molassesgrass,live + dead (more dead),Melinis,minutiflora,19.43008333,-155.2835278,2000-04-13,2000,h13cmemi5,veg,MEMI2,USDA Plants,asd-fs,FALSE
+Colombian bluestem,live w/ dead molasses grass underneath,Schzachyrium,condemsatum,19.43008333,-155.2835278,2000-04-13,2000,h13cscco1,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Colombian bluestem,live w/ dead molasses grass underneath,Schzachyrium,condemsatum,19.43008333,-155.2835278,2000-04-13,2000,h13cscco2,veg,SCCO10,USDA Plants,asd-fs,FALSE
+Colombian bluestem,live w/ dead molasses grass underneath,Schzachyrium,condemsatum,19.43008333,-155.2835278,2000-04-13,2000,h13cscco3,veg,SCCO10,USDA Plants,asd-fs,FALSE
+hapu'u,green,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl1,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,green,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl2,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,green,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl3,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,green,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl4,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,green,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl5,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,green,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl6,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,mostly brown leaves,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl7,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,brown + green leaves,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl8,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,green,Cibotium,glaucum,19.40797222,-155.2488056,2000-04-13,2000,h13dcigl9,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,very green frond at 45 deg. to sun,Cibotium,glaucum,,,2000-04-13,2000,h13ecigl1,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,dying,Cibotium,glaucum,,,2000-04-13,2000,h13ecigl2,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,"less healthy, away from sun",Cibotium,glaucum,,,2000-04-13,2000,h13ecigl3,veg,CIGL,USDA Plants,asd-fs,FALSE
+hapu'u,healthy,Cibotium,glaucum,,,2000-04-13,2000,h13ecigl4,veg,CIGL,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,green leaves,Metrosideros,polymorphia,,,2000-04-13,2000,h13emepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,with scales,Metrosideros,polymorphia,,,2000-04-13,2000,h13emepo2,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,new growth,Metrosideros,polymorphia,,,2000-04-13,2000,h13emepo3,veg,MEPO5,USDA Plants,asd-fs,FALSE
+hapu'u,mostly healthy,Cibotium,glaucum,,,2000-04-13,2000,h13ecigl5,veg,CIGL,USDA Plants,asd-fs,FALSE
+Colombian bluestem,dead,Schzachyrium,condemsatum,,,2000-04-13,2000,h13escco1,veg,SCCO10,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,,,2000-04-13,2000,h13emyfa1,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,,,2000-04-13,2000,h13emyfa2,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,some clouds,Myrica,faya,,,2000-04-13,2000,h13emyfa3,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,young,Myrica,faya,,,2000-04-13,2000,h13fmyfa1,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,older,Myrica,faya,,,2000-04-13,2000,h13fmyfa2,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,older,Myrica,faya,,,2000-04-13,2000,h13fmyfa3,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,young - new growth,Myrica,faya,,,2000-04-13,2000,h13fmyfa4,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,young,Myrica,faya,,,2000-04-13,2000,h13fmyfa5,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,young,Myrica,faya,,,2000-04-13,2000,h13fmyfa6,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,young,Myrica,faya,,,2000-04-13,2000,h13fmyfa7,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,young,Myrica,faya,,,2000-04-13,2000,h13fmyfa8,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,young,Myrica,faya,,,2000-04-13,2000,h13fmyfa9,veg,MOFA,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.75855556,-155.9641667,2000-04-14,2000,h14ascte1,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.75855556,-155.9641667,2000-04-14,2000,h14ascte2,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,new growth,Schinus,terebinthifolius,19.75855556,-155.9641667,2000-04-14,2000,h14ascte3,veg,SCTE,USDA Plants,asd-fs,FALSE
+white leadtree,small,Leucaena,leucocephala,19.84619444,-155.7415,2000-04-14,2000,h14blele1,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,small,Leucaena,leucocephala,19.84619444,-155.7415,2000-04-14,2000,h14blele2,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,small,Leucaena,leucocephala,19.84619444,-155.7415,2000-04-14,2000,h14blele3,veg,LELE10,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,19.84619444,-155.7415,2000-04-14,2000,h14bdovi1,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,,Dodonaea,viscosa,19.84619444,-155.7415,2000-04-14,2000,h14bdovi2,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,w/ dead,Dodonaea,viscosa,19.84619444,-155.7415,2000-04-14,2000,h14bdovi3,veg,DOVI,USDA Plants,asd-fs,FALSE
+white leadtree,some clouds,Leucaena,leucocephala,19.84619444,-155.7415,2000-04-14,2000,h14blele4,veg,LELE10,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,19.83547222,-155.7859722,2000-04-14,2000,h14claca1,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,19.83547222,-155.7859722,2000-04-14,2000,h14claca2,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,19.83547222,-155.7859722,2000-04-14,2000,h14claca3,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,some clouds,Lantana,camara,19.83547222,-155.7859722,2000-04-14,2000,h14claca4,veg,LACA2,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,19.86427778,-155.7292778,2000-04-14,2000,h14dlele1,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,flowers,Leucaena,leucocephala,19.86427778,-155.7292778,2000-04-14,2000,h14dlele2,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,flowers,Leucaena,leucocephala,19.86427778,-155.7292778,2000-04-14,2000,h14dlele3,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,19.86427778,-155.7292778,2000-04-14,2000,h14dlele4,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,19.86427778,-155.7292778,2000-04-14,2000,h14dlele5,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,19.86427778,-155.7292778,2000-04-14,2000,h14dlele6,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,flowers,Leucaena,leucocephala,19.86427778,-155.7292778,2000-04-14,2000,h14dlele7,veg,LELE10,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,with seed heads,Pennisetum,setaceum,19.86427778,-155.7292778,2000-04-14,2000,h14dpese1,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,with seed heads,Pennisetum,setaceum,19.86427778,-155.7292778,2000-04-14,2000,h14dpese2,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,with seed heads,Pennisetum,setaceum,19.86427778,-155.7292778,2000-04-14,2000,h14dpese3,veg,PESE3,USDA Plants,asd-fs,FALSE
+common gorse,no flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu1,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,no flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu2,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,no flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu3,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,with flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu4,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,with flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu5,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,partially dead,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu6,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,1/2 dead,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu7,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,with dead flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu8,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,mostly green,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu9,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,entirely dead,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu10,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,entirely dead,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu11,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,with flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu12,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,very green,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu13,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,flowers,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu15,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,green,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu16,veg,ULEU,USDA Plants,asd-fs,FALSE
+common gorse,drier gorse,Ulex,europaeus,19.68755556,-155.4462778,2000-04-14,2000,h14fuleu17,veg,ULEU,USDA Plants,asd-fs,FALSE
+lantana,flowers,Lantana,camara,19.76283333,-155.9557222,2000-04-15,2000,h15alaca1,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,flowers,Lantana,camara,19.76283333,-155.9557222,2000-04-15,2000,h15alaca2,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,"flowers, some clouds",Lantana,camara,19.76283333,-155.9557222,2000-04-15,2000,h15alaca3,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca4,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca5,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca6,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves and flowers,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca7,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves and flowers,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca8,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves and flowers,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca9,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves and flowers,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca10,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves and flowers,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca11,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,leaves and flowers,Lantana,camara,19.77494444,-155.9216667,2000-04-15,2000,h15alaca12,veg,LACA2,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,,Pennisetum,setaceum,19.77494444,-155.9216667,2000-04-15,2000,h15apese1,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,,Pennisetum,setaceum,19.77494444,-155.9216667,2000-04-15,2000,h15apese2,veg,PESE3,USDA Plants,asd-fs,FALSE
+crimson fountaingrass,,Pennisetum,setaceum,19.77494444,-155.9216667,2000-04-15,2000,h15apese3,veg,PESE3,USDA Plants,asd-fs,FALSE
+castorbean,leaves,Ricinus,communis,19.77494444,-155.9216667,2000-04-15,2000,h15arico1,veg,RICO3,USDA Plants,asd-fs,FALSE
+castorbean,leaves,Ricinus,communis,19.77494444,-155.9216667,2000-04-15,2000,h15arico2,veg,RICO3,USDA Plants,asd-fs,FALSE
+castorbean,leaves,Ricinus,communis,19.77494444,-155.9216667,2000-04-15,2000,h15arico3,veg,RICO3,USDA Plants,asd-fs,FALSE
+castorbean,castor bean pods,Ricinus,communis,19.77494444,-155.9216667,2000-04-15,2000,h15arico4,veg,RICO3,USDA Plants,asd-fs,FALSE
+white leadtree,,Leucaena,leucocephala,19.77494444,-155.9216667,2000-04-15,2000,h15alele1,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,,Leucaena,leucocephala,19.77494444,-155.9216667,2000-04-15,2000,h15alele2,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,,Leucaena,leucocephala,19.77494444,-155.9216667,2000-04-15,2000,h15alele3,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,koa haole pods,Leucaena,leucocephala,19.77494444,-155.9216667,2000-04-15,2000,h15alele4,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,koa haole pods,Leucaena,leucocephala,19.77494444,-155.9216667,2000-04-15,2000,h15alele5,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,koa haole pods,Leucaena,leucocephala,19.77494444,-155.9216667,2000-04-15,2000,h15alele6,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,flowers,Leucaena,leucocephala,19.77494444,-155.9216667,2000-04-15,2000,h15alele7,veg,LELE10,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76291667,-155.9552778,2000-04-15,2000,h15bscte1,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76291667,-155.9552778,2000-04-15,2000,h15bscte2,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76291667,-155.9552778,2000-04-15,2000,h15bscte3,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76291667,-155.9552778,2000-04-15,2000,h15bscte4,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76291667,-155.9552778,2000-04-15,2000,h15bscte5,veg,SCTE,USDA Plants,asd-fs,FALSE
+silkoak,new growth,Grevillea,robusta,19.76283333,-155.9557222,2000-04-15,2000,h15bgrro1,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,new growth,Grevillea,robusta,19.76283333,-155.9557222,2000-04-15,2000,h15bgrro2,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,new growth,Grevillea,robusta,19.76283333,-155.9557222,2000-04-15,2000,h15bgrro3,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,older growth,Grevillea,robusta,19.76283333,-155.9557222,2000-04-15,2000,h15bgrro4,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,older growth,Grevillea,robusta,19.76283333,-155.9557222,2000-04-15,2000,h15bgrro5,veg,GRRO,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76283333,-155.9557222,2000-04-15,2000,h15bscte6,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76283333,-155.9557222,2000-04-15,2000,h15bscte7,veg,SCTE,USDA Plants,asd-fs,FALSE
+Brazilian peppertree,,Schinus,terebinthifolius,19.76283333,-155.9557222,2000-04-15,2000,h15bscte8,veg,SCTE,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,19.76283333,-155.9557222,2000-04-15,2000,h15blaca1,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,19.76283333,-155.9557222,2000-04-15,2000,h15blaca2,veg,LACA2,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,19.76283333,-155.9557222,2000-04-15,2000,h15bgrro6,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,19.76283333,-155.9557222,2000-04-15,2000,h15bgrro7,veg,GRRO,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa1,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa2,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa3,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa4,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa5,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa6,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa7,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa8,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa9,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa10,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa11,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa12,veg,SASA10,USDA Plants,asd-fs,FALSE
+raintree,,Samanea,saman,21.97958333,-159.7156111,2000-04-17,2000,h17asasa13,veg,SASA10,USDA Plants,asd-fs,FALSE
+guineagrass,,Panicum,maximum,21.97919444,-159.7149444,2000-04-17,2000,h17apama1,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,,Panicum,maximum,21.97919444,-159.7149444,2000-04-17,2000,h17apama2,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,,Panicum,maximum,21.97919444,-159.7149444,2000-04-17,2000,h17apama3,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,,Panicum,maximum,21.97919444,-159.7149444,2000-04-17,2000,h17apama4,veg,URMA3,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.97919444,-159.7149444,2000-04-17,2000,h17asycu1,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.97919444,-159.7149444,2000-04-17,2000,h17asycu2,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.97919444,-159.7149444,2000-04-17,2000,h17asycu3,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.97919444,-159.7149444,2000-04-17,2000,h17asycu4,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.97919444,-159.7149444,2000-04-17,2000,h17asycu5,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.97919444,-159.7149444,2000-04-17,2000,h17asycu6,veg,SYCU,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca1,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca2,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca3,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca4,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca5,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca6,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca7,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,,Spathodea,campanulata,21.92075,-159.6246667,2000-04-18,2000,h18bspca8,veg,SPCA2,USDA Plants,asd-fs,FALSE
+glossy shower,leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu1,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu2,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu3,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu4,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,flowers+leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu5,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,flowers+leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu6,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,flowers+leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu7,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,flowers+leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu8,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,flowers+leaves+pods,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu9,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,"unhealthy, drier",Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu10,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,"unhealthy, drier",Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu11,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,"unhealthy, drier",Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu12,veg,SESU4,USDA Plants,asd-fs,FALSE
+glossy shower,healthy,Senna,surattensis,21.93022222,-159.6370278,2000-04-18,2000,h18bsesu13,veg,SESU4,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug1,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug2,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug3,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug4,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug5,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug6,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug7,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug8,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug9,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug10,veg,BOUGA,USDA Plants,asd-fs,FALSE
+bougainvillea,,Bougainvillea,Comm. ex. Jess,21.93022222,-159.6370278,2000-04-18,2000,h18bboug11,veg,BOUGA,USDA Plants,asd-fs,FALSE
+African tuliptree,flower,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca9,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,flower,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca10,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,flower,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca11,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,leaves,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca12,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,leaves,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca13,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,leaves + flowers,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca14,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,leaves + flowers,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca15,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,leaves,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca16,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,leaves,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca17,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,flower,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca18,veg,SPCA2,USDA Plants,asd-fs,FALSE
+African tuliptree,flower,Spathodea,campanulata,21.92336111,-159.6276944,2000-04-18,2000,h18bspca19,veg,SPCA2,USDA Plants,asd-fs,FALSE
+,,,,21.92336111,-159.6276944,2000-04-18,2000,h18bsoil1,soil,,USDA Plants,asd-fs,FALSE
+,,,,21.92336111,-159.6276944,2000-04-18,2000,h18bsoil2,soil,,USDA Plants,asd-fs,FALSE
+,,,,21.92336111,-159.6276944,2000-04-18,2000,h18bsoil3,soil,,USDA Plants,asd-fs,FALSE
+,,,,21.92336111,-159.6276944,2000-04-18,2000,h18bsoil4,soil,,USDA Plants,asd-fs,FALSE
+Florida hopbush,"w/ dried seed pods, greener leaves",Dodonaea,viscosa,21.92336111,-159.6276944,2000-04-18,2000,h18bdovi1,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"w/ dried seed pods, greener leaves",Dodonaea,viscosa,21.92336111,-159.6276944,2000-04-18,2000,h18bdovi2,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"w/ dried seed pods, greener leaves",Dodonaea,viscosa,21.92336111,-159.6276944,2000-04-18,2000,h18bdovi3,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"w/ dried seed pods, greener leaves",Dodonaea,viscosa,21.92336111,-159.6276944,2000-04-18,2000,h18bdovi4,veg,DOVI,USDA Plants,asd-fs,FALSE
+Florida hopbush,"w/ dried seed pods, greener leaves",Dodonaea,viscosa,21.92336111,-159.6276944,2000-04-18,2000,h18bdovi5,veg,DOVI,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.92336111,-159.6276944,2000-04-18,2000,h18bsycu1,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.92336111,-159.6276944,2000-04-18,2000,h18bsycu2,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.92336111,-159.6276944,2000-04-18,2000,h18bsycu3,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.92336111,-159.6276944,2000-04-18,2000,h18bsycu4,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.92336111,-159.6276944,2000-04-18,2000,h18bsycu5,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,21.92336111,-159.6276944,2000-04-18,2000,h18bsycu6,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,new growth,Syzygium,cumini,21.92336111,-159.6276944,2000-04-18,2000,h18bsycu7,veg,SYCU,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,21.92336111,-159.6276944,2000-04-18,2000,h18bgrro1,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,21.92336111,-159.6276944,2000-04-18,2000,h18bgrro2,veg,GRRO,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba1,veg,GRBA,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba2,veg,GRBA,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba3,veg,GRBA,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba4,veg,GRBA,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba5,veg,GRBA,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba6,veg,GRBA,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba7,veg,GRBA,USDA Plants,asd-fs,FALSE
+kahiliflower,,Grevillea,banksii,21.92336111,-159.6276944,2000-04-18,2000,h18bgrba8,veg,GRBA,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.92336111,-159.6276944,2000-04-18,2000,h18blele1,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.92336111,-159.6276944,2000-04-18,2000,h18blele2,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.92336111,-159.6276944,2000-04-18,2000,h18blele3,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,pods + leaves,Leucaena,leucocephala,21.92336111,-159.6276944,2000-04-18,2000,h18blele4,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,pods + leaves,Leucaena,leucocephala,21.92336111,-159.6276944,2000-04-18,2000,h18blele5,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,pods + leaves,Leucaena,leucocephala,21.92336111,-159.6276944,2000-04-18,2000,h18blele6,veg,LELE10,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,21.92336111,-159.6276944,2000-04-18,2000,h18bgrro3,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,21.92336111,-159.6276944,2000-04-18,2000,h18bgrro4,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,21.92336111,-159.6276944,2000-04-18,2000,h18bgrro5,veg,GRRO,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar1,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar2,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar3,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar4,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar5,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar6,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar7,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar8,veg,COAR2,USDA Plants,asd-fs,FALSE
+Arabian coffee,,Coffea,arabica,21.91997222,-159.5624444,2000-04-18,2000,h18bcoar9,veg,COAR2,USDA Plants,asd-fs,FALSE
+,,,,21.91997222,-159.5624444,2000-04-18,2000,h18bsoil5,soil,,USDA Plants,asd-fs,FALSE
+,,,,21.91997222,-159.5624444,2000-04-18,2000,h18bsoil6,soil,,USDA Plants,asd-fs,FALSE
+,,,,21.91997222,-159.5624444,2000-04-18,2000,h18bsoil7,soil,,USDA Plants,asd-fs,FALSE
+,,,,21.91997222,-159.5624444,2000-04-18,2000,h18bsoil8,soil,,USDA Plants,asd-fs,FALSE
+rose Natal grass,,Rhynchelytrum,repens,21.91997222,-159.5624444,2000-04-18,2000,h18brhre1,veg,MERE9,USDA Plants,asd-fs,FALSE
+rose Natal grass,,Rhynchelytrum,repens,21.91997222,-159.5624444,2000-04-18,2000,h18brhre2,veg,MERE9,USDA Plants,asd-fs,FALSE
+rose Natal grass,,Rhynchelytrum,repens,21.91997222,-159.5624444,2000-04-18,2000,h18brhre3,veg,MERE9,USDA Plants,asd-fs,FALSE
+rose Natal grass,,Rhynchelytrum,repens,21.91997222,-159.5624444,2000-04-18,2000,h18brhre4,veg,MERE9,USDA Plants,asd-fs,FALSE
+rose Natal grass,,Rhynchelytrum,repens,21.91997222,-159.5624444,2000-04-18,2000,h18brhre5,veg,MERE9,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco1,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco2,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco3,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco4,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco5,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco6,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco7,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco8,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco9,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco10,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco11,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco12,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco13,veg,ACCO,USDA Plants,asd-fs,FALSE
+small Philippine acacia,,Acacia,confusa,21.92452778,-159.5373889,2000-04-18,2000,h18cacco14,veg,ACCO,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu1,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu2,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu3,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu4,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu5,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu6,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu7,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu8,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu9,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu10,veg,PSGU,USDA Plants,asd-fs,FALSE
+guava,,Psidium,guajava,22.02069444,-159.6742222,2000-04-19,2000,h19apsgu11,veg,PSGU,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.02069444,-159.6742222,2000-04-19,2000,h19apecl1,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.02069444,-159.6742222,2000-04-19,2000,h19apecl2,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.02069444,-159.6742222,2000-04-19,2000,h19apecl3,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.02069444,-159.6742222,2000-04-19,2000,h19apecl4,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.02069444,-159.6742222,2000-04-19,2000,h19apecl5,veg,PECL2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02069444,-159.6742222,2000-04-19,2000,h19alaca1,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02069444,-159.6742222,2000-04-19,2000,h19alaca2,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02069444,-159.6742222,2000-04-19,2000,h19alaca3,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02069444,-159.6742222,2000-04-19,2000,h19alaca4,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02069444,-159.6742222,2000-04-19,2000,h19alaca5,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02069444,-159.6742222,2000-04-19,2000,h19alaca6,veg,LACA2,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02591667,-159.6728611,2000-04-19,2000,h19bacme1,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02591667,-159.6728611,2000-04-19,2000,h19bacme2,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02591667,-159.6728611,2000-04-19,2000,h19bacme3,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02591667,-159.6728611,2000-04-19,2000,h19bacme4,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,field of view probably includes some soil,Acacia,mearnsii,22.02591667,-159.6728611,2000-04-19,2000,h19bacme5,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02591667,-159.6728611,2000-04-19,2000,h19bacme6,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02591667,-159.6728611,2000-04-19,2000,h19bacme7,veg,ACME80,USDA Plants,asd-fs,FALSE
+lantana,some sticks,Lantana,camara,22.02591667,-159.6728611,2000-04-19,2000,h19blaca1,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02591667,-159.6728611,2000-04-19,2000,h19blaca2,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.02591667,-159.6728611,2000-04-19,2000,h19blaca3,veg,LACA2,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02533333,-159.6726389,2000-04-19,2000,h19bacme8,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02533333,-159.6726389,2000-04-19,2000,h19bacme9,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02533333,-159.6726389,2000-04-19,2000,h19bacme10,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02533333,-159.6726389,2000-04-19,2000,h19bacme11,veg,ACME80,USDA Plants,asd-fs,FALSE
+,basalt,,,22.02533333,-159.6726389,2000-04-19,2000,h19bbas1,rock,,USDA Plants,asd-fs,FALSE
+silkoak,very green,Grevillea,robusta,22.02533333,-159.6726389,2000-04-19,2000,h19bgrro1,veg,GRRO,USDA Plants,asd-fs,FALSE
+silkoak,,Grevillea,robusta,22.02533333,-159.6726389,2000-04-19,2000,h19bgrro2,veg,GRRO,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02558333,-159.6723889,2000-04-19,2000,h19bacme12,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02558333,-159.6723889,2000-04-19,2000,h19bacme13,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02558333,-159.6723889,2000-04-19,2000,h19bacme14,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02558333,-159.6723889,2000-04-19,2000,h19bacme15,veg,ACME80,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko1,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko2,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko3,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko4,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko5,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko6,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko7,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko8,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko9,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko10,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko11,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,22.02725,-159.6729167,2000-04-19,2000,h19cacko12,veg,ACKO,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02725,-159.6729167,2000-04-19,2000,h19cacme1,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02725,-159.6729167,2000-04-19,2000,h19cacme2,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02725,-159.6729167,2000-04-19,2000,h19cacme3,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02725,-159.6729167,2000-04-19,2000,h19cacme4,veg,ACME80,USDA Plants,asd-fs,FALSE
+black wattle,,Acacia,mearnsii,22.02725,-159.6729167,2000-04-19,2000,h19cacme5,veg,ACME80,USDA Plants,asd-fs,FALSE
+pukiawe,with new growth,Styphelia,tameiameiae,22.02725,-159.6729167,2000-04-19,2000,h19cstta1,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,with new growth,Styphelia,tameiameiae,22.02725,-159.6729167,2000-04-19,2000,h19cstta2,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,with new growth,Styphelia,tameiameiae,22.02725,-159.6729167,2000-04-19,2000,h19cstta3,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,new+old growth styphelia,Styphelia,tameiameiae,22.02725,-159.6729167,2000-04-19,2000,h19cstta4,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,new+old growth styphelia,Styphelia,tameiameiae,22.02725,-159.6729167,2000-04-19,2000,h19cstta5,veg,STTA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca1,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca2,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca3,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca4,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca5,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca6,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca7,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca8,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca9,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca10,veg,PSCA,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro1,veg,EURO2,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro2,veg,EURO2,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro3,veg,EURO2,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro4,veg,EURO2,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro5,veg,EURO2,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro6,veg,EURO2,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro7,veg,EURO2,USDA Plants,asd-fs,FALSE
+swampmahogany,,Eucalyptus,robusta,22.03169444,-159.6715278,2000-04-19,2000,h19deuro8,veg,EURO2,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca11,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca12,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,higher new height,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca13,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,higher new height,Psidium,cattleianum,22.03169444,-159.6715278,2000-04-19,2000,h19dpsca14,veg,PSCA,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,22.11438889,-159.6705,2000-04-19,2000,h19ebavu1,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,22.11438889,-159.6705,2000-04-19,2000,h19ebavu2,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,22.11438889,-159.6705,2000-04-19,2000,h19ebavu3,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,22.11438889,-159.6705,2000-04-19,2000,h19ebavu4,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,22.11438889,-159.6705,2000-04-19,2000,h19ebavu5,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,22.11438889,-159.6705,2000-04-19,2000,h19ebavu6,veg,BAVU2,USDA Plants,asd-fs,FALSE
+lantana,dark green,Lantana,camara,22.11438889,-159.6705,2000-04-19,2000,h19elaca1,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,dark green,Lantana,camara,22.11438889,-159.6705,2000-04-19,2000,h19elaca2,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.11438889,-159.6705,2000-04-19,2000,h19elaca3,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,,Lantana,camara,22.11438889,-159.6705,2000-04-19,2000,h19elaca4,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,with flowers,Lantana,camara,22.11438889,-159.6705,2000-04-19,2000,h19elaca5,veg,LACA2,USDA Plants,asd-fs,FALSE
+lantana,with flowers,Lantana,camara,22.11438889,-159.6705,2000-04-19,2000,h19elaca6,veg,LACA2,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.11438889,-159.6705,2000-04-19,2000,h19epsca1,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.11438889,-159.6705,2000-04-19,2000,h19epsca2,veg,PSCA,USDA Plants,asd-fs,FALSE
+strawberry guava,,Psidium,cattleianum,22.11438889,-159.6705,2000-04-19,2000,h19epsca3,veg,PSCA,USDA Plants,asd-fs,FALSE
+white mulberry,,Morus,alba,22.11488889,-159.6700833,2000-04-19,2000,h19emoal1,veg,MOAL,USDA Plants,asd-fs,FALSE
+white mulberry,,Morus,alba,22.11488889,-159.6700833,2000-04-19,2000,h19emoal2,veg,MOAL,USDA Plants,asd-fs,FALSE
+white mulberry,,Morus,alba,22.11488889,-159.6700833,2000-04-19,2000,h19emoal3,veg,MOAL,USDA Plants,asd-fs,FALSE
+white mulberry,,Morus,alba,22.11488889,-159.6700833,2000-04-19,2000,h19emoal4,veg,MOAL,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo1,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo2,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo3,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo4,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo5,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo6,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo7,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo8,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo9,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.02819444,-159.6616944,2000-04-19,2000,h19fpamo10,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy1,veg,,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy2,veg,,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy3,veg,,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy4,veg,,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy5,veg,,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy6,veg,,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy7,veg,,USDA Plants,asd-fs,FALSE
+,"ginger species, not in bloom so difficult to tell which species",,,22.02819444,-159.6616944,2000-04-19,2000,h19fhedy8,veg,,USDA Plants,asd-fs,FALSE
+Japanese honeysuckle,,Lonicera,japonica,22.13022222,-159.6551111,2000-04-19,2000,h19gloja1,veg,LOJA,USDA Plants,asd-fs,FALSE
+Japanese honeysuckle,,Lonicera,japonica,22.13022222,-159.6551111,2000-04-19,2000,h19gloja2,veg,LOJA,USDA Plants,asd-fs,FALSE
+Japanese honeysuckle,,Lonicera,japonica,22.13022222,-159.6551111,2000-04-19,2000,h19gloja3,veg,LOJA,USDA Plants,asd-fs,FALSE
+Japanese honeysuckle,,Lonicera,japonica,22.13022222,-159.6551111,2000-04-19,2000,h19gloja4,veg,LOJA,USDA Plants,asd-fs,FALSE
+Japanese honeysuckle,,Lonicera,japonica,22.13022222,-159.6551111,2000-04-19,2000,h19gloja5,veg,LOJA,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,22.13022222,-159.6551111,2000-04-19,2000,h19gmyfa1,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,22.13022222,-159.6551111,2000-04-19,2000,h19gmyfa2,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,22.13022222,-159.6551111,2000-04-19,2000,h19gmyfa3,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,22.13022222,-159.6551111,2000-04-19,2000,h19gmyfa4,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,22.13022222,-159.6551111,2000-04-19,2000,h19gmyfa5,veg,MOFA,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.13022222,-159.6551111,2000-04-19,2000,h19gpamo1,veg,PAMO5,USDA Plants,asd-fs,FALSE
+,,Passiflora,mollissma,22.13022222,-159.6551111,2000-04-19,2000,h19gpamo2,veg,PAMO5,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,22.13022222,-159.6551111,2000-04-19,2000,h19gmyfa6,veg,MOFA,USDA Plants,asd-fs,FALSE
+firetree,,Myrica,faya,22.13022222,-159.6551111,2000-04-19,2000,h19gmyfa7,veg,MOFA,USDA Plants,asd-fs,FALSE
+karaka nut,leaves,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola1,veg,COLA6,USDA Plants,asd-fs,FALSE
+karaka nut,leaves,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola2,veg,COLA6,USDA Plants,asd-fs,FALSE
+karaka nut,flowers,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola3,veg,COLA6,USDA Plants,asd-fs,FALSE
+karaka nut,leaves,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola4,veg,COLA6,USDA Plants,asd-fs,FALSE
+karaka nut,leaves,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola5,veg,COLA6,USDA Plants,asd-fs,FALSE
+karaka nut,leaves,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola6,veg,COLA6,USDA Plants,asd-fs,FALSE
+karaka nut,leaves,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola7,veg,COLA6,USDA Plants,asd-fs,FALSE
+karaka nut,leaves,Corynocarpus,laevigatus,22.15063889,-159.6449722,2000-04-19,2000,h19hcola8,veg,COLA6,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,22.15063889,-159.6449722,2000-04-19,2000,h19hsycu1,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,22.15063889,-159.6449722,2000-04-19,2000,h19hsycu2,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,22.15063889,-159.6449722,2000-04-19,2000,h19hsycu3,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,22.15063889,-159.6449722,2000-04-19,2000,h19hsycu4,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,22.15063889,-159.6449722,2000-04-19,2000,h19hsycu5,veg,SYCU,USDA Plants,asd-fs,FALSE
+Java plum,,Syzygium,cumini,22.15063889,-159.6449722,2000-04-19,2000,h19hsycu6,veg,SYCU,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,22.15063889,-159.6449722,2000-04-19,2000,h19hmepo1,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,22.15063889,-159.6449722,2000-04-19,2000,h19hmepo2,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,22.15063889,-159.6449722,2000-04-19,2000,h19hmepo3,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,22.15063889,-159.6449722,2000-04-19,2000,h19hmepo4,veg,MEPO5,USDA Plants,asd-fs,FALSE
+'ohi'a lehua,,Metrosideros,polymorphia,22.15063889,-159.6449722,2000-04-19,2000,h19hmepo5,veg,MEPO5,USDA Plants,asd-fs,FALSE
+forest naupaka,,Scaevola,procera,22.15063889,-159.6449722,2000-04-19,2000,h19hscpr1,veg,SCPR,USDA Plants,asd-fs,FALSE
+forest naupaka,,Scaevola,procera,22.15063889,-159.6449722,2000-04-19,2000,h19hscpr2,veg,SCPR,USDA Plants,asd-fs,FALSE
+forest naupaka,,Scaevola,procera,22.15063889,-159.6449722,2000-04-19,2000,h19hscpr3,veg,SCPR,USDA Plants,asd-fs,FALSE
+forest naupaka,,Scaevola,procera,22.15063889,-159.6449722,2000-04-19,2000,h19hscpr4,veg,SCPR,USDA Plants,asd-fs,FALSE
+princess-flower,leaves,Tibouchina,urvilleana,22.15063889,-159.6449722,2000-04-19,2000,h19htiur1,veg,TIUR,USDA Plants,asd-fs,FALSE
+princess-flower,leaves,Tibouchina,urvilleana,22.15063889,-159.6449722,2000-04-19,2000,h19htiur2,veg,TIUR,USDA Plants,asd-fs,FALSE
+princess-flower,leaves,Tibouchina,urvilleana,22.15063889,-159.6449722,2000-04-19,2000,h19htiur3,veg,TIUR,USDA Plants,asd-fs,FALSE
+princess-flower,flowers,Tibouchina,urvilleana,22.15063889,-159.6449722,2000-04-19,2000,h19htiur4,veg,TIUR,USDA Plants,asd-fs,FALSE
+Chinese fir,var. konishii,Cunninghamia,lanceolata,22.12733333,-159.6620556,2000-04-19,2000,h19icuko1,veg,CULA,USDA Plants,asd-fs,FALSE
+Chinese fir,var. konishii,Cunninghamia,lanceolata,22.12733333,-159.6620556,2000-04-19,2000,h19icuko2,veg,CULA,USDA Plants,asd-fs,FALSE
+Chinese fir,var. konishii,Cunninghamia,lanceolata,22.12733333,-159.6620556,2000-04-19,2000,h19icuko3,veg,CULA,USDA Plants,asd-fs,FALSE
+Chinese fir,var. konishii,Cunninghamia,lanceolata,22.12733333,-159.6620556,2000-04-19,2000,h19icuko4,veg,CULA,USDA Plants,asd-fs,FALSE
+Chinese fir,var. konishii,Cunninghamia,lanceolata,22.12733333,-159.6620556,2000-04-19,2000,h19icuko5,veg,CULA,USDA Plants,asd-fs,FALSE
+Chinese fir,var. konishii,Cunninghamia,lanceolata,22.12733333,-159.6620556,2000-04-19,2000,h19icuko6,veg,CULA,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.12733333,-159.6620556,2000-04-19,2000,h19ipecl1,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.12733333,-159.6620556,2000-04-19,2000,h19ipecl2,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.12733333,-159.6620556,2000-04-19,2000,h19ipecl3,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.12733333,-159.6620556,2000-04-19,2000,h19ipecl4,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.12733333,-159.6620556,2000-04-19,2000,h19ipecl5,veg,PECL2,USDA Plants,asd-fs,FALSE
+kikuyugrass,,Pennisetum,clandestinum,22.12733333,-159.6620556,2000-04-19,2000,h19ipecl6,veg,PECL2,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ1,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ2,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ3,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ4,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ5,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ6,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ7,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ8,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ9,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ10,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,paper bark fewer leaves,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ11,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,paper bark fewer leaves,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ12,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,paper bark fewer leaves,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ13,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,paper bark fewer leaves,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ14,veg,MEQU,USDA Plants,asd-fs,FALSE
+punktree,paper bark fewer leaves,Melaleuca,quinquenervia,22.03105556,-159.0068611,2000-04-19,2000,h19jmequ15,veg,MEQU,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameiae,22.03105556,-159.0068611,2000-04-19,2000,h19jstta1,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameiae,22.03105556,-159.0068611,2000-04-19,2000,h19jstta2,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameiae,22.03105556,-159.0068611,2000-04-19,2000,h19jstta3,veg,STTA,USDA Plants,asd-fs,FALSE
+pukiawe,,Styphelia,tameiameiae,22.03105556,-159.0068611,2000-04-19,2000,h19jstta4,veg,STTA,USDA Plants,asd-fs,FALSE
+common bamboo,bamboo-like grass,Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu1,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,bamboo-like grass,Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu2,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,bamboo-like grass,Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu3,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,bamboo-like grass,Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu4,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,bamboo-like grass,Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu5,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,bamboo - more of a canopy view (from bridge),Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu6,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu7,veg,BAVU2,USDA Plants,asd-fs,FALSE
+common bamboo,,Bambusa,vulgaris,20.87825,-156.1951111,2000-04-22,2000,h22abavu8,veg,BAVU2,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu1,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu2,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu3,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu4,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu5,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu6,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu7,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,,,2000-04-25,2000,h25acasu8,veg,CAEQ,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25calmo1,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25calmo2,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25calmo3,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25calmo4,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25calmo5,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25calmo6,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,w/ flower cluster,Aleurites,moluccana,,,2000-04-25,2000,h25calmo7,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,w/ flower cluster,Aleurites,moluccana,,,2000-04-25,2000,h25calmo8,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,darker leaves,Aleurites,moluccana,,,2000-04-25,2000,h25calmo9,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,darker leaves,Aleurites,moluccana,,,2000-04-25,2000,h25calmo10,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,darker leaves,Aleurites,moluccana,,,2000-04-25,2000,h25calmo11,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,pale leaves,Aleurites,moluccana,,,2000-04-25,2000,h25calmo12,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,pale leaves,Aleurites,moluccana,,,2000-04-25,2000,h25calmo13,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,backscatter direction,Aleurites,moluccana,,,2000-04-25,2000,h25calmo14,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,forescatter direction,Aleurites,moluccana,,,2000-04-25,2000,h25calmo15,veg,ALMO,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain1,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain2,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain3,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain4,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain5,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain6,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain7,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain8,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Alexandrian laurel,,Callophylum,inophyllum,,,2000-04-25,2000,h25ccain9,veg,CAIN4,USDA Plants,asd-fs,FALSE
+Tahitian screwpine,,Pandanus,tectorius,,,2000-04-25,2000,h25cpate1,veg,PATE2,USDA Plants,asd-fs,FALSE
+Tahitian screwpine,,Pandanus,tectorius,,,2000-04-25,2000,h25cpate2,veg,PATE2,USDA Plants,asd-fs,FALSE
+Tahitian screwpine,,Pandanus,tectorius,,,2000-04-25,2000,h25cpate3,veg,PATE2,USDA Plants,asd-fs,FALSE
+Tahitian screwpine,,Pandanus,tectorius,,,2000-04-25,2000,h25cpate4,veg,PATE2,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti1,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti2,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti3,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti4,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti5,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti6,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti7,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti8,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti9,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti10,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti11,veg,HITI,USDA Plants,asd-fs,FALSE
+sea hibiscus,,Hibiscus,tiliaceus,,,2000-04-25,2000,h25dhiti12,veg,HITI,USDA Plants,asd-fs,FALSE
+Portia tree,smallish tree,Thespesia,populnea,,,2000-04-25,2000,h25ethpo1,veg,THPO3,USDA Plants,asd-fs,FALSE
+Portia tree,,Thespesia,populnea,,,2000-04-25,2000,h25ethpo2,veg,THPO3,USDA Plants,asd-fs,FALSE
+Portia tree,,Thespesia,populnea,,,2000-04-25,2000,h25ethpo3,veg,THPO3,USDA Plants,asd-fs,FALSE
+Portia tree,,Thespesia,populnea,,,2000-04-25,2000,h25ethpo4,veg,THPO3,USDA Plants,asd-fs,FALSE
+Portia tree,,Thespesia,populnea,,,2000-04-25,2000,h25ethpo5,veg,THPO3,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25ealmo1,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25ealmo2,veg,ALMO,USDA Plants,asd-fs,FALSE
+Indian walnut,,Aleurites,moluccana,,,2000-04-25,2000,h25ealmo3,veg,ALMO,USDA Plants,asd-fs,FALSE
+Tahitian screwpine,,Pandanus,tectorius,,,2000-04-25,2000,h25epate1,veg,PATE2,USDA Plants,asd-fs,FALSE
+Tahitian screwpine,,Pandanus,tectorius,,,2000-04-25,2000,h25epate2,veg,PATE2,USDA Plants,asd-fs,FALSE
+Tahitian screwpine,,Pandanus,tectorius,,,2000-04-25,2000,h25epate3,veg,PATE2,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa1,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa2,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa3,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa4,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa5,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa6,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa7,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa8,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.14772222,-157.144,2000-04-28,2000,h28aprpa9,veg,PRPA4,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele1,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele2,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele3,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,pods,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele4,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,pods,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele5,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,pods,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele6,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele7,veg,LELE10,USDA Plants,asd-fs,FALSE
+white leadtree,leaves,Leucaena,leucocephala,21.14772222,-157.144,2000-04-28,2000,h28alele8,veg,LELE10,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu1,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu2,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu3,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu4,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu5,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu6,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu7,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu8,veg,CAEQ,USDA Plants,asd-fs,FALSE
+beach sheoak,,Casuarina,equisetifolia,21.17838889,-157.0047222,2000-04-28,2000,h28bcasu9,veg,CAEQ,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko1,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko2,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko3,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko4,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko5,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko6,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko7,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko8,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko9,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko10,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko11,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko12,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko13,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko14,veg,ACKO,USDA Plants,asd-fs,FALSE
+koa,,Acacia,koa,21.17394444,-157.0672222,2000-04-28,2000,h28cacko15,veg,ACKO,USDA Plants,asd-fs,FALSE
+guineagrass,green; <20% senesced,Panicum,maximum,21.17394444,-157.0672222,2000-04-28,2000,h28cpama1,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,green; <20% senesced,Panicum,maximum,21.17394444,-157.0672222,2000-04-28,2000,h28cpama2,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,green; <20% senesced,Panicum,maximum,21.17394444,-157.0672222,2000-04-28,2000,h28cpama3,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,green; <20% senesced,Panicum,maximum,21.17394444,-157.0672222,2000-04-28,2000,h28cpama4,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,green; <20% senesced,Panicum,maximum,21.17394444,-157.0672222,2000-04-28,2000,h28cpama5,veg,URMA3,USDA Plants,asd-fs,FALSE
+guineagrass,green; <20% senesced,Panicum,maximum,21.17394444,-157.0672222,2000-04-28,2000,h28cpama6,veg,URMA3,USDA Plants,asd-fs,FALSE
+kiawe,"leafy, young leaves, full",Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa1,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,"leafy, young leaves, full",Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa2,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,"leafy, young leaves, full",Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa3,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,"leafy, young leaves, full",Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa4,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,"leafy, young leaves, full",Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa5,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,"leafy, young leaves, full",Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa6,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa7,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa8,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa9,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa10,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,,Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa11,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,w/ flowers,Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa12,veg,PRPA4,USDA Plants,asd-fs,FALSE
+kiawe,w/ flowers,Prosopis,pallida,21.17491667,-157.2536111,2000-04-29,2000,h29aprpa13,veg,PRPA4,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu1,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu2,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu3,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu4,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu5,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu6,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu7,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu8,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu9,veg,CONU,USDA Plants,asd-fs,FALSE
+coconut palm,coconut - center ridge of frond,Cocos,nucifera,21.17491667,-157.2536111,2000-04-29,2000,h29aconu10,veg,CONU,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma1,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma2,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma3,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma4,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma5,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma6,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma7,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma8,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma9,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma10,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma11,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma12,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma13,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma14,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,higher vantage point - cloud??,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma15,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,higher vantage point - cloud??,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma16,veg,RHMA2,USDA Plants,asd-fs,FALSE
+red mangrove,higher vantage point - cloud??,Rhizophora,mangle,21.05591667,-156.8998056,2000-04-29,2000,h29brhma17,veg,RHMA2,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain1,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain2,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain3,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain4,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain5,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain6,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain7,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain8,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain9,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain10,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain11,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,leaves,Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain12,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,"leaves, higher vantage point",Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain13,veg,MAIN3,USDA Plants,asd-fs,FALSE
+mango,"leaves, higher vantage point",Mangifera,indica,21.0695,-156.8072778,2000-04-29,2000,h29cmain14,veg,MAIN3,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,flowers,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar1,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,flowers,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar2,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,flowers,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar3,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,flowers,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar4,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,leaves,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar5,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,leaves,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar6,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,leaves,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar7,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,flowers,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar8,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,flowers,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar9,veg,TAAU2,USDA Plants,asd-fs,FALSE
+Caribbean trumpet-tree,flowers,Tabebuia,argentea,,,2000-04-29,2000,h29dtaar10,veg,TAAU2,USDA Plants,asd-fs,FALSE

@@ -1,0 +1,163 @@
+#---
+#project_code: ecosis_missoulats
+#short_name: Missoula TS
+#long_name: Missoula Montana lodgepole pine & big sagebrush time series
+#doi: 10.21232/C2D08D
+#spectra_methods:
+#  comment: Contact, leaf, IS, see ECOSIS
+#resources:
+#  fields:
+#  - name: observation_id
+#    type: string
+#  - name: collection_date
+#    type: date
+#  - name: year
+#    type: number
+#  - name: latitude
+#    type: number
+#  - name: longitude
+#    type: number
+#  - name: species_code
+#    type: string
+#  - name: Database_ID
+#    type: string
+#  - name: species_genus
+#    type: string
+#  - name: species_species
+#    type: string
+#  - name: species_common_name
+#    type: string
+#  - name: elevation
+#    type: integer
+#  - name: elevation_unit
+#    type: string
+#  - name: description
+#    type: string
+#  - name: leaf_ash_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_fat_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_fiber_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_NSC_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_protein_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_water_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: instrument_code
+#    type: string
+#  - name: apparatus
+#    type: string
+#  - name: is_experiment
+#    type: boolean
+#
+#---
+observation_id,collection_date,year,latitude,longitude,species_code,Database_ID,species_genus,species_species,species_common_name,elevation,elevation_unit,description,leaf_ash_pct_mass,leaf_fat_pct_mass,leaf_fiber_pct_mass,leaf_NSC_pct_mass,leaf_protein_pct_mass,leaf_water_pct_mass,instrument_code,apparatus,is_experiment
+nn2_120705,2012-07-05,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 7/5/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+sb1_120605,2012-06-05,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 6/5/2012,8.1,3.8,38.6,20.6,19.4,78.2880521,asd-fs4,integrating sphere,FALSE
+on1_120608,2012-06-08,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 6/8/2012,1.9,7.8,43.3,21.9,6.2,65.4899669,asd-fs4,integrating sphere,FALSE
+sb2_120605,2012-06-05,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 6/5/2012,7.5,3.8,34.1,12.9,18.7,66.534583,asd-fs4,integrating sphere,FALSE
+nn1_120712,2012-07-12,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 7/12/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+on2_120608,2012-06-08,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 6/8/2012,2.3,8.9,50.3,17.5,6.1,69.9677026,asd-fs4,integrating sphere,FALSE
+nn2_120712,2012-07-12,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 7/12/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+sb1_120612,2012-06-12,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 6/12/2012,7,3.6,38.3,15.4,16.5,76.589061,asd-fs4,integrating sphere,FALSE
+on1_120614,2012-06-14,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 6/14/2012,2.3,6.5,42.9,19.9,7.2,72.1139073,asd-fs4,integrating sphere,FALSE
+sb2_120612,2012-06-12,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 6/12/2012,7.1,2.3,32.7,15.4,18.4,76.4235973,asd-fs4,integrating sphere,FALSE
+nn1_120719,2012-07-19,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 7/19/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+on2_120614,2012-06-14,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 6/14/2012,2,7.1,41,20.2,6.6,72.0459211,asd-fs4,integrating sphere,FALSE
+nn2_120719,2012-07-19,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 7/19/2012,1.4,2.3,51.9,5.9,8.9,80.5310369,asd-fs4,integrating sphere,FALSE
+sb1_120618,2012-06-18,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 6/18/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+on1_120620,2012-06-20,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 6/20/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+sb2_120618,2012-06-18,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 6/18/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+nn1_120727,2012-07-27,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 7/27/2012,2.4,2.7,64.9,6.2,7.9,85.1580739,asd-fs4,integrating sphere,FALSE
+on2_120620,2012-06-20,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 6/20/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+nn2_120726,2012-07-26,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 7/26/2012,2.5,1.4,59.3,10.1,7.2,81.3506699,asd-fs4,integrating sphere,FALSE
+sb1_120627,2012-06-27,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 6/27/2012,7.2,3.7,35.2,12.7,19.3,73.3736253,asd-fs4,integrating sphere,FALSE
+on1_120629,2012-06-29,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 6/29/2012,2,8.7,40.1,21.3,6.6,78.0874836,asd-fs4,integrating sphere,FALSE
+sb2_120627,2012-06-27,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 6/27/2012,7.4,4.6,33,13,18.9,69.5657563,asd-fs4,integrating sphere,FALSE
+nn1_120801,2012-08-01,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 8/1/2012,2.1,1.7,47.1,7.5,8,68.7934852,asd-fs4,integrating sphere,FALSE
+on2_120629,2012-06-29,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 6/29/2012,2.5,8.7,42.6,20.2,6.4,71.5095985,asd-fs4,integrating sphere,FALSE
+nn2_120801,2012-08-01,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 8/1/2012,2,1.7,50.5,8.6,7,81.5087545,asd-fs4,integrating sphere,FALSE
+sb1_120702,2012-07-02,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 7/2/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+on1_120705,2012-07-05,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 7/5/2012,2.4,7.6,43,22.6,7.3,70.7670057,asd-fs4,integrating sphere,FALSE
+sb2_120702,2012-07-02,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 7/2/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+nn1_120809,2012-08-09,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 8/9/2012,2.3,3.6,51.1,8.4,7.8,84.3155599,asd-fs4,integrating sphere,FALSE
+on2_120705,2012-07-05,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 7/5/2012,2.5,8.9,44.3,22.6,6.1,79.3195045,asd-fs4,integrating sphere,FALSE
+nn2_120809,2012-08-09,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 8/9/2012,2.2,3.5,50.6,9.4,6.8,80.4470909,asd-fs4,integrating sphere,FALSE
+sb1_120710,2012-07-10,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 7/10/2012,7.2,3.7,37.1,13,15.4,76.3124847,asd-fs4,integrating sphere,FALSE
+on1_120712,2012-07-12,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 7/12/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+sb2_120710,2012-07-10,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 7/10/2012,7,3.6,35.1,13.8,15,66.6596979,asd-fs4,integrating sphere,FALSE
+nn1_120816,2012-08-16,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 8/16/2012,2.2,3.2,52.3,7.3,7.3,79.5576084,asd-fs4,integrating sphere,FALSE
+on2_120712,2012-07-12,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 7/12/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+nn2_120816,2012-08-16,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 8/16/2012,2.3,2.5,51.1,8.4,7.4,79.6015215,asd-fs4,integrating sphere,FALSE
+sb1_120717,2012-07-17,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 7/17/2012,7.1,3.6,34.5,14.1,14.1,71.9831884,asd-fs4,integrating sphere,FALSE
+on1_120719,2012-07-19,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 7/19/2012,1.7,7.8,49,15.1,7,75.5078971,asd-fs4,integrating sphere,FALSE
+sb2_120717,2012-07-17,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 7/17/2012,7,5,39.7,13.4,13.8,73.9249253,asd-fs4,integrating sphere,FALSE
+nn1_120821,2012-08-21,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 8/21/2012,1.9,5.4,45,11.2,6.8,80.2819097,asd-fs4,integrating sphere,FALSE
+on2_120719,2012-07-19,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 7/19/2012,1.9,7.5,52.9,15.2,6.6,72.9197335,asd-fs4,integrating sphere,FALSE
+nn2_120821,2012-08-21,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 8/21/2012,1.9,4.1,46.5,11.4,6.4,79.2427793,asd-fs4,integrating sphere,FALSE
+sb1_120724,2012-07-24,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 7/24/2012,7,7,39.7,13.4,12.7,63.5485077,asd-fs4,integrating sphere,FALSE
+on1_120727,2012-07-27,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 7/27/2012,2.2,7.7,49.5,15.9,7.1,80.4935478,asd-fs4,integrating sphere,FALSE
+sb2_120724,2012-07-24,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 7/24/2012,6.6,7.8,42.8,13.8,12.6,62.5659025,asd-fs4,integrating sphere,FALSE
+nn1_120830,2012-08-30,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 8/30/2012,1.7,4.9,50.1,8.5,6.6,79.3005478,asd-fs4,integrating sphere,FALSE
+on2_120726,2012-07-26,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 7/26/2012,2.8,8.5,50.2,17.7,6.8,71.6520131,asd-fs4,integrating sphere,FALSE
+nn2_120830,2012-08-30,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 8/30/2012,1.7,3.6,51.7,8.1,6.4,77.6037514,asd-fs4,integrating sphere,FALSE
+sb1_120731,2012-07-31,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 7/31/2012,5.7,1.9,44.9,15,10.9,50.0454688,asd-fs4,integrating sphere,FALSE
+on1_120801,2012-08-01,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 8/1/2012,2.2,7.4,43.1,19.7,6.7,76.5670872,asd-fs4,integrating sphere,FALSE
+sb2_120731,2012-07-31,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 7/31/2012,5,3.2,45.7,15.3,10.8,56.6753536,asd-fs4,integrating sphere,FALSE
+nn1_120906,2012-09-06,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 9/6/2012,1.5,4.5,45.6,13.1,7.6,80.4389209,asd-fs4,integrating sphere,FALSE
+on2_120801,2012-08-01,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 8/1/2012,2.5,6.3,42.2,19,6.8,73.1778157,asd-fs4,integrating sphere,FALSE
+nn2_120906,2012-09-06,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 9/6/2012,1.7,4.3,48.2,13.1,6.9,75.6974614,asd-fs4,integrating sphere,FALSE
+sb1_120808,2012-08-08,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 8/8/2012,5.3,6,39.1,16,10.4,60.0310683,asd-fs4,integrating sphere,FALSE
+on1_120809,2012-08-09,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 8/9/2012,2.8,6.8,46.9,18.5,7.5,71.6229367,asd-fs4,integrating sphere,FALSE
+sb2_120808,2012-08-08,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 8/8/2012,5.1,7.9,40.7,14.2,10.7,52.9863203,asd-fs4,integrating sphere,FALSE
+nn1_120913,2012-09-13,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 9/13/2012,2.2,4.7,48.2,11.2,7.4,81.3528761,asd-fs4,integrating sphere,FALSE
+on2_120809,2012-08-09,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 8/9/2012,3.2,8.4,44.3,18.4,6.9,79.5291305,asd-fs4,integrating sphere,FALSE
+nn2_120913,2012-09-13,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 9/13/2012,1.8,4.5,49.2,11.2,6.5,76.2542629,asd-fs4,integrating sphere,FALSE
+sb1_120814,2012-08-14,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 8/14/2012,4.4,5.7,43.8,14,10.5,57.0643967,asd-fs4,integrating sphere,FALSE
+on1_120816,2012-08-16,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 8/16/2012,2.8,6.4,47.5,19.6,6.8,74.6623647,asd-fs4,integrating sphere,FALSE
+sb2_120814,2012-08-14,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 8/14/2012,4.6,6.7,40.4,15.1,10.2,55.7142031,asd-fs4,integrating sphere,FALSE
+nn1_120920,2012-09-20,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 9/20/2012,,,,,,,asd-fs4,integrating sphere,FALSE
+on2_120816,2012-08-16,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 8/16/2012,3.6,6.8,52,16.5,7.6,70.7236707,asd-fs4,integrating sphere,FALSE
+nn2_120920,2012-09-20,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 9/20/2012,1.6,4.1,50.8,11.5,6.5,79.6984553,asd-fs4,integrating sphere,FALSE
+sb1_120820,2012-08-20,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 8/20/2012,4.7,4.7,39.6,16.2,9.2,45.8993912,asd-fs4,integrating sphere,FALSE
+on1_120821,2012-08-21,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 8/21/2012,2.4,8.3,38.4,21.4,6.6,74.2940211,asd-fs4,integrating sphere,FALSE
+sb2_120820,2012-08-20,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 8/20/2012,5.2,7.4,35.6,17.8,10.6,50.9688457,asd-fs4,integrating sphere,FALSE
+nn1_120927,2012-09-27,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 9/27/2012,2,4.3,45.3,10.9,7.2,79.421097,asd-fs4,integrating sphere,FALSE
+on2_120821,2012-08-21,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 8/21/2012,2.6,8.3,41,19.7,6.4,73.7248313,asd-fs4,integrating sphere,FALSE
+nn2_120927,2012-09-27,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 9/27/2012,2.2,3,46.2,10.5,6.7,80.9607017,asd-fs4,integrating sphere,FALSE
+sb1_120828,2012-08-28,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 8/28/2012,4.6,7,38.9,15.3,9.7,51.4042014,asd-fs4,integrating sphere,FALSE
+on1_120830,2012-08-30,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 8/30/2012,2.7,6.9,45.6,16.1,6.6,74.9775612,asd-fs4,integrating sphere,FALSE
+sb2_120828,2012-08-28,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 8/28/2012,4.3,8,39.2,15.6,9.5,52.6664209,asd-fs4,integrating sphere,FALSE
+nn1_121004,2012-10-04,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 10/4/2012,2.2,5.9,45.5,14.8,7.8,83.9349234,asd-fs4,integrating sphere,FALSE
+on2_120830,2012-08-30,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 8/30/2012,2.8,7.4,45.6,18.1,6.2,69.7222424,asd-fs4,integrating sphere,FALSE
+nn2_121004,2012-10-04,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2 10/4/2012,2.1,5.5,48.1,13.9,7.1,80.7647669,asd-fs4,integrating sphere,FALSE
+sb1_120904,2012-09-04,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 9/4/2012,4.3,6,41.9,18.2,9.6,46.7355293,asd-fs4,integrating sphere,FALSE
+on1_120906,2012-09-06,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 9/6/2012,2,6,42.8,20.7,7.6,68.9666152,asd-fs4,integrating sphere,FALSE
+sb2_120904,2012-09-04,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 9/4/2012,4.3,6.6,39,18.4,10.4,47.9390359,asd-fs4,integrating sphere,FALSE
+nn1_121011,2012-10-11,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine New Needle Spectroscopy site1 10/11/2012,1.9,6,44.5,15.1,6.6,76.8330133,asd-fs4,integrating sphere,FALSE
+on2_120906,2012-09-06,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 9/6/2012,2.5,7.6,42.6,20.9,7,69.9790442,asd-fs4,integrating sphere,FALSE
+nn2_121011,2012-10-11,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine New Needle Spectroscopy site2.10/11/2012,2.2,5.9,46.7,14.3,6.6,72.7325368,asd-fs4,integrating sphere,FALSE
+sb1_120911,2012-09-11,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 9/11/2012,4,7.3,37.2,16.5,10.4,52.7323949,asd-fs4,integrating sphere,FALSE
+on1_120913,2012-09-13,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 9/13/2012,2.3,6.2,44.9,17.4,7.2,70.5005741,asd-fs4,integrating sphere,FALSE
+sb2_120911,2012-09-11,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 9/11/2012,3.6,7.8,39.1,16.2,10.1,52.2578657,asd-fs4,integrating sphere,FALSE
+on2_120913,2012-09-13,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 9/13/2012,2.5,7.9,45.8,20.8,6.5,71.3617241,asd-fs4,integrating sphere,FALSE
+sb1_120918,2012-09-18,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 9/18/2012,4.3,6.4,40.9,18.3,10.1,48.0871946,asd-fs4,integrating sphere,FALSE
+on1_120920,2012-09-20,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 9/20/2012,2.7,6.3,45,18.8,6.8,73.9426553,asd-fs4,integrating sphere,FALSE
+sb2_120918,2012-09-18,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 9/18/2012,3.9,7.2,40.5,18.5,10.3,44.9485976,asd-fs4,integrating sphere,FALSE
+on2_120920,2012-09-20,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 9/20/2012,2.5,8.3,43,20.4,6.2,62.3617262,asd-fs4,integrating sphere,FALSE
+sb1_120925,2012-09-25,2012,46.89771,-113.4357,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1226,m,Big Sagebrush Leaf Spectroscopy site1 9/25/2012,4.7,4.5,37.9,18.7,10.6,53.3758461,asd-fs4,integrating sphere,FALSE
+on1_120927,2012-09-27,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 9/27/2012,3,6.8,42.9,19.2,7.5,74.1921544,asd-fs4,integrating sphere,FALSE
+sb2_120925,2012-09-25,2012,46.92354,-113.44048,ARTR2,USDA Plants,Artemisia,tridentata,big sagebrush,1133,m,Big Sagebrush Leaf Spectroscopy site2 9/25/2012,4.7,7.8,38.3,19.1,10.4,47.840842,asd-fs4,integrating sphere,FALSE
+on2_120927,2012-09-27,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 9/27/2012,3.3,6.9,43.8,19.4,6.7,73.0579388,asd-fs4,integrating sphere,FALSE
+on1_121004,2012-10-04,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 10/4/2012,2.8,9.3,39.7,21.3,6.7,72.6259649,asd-fs4,integrating sphere,FALSE
+on2_121004,2012-10-04,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 10/4/2012,3.1,8.5,41.8,21.1,6.5,72.3337519,asd-fs4,integrating sphere,FALSE
+on1_121011,2012-10-11,2012,46.63408,-114.57612,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1590,m,Lodgepole Pine Old Needle Spectroscopy site1 10/11/2012,3.2,8.2,41.9,19.6,7.4,72.3761928,asd-fs4,integrating sphere,FALSE
+on2_121011,2012-10-11,2012,46.7359,-114.53621,PICO,USDA Plants,Pinus,contorta,lodgepole pine,1330,m,Lodgepole Pine Old Needle Spectroscopy site2 10/11/2012,3.1,8.1,43.1,18,6.7,68.9817929,asd-fs4,integrating sphere,FALSE

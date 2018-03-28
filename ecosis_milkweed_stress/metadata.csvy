@@ -1,0 +1,788 @@
+#---
+#project_code: ecosis_milkweed_stress
+#short_name: Milkweed stress
+#long_name: Common Milkweed Leaf Responses to Water Stress and Elevated Temperature
+#URL: https://ecosis.org/package/export?package_id=9425d5b2-7633-45b5-9c07-6ec3323499a0&metadata=true
+#spectra_methods:
+#  comment: Contact, on leaf. See ECOSIS.
+#resources:
+#  fields:
+#  - name: observation_id
+#    type: string
+#  - name: species_code
+#    type: string
+#  - name: Database_ID
+#    type: string
+#  - name: leaf_CN_ratio
+#    type: number
+#    data_unit: ''
+#  - name: leaf_fiber_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_C_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_mass_per_area
+#    type: number
+#    data_unit: g m-2
+#  - name: leaf_N_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_lignin_pct_mass
+#    type: number
+#    data_unit: '%'
+#  - name: leaf_Vcmax_area
+#    type: number
+#    data_unit: umol m-2 s-1
+#  - name: treatment_water
+#    type: string
+#  - name: treatment_temperature
+#    type: integer
+#  - name: is_experiment
+#    type: boolean
+#  - name: instrument_code
+#    type: string
+#  - name: latitude
+#    type: number
+#  - name: longitude
+#    type: number
+#  - name: year
+#    type: number
+#
+#---
+observation_id,species_code,Database_ID,leaf_CN_ratio,leaf_fiber_pct_mass,leaf_C_pct_mass,leaf_mass_per_area,leaf_N_pct_mass,leaf_lignin_pct_mass,leaf_Vcmax_area,treatment_water,treatment_temperature,is_experiment,instrument_code,latitude,longitude,year
+ecosis_milkweed_stress_001_61,ASSY,USDA Plants,14.9,24.18,45.3,33.22,3.04,9.58,93.07147688,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_002_63,ASSY,USDA Plants,12.8,29.18,44.9,22.18,3.51,17.44,147.2900043,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_003_64,ASSY,USDA Plants,12.28,32.66,45.8,32.61,3.72,17.03,146.4649946,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_004_65,ASSY,USDA Plants,11.99,36.45,46.2,47.35,3.85,18.21,138.8594308,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_005_66,ASSY,USDA Plants,11.67,31.68,45.7,41.11,3.91,16.04,141.9369321,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_006_67,ASSY,USDA Plants,12.44,28.24,45.5,37.58,3.66,14.21,155.3514706,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_007_69,ASSY,USDA Plants,14.1,21.51,45,10.08,3.19,7.18,103.7992459,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_008_70,ASSY,USDA Plants,11.57,29.77,44.8,40.83,3.87,16.47,157.7854396,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_009_74,ASSY,USDA Plants,12.89,32.76,45,32.97,3.5,17.59,111.8703249,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_010_75,ASSY,USDA Plants,13.16,32.72,46.1,43.27,3.5,15.78,108.8340014,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_011_46,ASSY,USDA Plants,13.85,34.99,45.6,62.6,3.29,18.53,114.7524903,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_012_47,ASSY,USDA Plants,13.21,29.8,45,50.98,3.4,14.3,127.975771,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_013_48,ASSY,USDA Plants,16.55,32.69,45.4,51.32,2.75,14.75,108.7554891,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_014_50,ASSY,USDA Plants,13.63,31.38,45.4,41.83,3.33,15.51,112.02298,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_015_51,ASSY,USDA Plants,14.62,33.5,45.6,62.68,3.12,16.44,101.4381235,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_016_52,ASSY,USDA Plants,14.2,31.76,45.4,60.03,3.19,15.1,113.6311155,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_017_53,ASSY,USDA Plants,13.7,29.76,45.5,49.12,3.32,13.83,112.7024236,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_018_55,ASSY,USDA Plants,11.72,31.35,45.4,46.42,3.88,16.52,141.2021373,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_019_106,ASSY,USDA Plants,11.14,36.35,46.1,46.14,4.14,19.79,152.6149364,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_020_107,ASSY,USDA Plants,11.94,39.86,46.3,69.72,3.88,24.67,146.0477967,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_021_108,ASSY,USDA Plants,11.7,31.06,45.7,53.65,3.91,13.82,168.7564847,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_022_109,ASSY,USDA Plants,11.51,34.88,45.8,46.19,3.98,20.34,155.7335645,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_023_111,ASSY,USDA Plants,12.27,32.4,45.9,58.2,3.74,16.67,161.7758317,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_024_112,ASSY,USDA Plants,11.93,33.31,45.9,51.06,3.85,18.28,149.0493271,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_025_113,ASSY,USDA Plants,11.63,38.15,46.6,43.83,4.01,17.76,149.1107655,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_026_114,ASSY,USDA Plants,10.24,39.47,46.3,43.23,4.52,24.38,156.3916145,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_027_115,ASSY,USDA Plants,11.76,36.27,46.3,42.64,3.94,18.94,137.0293649,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_028_116,ASSY,USDA Plants,12.28,34.67,46.4,48.71,3.78,18.11,168.6139813,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_029_117,ASSY,USDA Plants,11.64,36.25,46.1,41.11,3.96,17.74,175.3320553,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_030_118,ASSY,USDA Plants,11.88,36.96,46.3,42.32,3.9,19.25,147.6326531,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_031_119,ASSY,USDA Plants,12.35,42.05,46.8,69.91,3.79,24.44,137.310335,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_032_120,ASSY,USDA Plants,12.96,35.02,45.9,48.81,3.54,19.06,157.8027081,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_033_46,ASSY,USDA Plants,15.42,28.63,45,49.19,2.92,12.48,123.1472293,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_034_47,ASSY,USDA Plants,12.93,33.73,45.7,32.02,3.53,16.6,112.9973026,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_035_48,ASSY,USDA Plants,14.11,33.03,45.5,42.77,3.22,16.82,111.8849936,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_036_49,ASSY,USDA Plants,14.26,28.5,44.9,19.69,3.15,12.96,101.4364026,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_037_50,ASSY,USDA Plants,13.29,30.39,44.6,23.22,3.36,15.99,83.55782569,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_038_51,ASSY,USDA Plants,15.11,31.88,45.1,30.91,2.99,15.86,91.63016666,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_039_52,ASSY,USDA Plants,13.61,29.81,45.4,34.13,3.34,13.75,106.4087136,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_040_53,ASSY,USDA Plants,12.62,32.72,45.5,38.62,3.6,16.38,128.5108112,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_041_54,ASSY,USDA Plants,13.92,32.54,45.4,40.87,3.26,17.05,114.1687357,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_042_55,ASSY,USDA Plants,21.61,28.71,45.6,36.82,2.11,10.16,74.78764505,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_043_56,ASSY,USDA Plants,13.33,32.67,45.2,37.6,3.39,17.45,91.61143747,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_044_57,ASSY,USDA Plants,18.68,27.26,45.3,42.72,2.42,10.9,105.4323064,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_045_58,ASSY,USDA Plants,17.91,31.98,45.6,44.61,2.55,14.87,115.3530559,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_046_59,ASSY,USDA Plants,15.52,33.06,45.3,57.26,2.92,17.52,110.208153,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_047_60,ASSY,USDA Plants,16.11,30.17,45.7,76.88,2.84,12.75,103.9479642,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_048_106,ASSY,USDA Plants,12.16,29.5,45.9,37.02,3.77,13.62,136.9155722,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_049_107,ASSY,USDA Plants,12.66,34.2,46.6,46.71,3.69,14.9,142.0533519,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_050_108,ASSY,USDA Plants,11.16,31.98,46.7,45.34,4.18,14.29,163.4961056,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_051_109,ASSY,USDA Plants,11.63,33.02,46.2,40.67,3.97,16.66,160.3397424,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_052_110,ASSY,USDA Plants,12.5,35.29,46.6,47.41,3.73,17.38,167.6064964,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_053_111,ASSY,USDA Plants,11.22,34.84,45.5,35.8,4.06,20.56,142.0660589,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_054_112,ASSY,USDA Plants,12.1,29.91,45.7,43.11,3.78,14.69,151.714505,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_055_113,ASSY,USDA Plants,11.25,31.31,46,38.83,4.09,16.22,152.4805825,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_056_114,ASSY,USDA Plants,11.59,28.6,45.7,32.84,3.94,13.16,144.3289107,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_057_115,ASSY,USDA Plants,10.51,36.98,47,33.7,4.47,17.79,164.0023567,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_058_116,ASSY,USDA Plants,10.61,33.83,46.2,47.08,4.35,17.59,148.6136163,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_059_117,ASSY,USDA Plants,11.37,29.03,46.1,37.67,4.06,12.26,149.6168314,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_060_118,ASSY,USDA Plants,12.63,32.15,45.9,24.49,3.63,15.11,144.4696284,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_061_119,ASSY,USDA Plants,11.74,31.12,45.9,37.01,3.91,17.08,150.1287018,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_062_120,ASSY,USDA Plants,12.25,31.89,46.4,46.18,3.79,14.67,133.3982173,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_063_46,ASSY,USDA Plants,11.89,29.39,45.2,34.86,3.8,15.43,137.140951,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_064_47,ASSY,USDA Plants,14.69,30.38,45.3,54.83,3.09,13.81,120.9885059,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_065_48,ASSY,USDA Plants,15.12,29.85,45.2,42.33,2.99,13.22,110.8177087,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_066_49,ASSY,USDA Plants,12.32,31.91,45.1,39.93,3.66,14.7,128.0268424,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_067_50,ASSY,USDA Plants,12.94,30.34,44.8,34.15,3.46,13.97,124.9622461,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_068_51,ASSY,USDA Plants,12.04,30.21,45.5,32.67,3.78,13.73,121.7922178,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_069_52,ASSY,USDA Plants,13.19,29.63,45.1,41.22,3.42,12.53,144.9377332,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_070_53,ASSY,USDA Plants,12.55,27.68,44.7,23.07,3.56,12.31,132.7615039,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_071_54,ASSY,USDA Plants,15.9,25.75,44.9,38.96,2.83,10.93,117.5960092,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_072_55,ASSY,USDA Plants,16.11,28.61,45.4,38.38,2.82,10.77,119.8926998,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_073_56,ASSY,USDA Plants,11.69,32.39,45.4,37.77,3.88,16.86,123.5526819,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_074_57,ASSY,USDA Plants,14.19,28.42,45.2,38.45,3.18,11.69,129.9045432,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_075_58,ASSY,USDA Plants,16.2,27.34,45.3,37.76,2.8,10.31,110.2311491,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_076_59,ASSY,USDA Plants,16.28,25.97,45.1,43.07,2.77,9.7,117.0977895,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_077_60,ASSY,USDA Plants,14.02,31.42,45.4,38.82,3.24,14.06,130.6072664,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_078_12,ASSY,USDA Plants,11.35,33.98,46.3,53.39,4.08,18.04,152.1999601,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_079_13,ASSY,USDA Plants,12.11,35.95,46.3,57.38,3.82,18.64,130.5976322,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_080_25,ASSY,USDA Plants,12.04,38.95,46.2,54.52,3.83,23.97,158.2137176,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_081_27,ASSY,USDA Plants,11.81,33.98,45,26.89,3.81,20.62,128.7734401,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_082_39,ASSY,USDA Plants,12.23,33.59,45.6,36.97,3.73,18.38,152.8423426,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_083_21,ASSY,USDA Plants,16.39,31.83,45.8,71.19,2.8,12.42,104.7564947,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_084_23,ASSY,USDA Plants,12.26,29.03,45.1,24.75,3.67,15.53,97.33916144,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_085_28,ASSY,USDA Plants,12.02,32.16,45.9,49.24,3.82,16.12,143.3817709,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_086_29,ASSY,USDA Plants,12.55,29.15,45.8,58.48,3.65,13.54,139.0151965,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_087_30,ASSY,USDA Plants,12.78,32.31,45.9,53.46,3.59,14.97,125.8601628,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_088_40,ASSY,USDA Plants,17.16,35.58,45.4,80.58,2.64,14.61,97.85935869,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_089_106,ASSY,USDA Plants,11.47,35.7,46.9,49.25,4.09,17.18,151.3936493,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_090_107,ASSY,USDA Plants,12.4,33.77,46.3,60.6,3.73,17.15,152.6288182,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_091_108,ASSY,USDA Plants,11.98,33.96,46.7,54.59,3.9,16.16,130.9664101,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_092_111,ASSY,USDA Plants,11.35,40.48,46.6,52,4.1,23.49,125.9738011,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_093_113,ASSY,USDA Plants,11.74,34.93,46.1,49.62,3.92,17.85,131.848212,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_094_114,ASSY,USDA Plants,12.23,33.53,46.6,58.36,3.81,16.12,144.8686466,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_095_115,ASSY,USDA Plants,12.41,36.67,46.8,57.11,3.77,18.27,122.0595001,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_096_117,ASSY,USDA Plants,12.06,34.27,46.2,58.06,3.83,16.78,144.998841,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_097_118,ASSY,USDA Plants,12.01,31.44,45.9,38.26,3.82,14.52,137.0808047,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_098_119,ASSY,USDA Plants,12.1,32.52,46.5,51.8,3.84,15.7,146.7099346,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_099_120,ASSY,USDA Plants,12.89,35.77,46.3,56.26,3.59,17.42,141.8570988,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_100_46,ASSY,USDA Plants,17.09,36.81,46.1,73.34,2.69,17.98,76.73714928,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_101_47,ASSY,USDA Plants,14.12,31.31,45.5,45.12,3.22,15.11,109.9024213,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_102_48,ASSY,USDA Plants,11.64,31.08,45.8,31.77,3.93,15.17,117.3320739,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_103_49,ASSY,USDA Plants,12.87,29.12,45.5,25.3,3.53,14.67,113.569181,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_104_50,ASSY,USDA Plants,14.2,41.76,46.4,37.94,3.27,23.65,123.5256822,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_105_51,ASSY,USDA Plants,14,30.65,46.1,45.02,3.29,14.41,112.9900239,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_106_52,ASSY,USDA Plants,14.03,33.68,46,48.96,3.28,16.7,115.5883237,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_107_53,ASSY,USDA Plants,13.28,33.36,46.2,41.1,3.48,16.05,117.0269894,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_108_54,ASSY,USDA Plants,14,38.38,46.3,58.39,3.31,21.36,101.8661281,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_109_55,ASSY,USDA Plants,11.93,37.49,46.3,53.92,3.88,21.06,106.63809,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_110_56,ASSY,USDA Plants,13.16,35.31,45.9,50.84,3.49,18.79,120.0835577,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_111_57,ASSY,USDA Plants,17,31.69,45.9,57.07,2.7,15.04,99.55212234,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_112_58,ASSY,USDA Plants,12.23,36.75,46.1,54.88,3.77,20.5,114.7824031,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_113_59,ASSY,USDA Plants,15.61,35.64,45.9,74.46,2.94,18.01,91.25372856,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_114_60,ASSY,USDA Plants,16.04,33.19,45.8,57.46,2.86,16.83,85.83987335,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_115_63,ASSY,USDA Plants,11.24,29.16,45.9,43.84,4.08,16.2,116.1755442,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_116_75,ASSY,USDA Plants,14.53,20.14,44.9,29.05,3.09,5.82,37.81412165,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_117_67,ASSY,USDA Plants,13.06,24.98,46,66.4,3.52,10.01,81.34607571,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_118_70,ASSY,USDA Plants,14.15,23.07,44.8,54.12,3.17,11.27,57.33762682,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_119_69,ASSY,USDA Plants,10.19,27.54,46.2,39.71,4.53,14.11,95.23152588,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_120_61,ASSY,USDA Plants,13.39,27.66,45.6,62.57,3.41,13.12,62.57694057,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_121_71,ASSY,USDA Plants,18.08,26.39,44.5,69.99,2.46,12.33,80.26783457,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_122_52,ASSY,USDA Plants,13.2,22.8,43.8,9.82,3.32,11.35,59.90010662,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_123_46,ASSY,USDA Plants,20.94,23.82,44.4,62.85,2.12,8.07,48.13816735,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_124_53,ASSY,USDA Plants,16.8,24.65,44.8,54.42,2.66,8.58,49.91274726,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_125_55,ASSY,USDA Plants,13.98,21.96,44,12.62,3.15,10.75,17.38049868,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_126_47,ASSY,USDA Plants,13.52,23.21,44.9,38.46,3.32,8.02,83.94268273,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_127_48,ASSY,USDA Plants,17.12,15.94,44.6,42.92,2.6,1.18,102.7459233,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_128_50,ASSY,USDA Plants,13.71,23.61,44.9,63.41,3.28,9.97,86.09861083,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_129_51,ASSY,USDA Plants,15.77,26,45.2,70.44,2.86,12.56,86.21675688,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_130_112,ASSY,USDA Plants,14.58,25.19,45.9,63.84,3.15,9.69,123.2826117,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_131_120,ASSY,USDA Plants,11.18,27.14,45.2,54.11,4.05,14.95,81.76062084,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_132_109,ASSY,USDA Plants,13.79,24.35,45.4,43.55,3.29,9.23,23.37333536,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_133_116,ASSY,USDA Plants,13.63,21.62,44.7,58.81,3.28,10.58,111.4435439,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_134_106,ASSY,USDA Plants,11.55,25.42,44.9,38.01,3.89,13.33,65.51645615,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_135_117,ASSY,USDA Plants,12.63,26.41,45,61.53,3.56,15.87,86.72714714,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_136_111,ASSY,USDA Plants,13.02,22.92,44.3,55.16,3.4,11.73,83.33578152,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_137_114,ASSY,USDA Plants,10.95,32.61,46.1,45.07,4.21,16.06,115.6501453,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_138_58,ASSY,USDA Plants,10.51,29.12,46,50.5,4.37,16.51,99.14493748,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_139_55,ASSY,USDA Plants,12.81,25.3,45.6,49.51,3.56,11.11,138.7347962,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_140_46,ASSY,USDA Plants,13.47,29.15,45.3,63.95,3.37,14.53,91.36159159,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_141_50,ASSY,USDA Plants,11.22,31.49,45.2,65.42,4.03,19.74,89.48087563,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_142_51,ASSY,USDA Plants,12.91,27.76,45,60.82,3.49,15.06,113.5746024,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_143_53,ASSY,USDA Plants,15.68,27.96,44.8,46.88,2.85,13.18,67.27822241,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_144_49,ASSY,USDA Plants,16.63,28.28,44.8,64.54,2.69,11.73,62.03846975,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_145_59,ASSY,USDA Plants,13.36,29.2,44.9,35.45,3.36,14.61,50.96613291,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_146_48,ASSY,USDA Plants,14.69,34.27,45.1,75.56,3.07,18.55,68.35150661,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_147_114,ASSY,USDA Plants,15.28,26.76,44.6,44.31,2.92,9.25,10.37229504,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_148_111,ASSY,USDA Plants,16.24,26.85,45,60.8,2.77,12.32,75.98540933,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_149_118,ASSY,USDA Plants,13.08,26.9,44.6,29.68,3.41,12.16,21.14018926,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_150_110,ASSY,USDA Plants,16.47,22.02,44.5,48.93,2.7,8.62,97.31160092,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_151_119,ASSY,USDA Plants,18.68,26.08,44.8,43.27,2.4,9.87,0,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_152_108,ASSY,USDA Plants,15.19,26.09,44.5,51.87,2.93,9.79,60.14056622,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_153_109,ASSY,USDA Plants,14.61,27.97,44.2,68.42,3.03,15.59,90.99626102,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_154_117,ASSY,USDA Plants,16.76,26.47,44.3,72.34,2.64,14.18,83.93438107,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_155_115,ASSY,USDA Plants,15.44,22.32,44.9,72.17,2.91,9.14,108.4799193,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_156_120,ASSY,USDA Plants,15.41,26.32,44.6,50.33,2.89,11.54,74.85504303,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_157_55,ASSY,USDA Plants,14.13,26.64,44.8,52.4,3.17,11.38,59.65283338,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_158_53,ASSY,USDA Plants,11.35,36.07,45.2,61.14,3.98,20.62,125.8297366,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_159_57,ASSY,USDA Plants,10.73,31.47,45.9,53.67,4.28,18.59,108.1610562,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_160_51,ASSY,USDA Plants,11.13,36.32,45.6,59.06,4.1,22.07,111.3902441,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_161_52,ASSY,USDA Plants,11.37,27.88,45.2,47.56,3.98,16.36,91.40001558,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_162_54,ASSY,USDA Plants,9.99,31.56,46,48.04,4.6,18.1,89.41016347,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_163_49,ASSY,USDA Plants,9.67,32.49,46.6,50.37,4.82,19.24,98.0958181,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_164_58,ASSY,USDA Plants,11.93,31.19,44.9,48.16,3.76,18.29,102.9210064,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_165_59,ASSY,USDA Plants,11.21,35.32,45.6,51.36,4.07,23.29,102.0725891,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_166_47,ASSY,USDA Plants,13.75,32.34,45.1,37.04,3.28,16.83,38.53562317,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_167_12,ASSY,USDA Plants,9.85,37.61,46.6,48.17,4.73,21.81,99.65647279,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_168_13,ASSY,USDA Plants,10.58,33.68,46.1,47.59,4.36,19.79,83.60390002,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_169_39,ASSY,USDA Plants,11.16,33.3,46,41.8,4.12,20.3,95.88681982,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_170_23,ASSY,USDA Plants,10.96,30.06,45.9,51.67,4.19,18.19,91.33300096,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_171_30,ASSY,USDA Plants,14.09,29.88,44.8,74.39,3.18,13.26,92.47869298,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_172_40,ASSY,USDA Plants,15.55,29.06,44.6,42.28,2.87,13.3,17.5586446,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_173_29,ASSY,USDA Plants,14.36,34.79,43.9,74.46,3.05,20.33,59.95805163,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_174_28,ASSY,USDA Plants,14.53,33.88,44.5,50.18,3.07,18.42,40.88420364,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_175_21,ASSY,USDA Plants,14.71,31.89,44.4,53.56,3.02,17.18,66.56504201,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_176_113,ASSY,USDA Plants,13.22,28.94,44.2,45.32,3.35,16.28,57.58779041,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_177_118,ASSY,USDA Plants,15.25,25.41,44.6,50.2,2.92,10.22,76.26429228,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_178_119,ASSY,USDA Plants,12.85,29.52,44.6,42.48,3.47,15.11,66.29965222,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_179_107,ASSY,USDA Plants,15.35,24.3,44.5,56.83,2.9,9.7,48.93277392,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_180_114,ASSY,USDA Plants,13.63,24.99,45,55.94,3.3,9.25,85.3379101,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_181_108,ASSY,USDA Plants,13.28,25.16,44.4,48.09,3.34,12.3,65.77921681,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_182_111,ASSY,USDA Plants,14.97,22.43,44.8,47.91,2.99,7.41,41.01460755,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_183_48,ASSY,USDA Plants,13.05,29.68,45,62.8,3.45,14.45,58.63529945,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_184_58,ASSY,USDA Plants,15.52,21.22,44.4,27.04,2.86,6.13,30.84983253,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_185_52,ASSY,USDA Plants,13.29,27.76,45.6,73.73,3.43,13.75,79.91154937,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_186_56,ASSY,USDA Plants,12.21,32.59,46.1,69.48,3.78,17.09,77.00061763,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_187_53,ASSY,USDA Plants,9.9,34.48,46,62.2,4.64,20.32,87.17601161,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_188_51,ASSY,USDA Plants,9.77,32.58,46.3,47.11,4.74,18.15,86.17466031,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_189_54,ASSY,USDA Plants,10.33,30.21,46.2,50.25,4.47,17.2,113.2010905,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_190_46,ASSY,USDA Plants,11.97,25.64,45.5,40.13,3.8,10.56,79.47140993,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_191_50,ASSY,USDA Plants,16.64,23.92,44.4,77.9,2.67,8.21,58.96030021,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_192_36,ASSY,USDA Plants,18.49,28.97,45.2,81.58,2.44,12.68,60.0253373,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_193_45,ASSY,USDA Plants,14.99,40.6,44.9,87.26,3,21.38,50.64045227,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_194_57,ASSY,USDA Plants,11.65,22.95,43.7,19.52,3.75,12.62,100.7214847,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_195_59,ASSY,USDA Plants,13.17,23.1,44.7,45.33,3.39,8.77,73.51075492,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_196_71,ASSY,USDA Plants,14.07,21.94,44.2,58.75,3.14,8.22,81.91617321,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_197_72,ASSY,USDA Plants,9.37,39.74,47,71.37,5.02,23.5,99.74314688,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_198_14,ASSY,USDA Plants,11.75,29.99,45.4,67.08,3.87,15.76,73.11192225,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_199_29,ASSY,USDA Plants,12.08,28.14,45,43.78,3.73,15.63,85.31115968,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_200_34,ASSY,USDA Plants,13.34,27.35,45.5,63.73,3.41,12.92,105.1673662,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_201_68,ASSY,USDA Plants,10.31,30.27,45.8,59.05,4.44,16.44,94.33525266,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_202_73,ASSY,USDA Plants,9.57,32.65,46,63.95,4.81,17.5,56.51474536,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_203_78,ASSY,USDA Plants,9.1,33.51,46.4,60.35,5.1,20.2,104.6984161,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_204_82,ASSY,USDA Plants,9.36,37.06,47.3,64.82,5.05,19.47,90.55930393,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_205_88,ASSY,USDA Plants,12.9,27.56,45.1,58.13,3.5,13.44,97.77950305,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_206_91,ASSY,USDA Plants,12.5,31.55,45.7,81.65,3.66,16.39,77.62123959,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_207_92,ASSY,USDA Plants,11.17,29.1,45.2,52.37,4.05,15.66,66.26824562,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_208_93,ASSY,USDA Plants,12.99,27.15,45.7,57.24,3.52,12.34,75.23488505,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_209_94,ASSY,USDA Plants,10.92,29.55,44.9,54.85,4.11,17.81,78.11762955,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_210_95,ASSY,USDA Plants,11.72,30.84,45.9,58.3,3.91,15.41,73.36749155,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_211_96,ASSY,USDA Plants,13.16,30.49,45.6,66.8,3.47,14.4,67.2909416,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_212_98,ASSY,USDA Plants,14.34,40.2,45,83.52,3.14,21.09,46.53932769,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_213_99,ASSY,USDA Plants,14.42,36.89,44.5,53.89,3.09,21.5,27.05380766,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_214_100,ASSY,USDA Plants,20.1,28.57,44.8,96.5,2.23,12.29,47.92747082,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_215_101,ASSY,USDA Plants,14.21,35.52,44.5,72.86,3.14,17.76,85.08987878,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_216_102,ASSY,USDA Plants,12.44,36.5,45,65.38,3.61,19.25,77.90090897,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_217_103,ASSY,USDA Plants,15.55,31.85,44.9,86.74,2.89,15.14,71.63775535,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_218_104,ASSY,USDA Plants,15.4,36.69,45.2,66.57,2.93,18.3,52.9743825,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_219_105,ASSY,USDA Plants,17.66,36.54,45.3,70.81,2.56,16.91,69.71019416,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_220_76,ASSY,USDA Plants,16.67,36.94,45.3,80.52,2.71,18.59,32.29969088,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_221_77,ASSY,USDA Plants,13.26,37.18,44.9,83.98,3.38,19.76,104.0693917,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_222_78,ASSY,USDA Plants,15.7,46.39,45,98.06,2.86,26.49,86.27227419,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_223_79,ASSY,USDA Plants,13.74,40.16,45.5,60.57,3.31,20.57,64.37427946,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_224_80,ASSY,USDA Plants,12.21,42.87,44.7,96.09,3.66,28.13,107.329502,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_225_81,ASSY,USDA Plants,17.52,34.7,45.4,69.25,2.59,19.23,26.56904493,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_226_82,ASSY,USDA Plants,14.64,33,44.9,53.74,3.07,15.52,76.47025917,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_227_83,ASSY,USDA Plants,12.95,27.86,45.8,37.23,3.53,12.58,128.2754103,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_228_84,ASSY,USDA Plants,11.62,28.2,45.6,21,3.93,13.95,135.6247139,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_229_85,ASSY,USDA Plants,12.11,27.95,45.8,29.32,3.78,12.89,116.0905568,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_230_86,ASSY,USDA Plants,18.54,24.65,46.1,39.02,2.49,4.7,70.79726175,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_231_87,ASSY,USDA Plants,12.12,24.41,45.5,14.21,3.75,9.39,123.6171977,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_232_88,ASSY,USDA Plants,14.35,28.37,46.1,43.54,3.21,9.6,106.3544687,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_233_89,ASSY,USDA Plants,11.12,27.37,45.5,22.73,4.09,14.85,143.9044836,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_234_90,ASSY,USDA Plants,10.9,29.65,46.2,21.89,4.23,12.34,135.4261196,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_235_16,ASSY,USDA Plants,10.48,28.74,45.5,22.2,4.34,15.85,150.4285775,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_236_17,ASSY,USDA Plants,16.33,22.59,45.7,37.17,2.8,4.36,35.39982119,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_237_18,ASSY,USDA Plants,13.3,31.18,45.5,41.25,3.42,14.83,110.261036,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_238_20,ASSY,USDA Plants,12.06,34.21,45.2,53.19,3.74,17.63,138.5014413,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_239_21,ASSY,USDA Plants,12.94,28.26,44.9,33.67,3.47,13.62,117.6183355,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_240_22,ASSY,USDA Plants,14.31,33.44,45.2,40.63,3.16,17.13,110.333121,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_241_23,ASSY,USDA Plants,12.82,31.09,45.3,43.51,3.53,13.82,139.5618384,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_242_25,ASSY,USDA Plants,11.67,30.1,45.2,42.06,3.87,15.89,128.901279,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_243_26,ASSY,USDA Plants,13.61,30.09,44.9,39.14,3.3,15.21,124.873452,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_244_27,ASSY,USDA Plants,15.07,21.07,45.4,46.69,3.01,6.03,88.10345304,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_245_28,ASSY,USDA Plants,12.37,32.68,45.2,37.8,3.65,17.38,135.3273072,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_246_29,ASSY,USDA Plants,14.65,28.92,45,28.17,3.07,14.85,102.8780585,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_247_30,ASSY,USDA Plants,11.4,25.53,45.5,21.73,3.99,12.2,165.9088977,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_248_31,ASSY,USDA Plants,10.94,29.38,45.4,30.42,4.15,15.73,157.2651048,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_249_32,ASSY,USDA Plants,11.5,27.63,45.5,32.93,3.96,13.31,155.0390051,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_250_33,ASSY,USDA Plants,10.8,34.47,46,21.08,4.26,18.63,137.5550311,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_251_34,ASSY,USDA Plants,10.18,28.21,45.4,27.47,4.46,16.12,147.2334625,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_252_35,ASSY,USDA Plants,10.82,24.77,45.1,30.83,4.17,12.16,168.9805389,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_253_36,ASSY,USDA Plants,10.82,32.36,45.9,10.68,4.24,14.96,141.3165613,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_254_37,ASSY,USDA Plants,10.1,29.11,45.9,24.7,4.54,15.48,147.0895281,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_255_39,ASSY,USDA Plants,11.32,26.75,45.5,31.96,4.02,11.84,144.4253906,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_256_40,ASSY,USDA Plants,11.35,29.1,45.8,21.04,4.04,11.94,149.8472838,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_257_41,ASSY,USDA Plants,12.16,26.43,45.2,26.65,3.72,12.82,147.2007078,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_258_42,ASSY,USDA Plants,12.07,28.81,45.2,22.27,3.75,13.26,150.9675886,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_259_43,ASSY,USDA Plants,12.99,30.26,45.9,37.7,3.54,12.38,116.7974931,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_260_44,ASSY,USDA Plants,12.86,23.3,45.5,26.72,3.54,7.25,139.9980107,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_261_45,ASSY,USDA Plants,12.1,28.87,45.4,14.77,3.76,13.23,130.4452679,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_262_11,ASSY,USDA Plants,12.05,39.27,45.6,61.81,3.79,24.68,144.9689738,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_263_14,ASSY,USDA Plants,13.91,42.16,46.1,70.26,3.32,25.48,125.520863,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_264_15,ASSY,USDA Plants,14.72,38.6,45.1,93.71,3.06,22.38,147.6323379,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_265_26,ASSY,USDA Plants,13.03,40.13,45.9,57.72,3.52,23.98,129.553276,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_266_33,ASSY,USDA Plants,18.17,33.32,45.5,59.23,2.5,16.08,113.6530549,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_267_45,ASSY,USDA Plants,13.25,33.5,45.7,35.49,3.45,17.15,119.7147463,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_268_07,ASSY,USDA Plants,15.75,32.73,45.5,45.23,2.89,16.79,125.0283051,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_269_24,ASSY,USDA Plants,12,32.86,45.3,40,3.78,16.56,138.2442627,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_270_36,ASSY,USDA Plants,14.15,33.98,45.8,34.67,3.24,16.99,137.9295793,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_271_37,ASSY,USDA Plants,13.16,33.57,45.6,45.51,3.47,16.21,125.213887,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_272_38,ASSY,USDA Plants,13.68,34.13,45.2,63.24,3.31,17.93,156.8984762,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_273_42,ASSY,USDA Plants,12.01,28.07,45.7,33.02,3.8,13.34,160.8521871,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_274_16,ASSY,USDA Plants,12.85,30.21,45.8,48.23,3.56,13.88,126.6155025,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_275_17,ASSY,USDA Plants,12.36,24.05,46.1,25,3.73,7.34,124.5318955,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_276_18,ASSY,USDA Plants,12.28,28.66,45.8,27.64,3.73,13.12,136.6850235,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_277_19,ASSY,USDA Plants,12.15,32.74,46.1,30.71,3.8,13.82,139.1686747,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_278_20,ASSY,USDA Plants,12.98,26.85,45.9,40.06,3.54,10.19,113.90238,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_279_21,ASSY,USDA Plants,12.2,30.05,45.8,34.74,3.76,13.67,138.5264361,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_280_22,ASSY,USDA Plants,13.4,25.86,45.8,41.04,3.42,9.48,94.51837435,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_281_23,ASSY,USDA Plants,11.71,24.47,45.4,8.71,3.87,10.9,162.9205128,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_282_24,ASSY,USDA Plants,11.48,31.1,45.3,30.08,3.95,17.52,138.8049086,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_283_25,ASSY,USDA Plants,10.58,29.76,45.7,14.22,4.32,13.57,163.1243299,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_284_26,ASSY,USDA Plants,10.79,31.91,46,25.58,4.26,14.4,168.4298536,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_285_27,ASSY,USDA Plants,10.94,30.48,45.9,28.64,4.2,15.23,142.3850896,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_286_28,ASSY,USDA Plants,13.24,25.73,46,35.37,3.47,10.41,131.6364803,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_287_29,ASSY,USDA Plants,12.3,30.49,46.2,23.78,3.75,14.64,155.985833,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_288_30,ASSY,USDA Plants,11.25,27.47,45.3,13.21,4.03,12.24,161.0913199,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_289_91,ASSY,USDA Plants,11.97,30.71,44.6,19.24,3.73,18.54,128.7422076,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_290_92,ASSY,USDA Plants,12.04,31.64,45.7,20.63,3.79,16.26,127.9641991,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_291_93,ASSY,USDA Plants,12.88,27.12,45.2,21.67,3.51,12.03,123.2373909,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_292_94,ASSY,USDA Plants,11.13,27.03,44.7,14.88,4.02,14.44,114.5343454,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_293_95,ASSY,USDA Plants,11.93,32.78,45.4,28.7,3.81,17.08,150.9441631,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_294_96,ASSY,USDA Plants,11.1,33.93,45.8,29.2,4.13,16.26,168.4703959,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_295_97,ASSY,USDA Plants,14.54,25.74,45.3,8.44,3.12,9.85,101.9005125,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_296_98,ASSY,USDA Plants,11.93,35.2,45.5,26.78,3.82,17.5,158.0027246,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_297_99,ASSY,USDA Plants,11.71,31.59,45.5,21.14,3.89,15.71,147.5143354,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_298_100,ASSY,USDA Plants,19.39,22.5,45,28.03,2.32,7.43,117.3816338,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_299_101,ASSY,USDA Plants,13.25,32.47,45.4,27.1,3.42,17.71,133.1593466,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_300_102,ASSY,USDA Plants,14.05,27.26,45.6,26.39,3.24,11.56,115.7482542,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_301_103,ASSY,USDA Plants,12.76,30.87,45.7,34.94,3.58,13.55,126.7660099,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_302_104,ASSY,USDA Plants,14.96,33.53,45.7,47.67,3.06,15.33,120.1522748,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_303_105,ASSY,USDA Plants,13.58,25.48,45.9,38.57,3.38,9.73,95.34493172,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_304_57,ASSY,USDA Plants,11.66,29.93,45.3,27.47,3.89,16.05,145.374107,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_305_49,ASSY,USDA Plants,11.71,33.19,46.2,32.95,3.95,18.46,141.5627505,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_306_36,ASSY,USDA Plants,13.25,34.11,45.8,37.14,3.46,18.69,141.7318437,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_307_71,ASSY,USDA Plants,13.72,28.65,45.7,45.3,3.33,13.04,87.60004061,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_308_29,ASSY,USDA Plants,13.62,43.01,45.3,71.49,3.33,31.25,164.7572297,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_309_78,ASSY,USDA Plants,12.26,42.51,45.4,58.69,3.7,31.37,158.3889839,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_310_82,ASSY,USDA Plants,15.48,40.72,45.7,65.89,2.95,24.2,164.7717881,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_311_88,ASSY,USDA Plants,15.45,43.21,45.9,78.42,2.97,27.68,139.299709,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_312_73,ASSY,USDA Plants,14.36,31.85,44.3,51.63,3.08,21.94,147.5904887,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_313_94,ASSY,USDA Plants,16.73,35.3,44.4,61.96,2.66,23.82,170.3413232,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_314_100,ASSY,USDA Plants,12.23,28.34,44.7,29.92,3.65,16.03,142.663655,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_315_104,ASSY,USDA Plants,11.54,31,45.4,25.38,3.93,17.92,118.1456168,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_316_91,ASSY,USDA Plants,11.61,30.09,45.6,29.63,3.93,15.47,131.1535757,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_317_105,ASSY,USDA Plants,12.12,33.99,45.5,36.08,3.76,19.46,129.9235106,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_318_92,ASSY,USDA Plants,11.31,30.36,45.6,36.83,4.03,15.3,146.7363495,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_319_95,ASSY,USDA Plants,12.79,26.39,45.7,36.15,3.58,11.25,129.2769561,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_320_98,ASSY,USDA Plants,10.89,30.91,46.1,27.6,4.23,17.78,115.1172346,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_321_85,ASSY,USDA Plants,13.25,28.07,45.3,31.48,3.42,14.1,113.5001859,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_322_78,ASSY,USDA Plants,11.64,31,45.3,35.09,3.89,17.84,108.4812877,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_323_89,ASSY,USDA Plants,11.38,30.78,45.5,41.05,4,16.46,129.1710865,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_324_79,ASSY,USDA Plants,11.78,33.2,45.5,37.22,3.86,18.35,141.6298851,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_325_77,ASSY,USDA Plants,12.76,27.22,45.3,21.32,3.55,14,98.2397628,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_326_83,ASSY,USDA Plants,12.94,34.4,45.8,31.17,3.54,18.88,120.3568835,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_327_82,ASSY,USDA Plants,13,31.8,45.8,21.5,3.52,15.79,124.1913047,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_328_84,ASSY,USDA Plants,11.89,38.1,46.1,43.61,3.87,20.81,139.0869838,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_329_88,ASSY,USDA Plants,12.2,34.67,45.6,26.65,3.74,17.74,122.2330159,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_330_17,ASSY,USDA Plants,11.89,35.56,45.9,41.99,3.86,19.59,124.4466388,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_331_16,ASSY,USDA Plants,12.77,34.79,45.5,55.19,3.56,16.97,135.2496079,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_332_21,ASSY,USDA Plants,11.93,33.97,45.6,32.69,3.82,17.78,127.4074154,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_333_27,ASSY,USDA Plants,14.9,28.79,45.8,27.58,3.07,12.22,163.3000994,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_334_25,ASSY,USDA Plants,11.95,32.75,45.6,33.4,3.81,18.56,126.9535446,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_335_18,ASSY,USDA Plants,11.77,37.22,45.9,30.99,3.9,20.21,158.2884924,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_336_28,ASSY,USDA Plants,13.2,36.03,45.7,56.23,3.47,19.12,145.644585,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_337_30,ASSY,USDA Plants,11.57,36.49,45.3,28.26,3.92,22.45,136.3117714,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_338_36,ASSY,USDA Plants,12.2,31.65,45.6,26,3.74,16.38,156.7276541,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_339_41,ASSY,USDA Plants,13.87,31.61,45.9,63.05,3.31,15.22,127.7438816,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_340_45,ASSY,USDA Plants,11.99,33.68,45.5,33.09,3.79,18.1,147.5627213,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_341_37,ASSY,USDA Plants,12.56,38.29,45.7,75.91,3.64,20.2,140.0911298,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_342_33,ASSY,USDA Plants,12.65,36.57,45.9,59.1,3.62,18.81,144.6801565,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_343_31,ASSY,USDA Plants,12.85,30.92,45.3,51.38,3.53,14.7,116.8073193,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_344_35,ASSY,USDA Plants,12.23,27.65,45.5,50.46,3.72,12.51,114.580738,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_345_38,ASSY,USDA Plants,13.33,25.72,45.1,15.08,3.38,11.48,46.69313923,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_346_42,ASSY,USDA Plants,16.16,16.45,45,37.91,2.78,-0.43,79.34699756,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_347_44,ASSY,USDA Plants,15.56,19.83,45.2,36.59,2.9,3.82,68.82350247,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_348_45,ASSY,USDA Plants,17.67,21.2,44.7,31.68,2.53,6.05,34.5823033,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_349_26,ASSY,USDA Plants,14.51,25.58,45.5,44.18,3.14,8.01,95.40260931,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_350_11,ASSY,USDA Plants,15.75,25.35,44.9,41.94,2.85,8.47,109.1156263,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_351_36,ASSY,USDA Plants,17.47,33.04,45.6,69.7,2.61,14.87,45.72393661,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_352_37,ASSY,USDA Plants,12.65,35.89,45.6,51.89,3.6,20.87,113.5362815,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_353_24,ASSY,USDA Plants,21.96,17.46,44.9,74.81,2.05,0.68,55.32796423,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_354_17,ASSY,USDA Plants,12.84,28.77,44.9,44.23,3.5,14,80.58619864,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_355_19,ASSY,USDA Plants,13.46,30.31,45.2,53.08,3.36,13.68,89.44655137,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_356_28,ASSY,USDA Plants,14.41,26.81,45,64.08,3.12,13.69,137.3663485,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_357_23,ASSY,USDA Plants,14.23,28.87,45,63.2,3.16,12.6,78.82665266,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_358_21,ASSY,USDA Plants,10.47,28.25,45.6,47.89,4.35,16.79,131.7407279,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_359_24,ASSY,USDA Plants,13.1,27.12,45.2,43.46,3.45,14.4,120.4497302,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_360_25,ASSY,USDA Plants,14.26,27.12,45.7,37.59,3.2,9.15,121.557067,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_361_27,ASSY,USDA Plants,10.64,30.09,45.8,49.66,4.31,18.44,105.591538,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_362_30,ASSY,USDA Plants,12.31,25.17,45.3,61.06,3.68,13.02,126.1597889,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_363_105,ASSY,USDA Plants,12.62,27.47,45.2,73.07,3.58,16.04,116.2703924,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_364_95,ASSY,USDA Plants,13.56,29.76,45.4,49.98,3.35,15.34,103.7863172,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_365_96,ASSY,USDA Plants,10.99,32.17,45.7,42.77,4.16,19.28,108.828777,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_366_99,ASSY,USDA Plants,13.04,26.18,45.2,61,3.47,14.84,98.97748054,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_367_91,ASSY,USDA Plants,12.39,26.6,45.1,37.38,3.64,14.54,98.91691823,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_368_94,ASSY,USDA Plants,12.06,27.55,45.5,44.81,3.77,11.99,106.1951843,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_369_97,ASSY,USDA Plants,12.79,27.29,45.1,69.04,3.53,14.5,110.8254318,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_370_100,ASSY,USDA Plants,12.76,25.88,45.3,50.89,3.55,12.81,130.5598354,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_371_101,ASSY,USDA Plants,12.91,28.24,45.3,45.06,3.51,14.52,110.316298,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_372_103,ASSY,USDA Plants,13.29,24.12,44.7,51.7,3.37,13.14,114.867616,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_373_16,ASSY,USDA Plants,12.49,28.66,44.9,53.66,3.59,12,143.3013389,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_374_17,ASSY,USDA Plants,16.48,29.63,45.5,56.37,2.76,11.42,62.26161057,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_375_19,ASSY,USDA Plants,18.18,24.38,44.7,63.89,2.46,9.37,109.0733679,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_376_22,ASSY,USDA Plants,15.1,30.39,44.5,77.92,2.95,15.44,99.52680569,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_377_23,ASSY,USDA Plants,18.56,23.7,44.7,62.59,2.41,7.85,103.6608882,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_378_24,ASSY,USDA Plants,13.63,29.57,45.3,45.67,3.32,12.28,98.33734995,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_379_26,ASSY,USDA Plants,19.57,23.62,45.2,79.79,2.31,6.72,120.4122141,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_380_28,ASSY,USDA Plants,15.12,24.14,44.6,26.18,2.95,9.11,73.51489354,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_381_30,ASSY,USDA Plants,17.12,29.48,44.7,53.05,2.61,12.06,97.56641769,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_382_01,ASSY,USDA Plants,14.99,25.86,44.5,32.27,2.97,10.94,71.91279462,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_383_02,ASSY,USDA Plants,13.86,25.12,44.2,27.7,3.19,11.84,38.88280763,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_384_03,ASSY,USDA Plants,17.58,25.21,45.3,51.91,2.58,7.52,93.1475457,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_385_04,ASSY,USDA Plants,15.22,28.51,44.5,38.87,2.92,13.83,58.79939076,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_386_05,ASSY,USDA Plants,15.57,22.8,45.3,24.65,2.91,6.97,55.37659294,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_387_06,ASSY,USDA Plants,14.26,27.1,44.4,29.32,3.11,13.34,65.16692446,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_388_07,ASSY,USDA Plants,11.72,36.21,45.6,56.97,3.89,22.81,119.3207231,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_389_08,ASSY,USDA Plants,13.68,29.61,45.4,26.62,3.32,12.09,114.2321549,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_390_09,ASSY,USDA Plants,11.81,34.49,45.6,43.36,3.86,21.16,101.0098946,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_391_12,ASSY,USDA Plants,10.2,37.3,46.4,64.92,4.55,21.7,116.0240335,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_392_15,ASSY,USDA Plants,10.89,37.66,45.9,62.1,4.22,22.62,120.7407273,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_393_31,ASSY,USDA Plants,10.23,37.52,46.5,62.28,4.54,22.98,128.713239,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_394_32,ASSY,USDA Plants,10.58,29.26,45.8,38.18,4.33,15.42,126.1372465,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_395_33,ASSY,USDA Plants,9.07,35.25,46.3,68.56,5.1,21.34,112.4526532,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_396_34,ASSY,USDA Plants,9.69,35.24,45.6,55.92,4.7,23.95,130.734924,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_397_35,ASSY,USDA Plants,14.57,35.78,45.7,58.05,3.13,21.43,105.2491942,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_398_36,ASSY,USDA Plants,10.3,35.59,46,46.56,4.46,23.1,128.6735484,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_399_37,ASSY,USDA Plants,12.33,33.2,45.7,60.22,3.7,18.71,138.686874,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_400_38,ASSY,USDA Plants,12.81,37.41,45.6,48.04,3.56,19.84,107.7439614,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_401_39,ASSY,USDA Plants,13.94,32.32,44.8,54.62,3.22,15.33,103.3602626,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_402_40,ASSY,USDA Plants,14.85,30.83,44.6,59.16,3,14.49,75.89480643,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_403_41,ASSY,USDA Plants,14.29,27.67,45,43.23,3.15,12.75,78.75359888,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_404_42,ASSY,USDA Plants,15.25,28.02,44.7,46.46,2.93,12.67,61.34393159,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_405_43,ASSY,USDA Plants,14.89,22.46,45.8,67.31,3.08,6.42,142.5182478,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_406_44,ASSY,USDA Plants,14.32,25.95,45.4,48.43,3.17,9.42,91.61991469,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_407_45,ASSY,USDA Plants,12.8,30.08,45.2,50.69,3.53,14.4,118.8521961,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_408_05,ASSY,USDA Plants,14.22,28.16,45.1,52.93,3.17,11.5,95.44310081,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_409_06,ASSY,USDA Plants,17.25,28.35,45.1,78.2,2.62,10.46,65.2771431,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_410_07,ASSY,USDA Plants,15.36,28.66,45.1,54.95,2.93,11.29,81.47009086,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_411_08,ASSY,USDA Plants,13.25,29.12,45.2,75.34,3.41,12.27,131.1290117,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_412_09,ASSY,USDA Plants,15.38,28.62,44.9,65.93,2.92,13.32,93.9674869,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_413_10,ASSY,USDA Plants,15.93,31.64,45.1,74.75,2.83,14.12,67.93521757,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_414_11,ASSY,USDA Plants,13.88,27.89,45,80.88,3.24,14.67,146.2764117,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_415_12,ASSY,USDA Plants,12.67,24.79,45.1,42.56,3.56,11.94,85.09679472,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_416_13,ASSY,USDA Plants,11.96,38.48,45.9,48.93,3.84,21.9,105.3287463,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_417_14,ASSY,USDA Plants,12.54,31.22,45.7,47.74,3.65,15.56,108.1851744,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_418_15,ASSY,USDA Plants,13.17,26.68,45.5,45.7,3.45,12.07,71.76652358,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_419_61,ASSY,USDA Plants,13.14,30.85,46,50.42,3.5,14.72,113.9652332,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_420_62,ASSY,USDA Plants,15.04,30.55,45.6,56.93,3.03,13.62,85.04394325,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_421_63,ASSY,USDA Plants,12.36,31.87,45.5,47.25,3.68,17,126.0996209,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_422_64,ASSY,USDA Plants,16.14,25.35,45.1,54.52,2.8,7.16,44.47120197,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_423_65,ASSY,USDA Plants,16.65,26.73,45.2,88.42,2.71,10.17,104.9510953,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_424_66,ASSY,USDA Plants,15.5,24.99,43.5,41.9,2.81,10.42,56.01950534,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_425_67,ASSY,USDA Plants,12.88,36.35,46,84,3.57,20.99,97.90588469,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_426_68,ASSY,USDA Plants,12.15,27.06,45.5,58.7,3.74,15.07,105.5397003,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_427_69,ASSY,USDA Plants,13.67,25.62,45.5,49.16,3.32,11.12,96.56784029,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_428_70,ASSY,USDA Plants,13.06,31.44,46,69.35,3.52,14.27,114.561276,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_429_71,ASSY,USDA Plants,13.77,36.63,45.9,64.4,3.33,20.15,97.4394875,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_430_72,ASSY,USDA Plants,11.75,28.94,46,61.09,3.92,13.82,101.8103711,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_431_73,ASSY,USDA Plants,13.18,33.7,45.5,60.39,3.45,18.5,87.35452211,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_432_74,ASSY,USDA Plants,13.55,27.63,44.9,48.65,3.32,11.8,103.3664311,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_433_75,ASSY,USDA Plants,12.22,32.01,45.9,70.14,3.76,16.82,117.6734484,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_434_91,ASSY,USDA Plants,11.95,32.47,46,77.06,3.85,18.07,97.75572118,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_435_92,ASSY,USDA Plants,8.93,38.12,47.1,63.46,5.27,21.21,121.038941,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_436_93,ASSY,USDA Plants,11.15,34.27,45.8,66.35,4.11,21.03,131.0078893,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_437_94,ASSY,USDA Plants,14.02,34.12,45.6,76.98,3.25,18.9,87.36956178,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_438_95,ASSY,USDA Plants,13.4,34.93,46,61.48,3.43,18.48,90.71321117,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_439_96,ASSY,USDA Plants,16.1,25.84,45.4,39.3,2.82,7.83,92.58588571,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_440_97,ASSY,USDA Plants,16.42,30.2,45.3,76.54,2.76,12.43,87.51330094,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_441_98,ASSY,USDA Plants,13.99,32.59,45.4,79.34,3.25,15.14,100.9161869,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_442_99,ASSY,USDA Plants,14.27,34.5,45.5,85.45,3.19,15.76,76.10996158,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_443_100,ASSY,USDA Plants,16.37,31.51,45.6,86.63,2.78,14.08,90.33825573,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_444_101,ASSY,USDA Plants,16.05,31.7,44.8,77.88,2.79,13.33,72.42293929,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_445_102,ASSY,USDA Plants,14.06,31.05,45.9,53.83,3.27,12.87,79.95434939,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_446_103,ASSY,USDA Plants,15.5,30.27,45,63.91,2.9,12.49,73.14061151,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_447_104,ASSY,USDA Plants,15.12,33.77,45.6,70.08,3.02,15.08,68.5315419,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_448_105,ASSY,USDA Plants,16.1,35.4,45.5,72.1,2.83,16.94,98.67566036,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_449_08,ASSY,USDA Plants,18.33,31.09,45.6,96.34,2.49,13.74,86.8734654,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_450_31,ASSY,USDA Plants,17.02,35.13,45.6,71.03,2.68,16,57.70067923,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_451_32,ASSY,USDA Plants,18.49,27.72,45.3,85.04,2.45,11.75,75.64749899,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_452_35,ASSY,USDA Plants,20.83,27.86,45.4,65.99,2.18,9.67,52.1503928,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_453_60,ASSY,USDA Plants,16.36,35.07,45.5,68.4,2.78,17.41,76.14584637,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_454_02,ASSY,USDA Plants,10.53,30.22,48,39.32,4.56,11.61,135.2877259,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_455_03,ASSY,USDA Plants,12.08,34.78,45.9,55.82,3.8,21,124.3334919,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_456_09,ASSY,USDA Plants,10.96,28.79,47.6,31.12,4.34,11.61,132.0137858,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_457_34,ASSY,USDA Plants,10.65,25.08,47.8,38.94,4.49,6.28,143.7417439,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_458_44,ASSY,USDA Plants,13.07,34.43,46.3,53.75,3.54,19.1,151.1806519,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_459_46,ASSY,USDA Plants,12.23,35.47,45.9,57.64,3.76,20.1,120.4883932,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_460_61,ASSY,USDA Plants,10.12,28.59,47.9,36.3,4.73,9.5,140.4428349,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_461_62,ASSY,USDA Plants,14.39,32.18,46.6,29.89,3.24,14.63,118.9310328,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_462_63,ASSY,USDA Plants,17.11,34.96,46.4,38.91,2.71,16.91,121.9227373,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_463_64,ASSY,USDA Plants,14.9,33.98,46.3,26.85,3.11,17.97,119.1573648,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_464_65,ASSY,USDA Plants,14.18,34.4,46.6,44.01,3.28,16.89,125.6093755,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_465_67,ASSY,USDA Plants,15.77,36.28,45.9,46.5,2.91,19.58,140.4225436,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_466_68,ASSY,USDA Plants,16.8,32.33,46.1,47.85,2.74,14.7,100.6508804,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_467_69,ASSY,USDA Plants,20.26,34.68,46.4,56.54,2.29,15.57,103.5288144,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_468_70,ASSY,USDA Plants,13.59,33.76,45.8,36.97,3.37,18.37,110.4767145,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_469_71,ASSY,USDA Plants,13.35,37.88,46.9,98.26,3.52,20.67,121.0230782,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_470_72,ASSY,USDA Plants,15.31,34,47.4,88.66,3.1,14.55,110.6134829,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_471_73,ASSY,USDA Plants,15.55,39.47,48.1,100.69,3.09,18.1,103.5839492,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_472_74,ASSY,USDA Plants,12.41,36.18,47.1,75.66,3.8,17.5,134.4374066,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_473_75,ASSY,USDA Plants,12.93,35.71,47.4,80.61,3.67,16.15,126.5416223,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_474_01,ASSY,USDA Plants,13.92,37.98,47,81.69,3.38,19.62,120.0851533,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_475_02,ASSY,USDA Plants,12.85,40.76,47.3,83.31,3.68,22.51,117.0438083,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_476_03,ASSY,USDA Plants,12.01,37.94,47,66.51,3.91,20.68,148.2202259,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_477_04,ASSY,USDA Plants,13.64,28.59,46.4,31.1,3.4,11.7,123.7197237,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_478_05,ASSY,USDA Plants,11.93,29.1,46.4,19.33,3.89,12.93,99.22589473,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_479_06,ASSY,USDA Plants,18,29.2,46.2,43.59,2.57,10.87,112.9788491,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_480_07,ASSY,USDA Plants,16.13,33.71,46,51.55,2.85,16.12,110.2495166,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_481_08,ASSY,USDA Plants,14.74,34.19,46,35.3,3.12,17.45,111.429747,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_482_09,ASSY,USDA Plants,13.34,33.43,46,36.74,3.45,16.45,111.2920381,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_483_10,ASSY,USDA Plants,18.11,29.7,46.4,39.96,2.56,10.16,89.5202268,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_484_11,ASSY,USDA Plants,15.18,31.65,45.4,35.94,2.99,16.74,111.9912427,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_485_12,ASSY,USDA Plants,16.96,32.85,46.2,45.36,2.72,14.78,122.5998934,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_486_13,ASSY,USDA Plants,12.53,36.26,47.1,67.98,3.76,18.34,133.4630692,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_487_14,ASSY,USDA Plants,12.53,40.93,46.1,71.82,3.68,26.45,132.1225664,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_488_15,ASSY,USDA Plants,13.63,40.1,46.5,69.3,3.41,22.3,128.0094681,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_489_16,ASSY,USDA Plants,12.14,32.82,47.5,59.8,3.91,15.02,136.0533585,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_490_28,ASSY,USDA Plants,11.97,41.38,47,74.81,3.92,24.76,138.7902134,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_491_24,ASSY,USDA Plants,12.63,36.82,46.8,60.95,3.7,18.4,144.5863059,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_492_19,ASSY,USDA Plants,14.38,40.21,46.4,93.41,3.23,22.64,133.7281527,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_493_03,ASSY,USDA Plants,12.22,35.59,48,67.85,3.93,16.36,116.0654155,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_494_15,ASSY,USDA Plants,13.41,39.48,47.6,81.27,3.55,19.1,131.4783525,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_495_01,ASSY,USDA Plants,15.34,36.4,46.2,80.42,3.01,21.43,122.5335029,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_496_08,ASSY,USDA Plants,13.68,31.13,46.7,31.34,3.41,15.24,135.8936403,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_497_05,ASSY,USDA Plants,15.89,33.39,46.3,36.88,2.92,16.09,120.749016,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_498_45,ASSY,USDA Plants,12.49,36.09,47.1,40.77,3.77,19.17,141.3297072,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_499_42,ASSY,USDA Plants,13.4,33.72,46.2,37.68,3.45,19.59,120.1954023,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_500_36,ASSY,USDA Plants,15.08,31.71,46.8,32.29,3.1,14.39,115.6383647,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_501_32,ASSY,USDA Plants,14.91,32.43,46.1,48.17,3.09,16.4,119.3848507,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_502_39,ASSY,USDA Plants,14.77,31.29,46.7,40.63,3.16,14.27,121.6496867,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_503_33,ASSY,USDA Plants,14.08,32.02,46.5,37.9,3.3,15.57,130.5550413,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_504_35,ASSY,USDA Plants,16.71,30.61,46.3,58.38,2.77,13.13,110.6944876,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_505_38,ASSY,USDA Plants,14.15,32.44,47.1,36.37,3.33,15.32,136.5145483,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_506_44,ASSY,USDA Plants,10.94,32.57,48.8,45.73,4.47,13.37,147.3967743,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_507_07,ASSY,USDA Plants,13.67,32.95,48.7,83.25,3.56,12.72,109.7993974,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_508_10,ASSY,USDA Plants,10.89,37.88,48.4,65.23,4.44,19.64,130.2874206,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_509_13,ASSY,USDA Plants,13.42,33.84,46.2,60.08,3.44,16.18,116.6290974,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_510_14,ASSY,USDA Plants,15.2,37.59,46.5,66.25,3.06,20.21,126.4212789,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_511_11,ASSY,USDA Plants,12.6,31.89,45.9,32.48,3.65,16.14,121.8376854,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_512_01,ASSY,USDA Plants,14.72,33.38,46.9,54.88,3.19,14.88,127.2574107,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_513_04,ASSY,USDA Plants,14.01,35.35,46.4,47.29,3.31,18.77,134.2384148,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_514_09,ASSY,USDA Plants,17.18,36.71,46.4,61.66,2.7,17.71,96.329471,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_515_12,ASSY,USDA Plants,12.85,30.23,48.2,83.64,3.75,12.87,133.3622465,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_516_15,ASSY,USDA Plants,17.22,35.26,46.4,115.17,2.69,18.55,117.2129053,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_517_64,ASSY,USDA Plants,13.02,36.88,47.1,85.4,3.61,19.28,150.4923962,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_518_65,ASSY,USDA Plants,12.2,38.35,48.5,72.68,3.98,18.23,100.3154733,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_519_75,ASSY,USDA Plants,12.59,35.45,47.9,85.5,3.81,16.51,90.24339255,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_520_66,ASSY,USDA Plants,11.82,37.41,47.3,94.5,4,21.96,126.1946208,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_521_67,ASSY,USDA Plants,10.95,38.95,48.6,78,4.44,18.32,96.25819883,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_522_68,ASSY,USDA Plants,14.24,33.55,47.1,49.16,3.31,15.84,143.5977501,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_523_69,ASSY,USDA Plants,14.15,43.17,48.4,110.79,3.42,21.74,111.9485668,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_524_72,ASSY,USDA Plants,13.94,39.34,47.7,62.12,3.43,19.33,154.2321741,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_525_73,ASSY,USDA Plants,14.39,33.67,47.4,46.41,3.29,15.2,145.5435876,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_526_103,ASSY,USDA Plants,13.54,36.73,47.8,42.92,3.53,17.64,129.6122363,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_527_93,ASSY,USDA Plants,13.08,32.59,47,43.78,3.59,13.85,123.2070085,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_528_96,ASSY,USDA Plants,14.41,36.37,47.7,51.22,3.31,16.75,132.6754878,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_529_92,ASSY,USDA Plants,15.36,35.14,47.3,56.72,3.08,15.81,125.3486317,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_530_94,ASSY,USDA Plants,14.1,32.3,47.4,52.05,3.37,13.4,137.1021707,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_531_95,ASSY,USDA Plants,14.15,33.72,46.2,86.24,3.27,16.42,76.838571,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_532_97,ASSY,USDA Plants,16.23,29.71,45.8,82.61,2.82,15.29,61.7183184,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_533_98,ASSY,USDA Plants,12.43,38.47,47,90.22,3.78,21.47,70.13575947,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_534_101,ASSY,USDA Plants,13.96,32.78,45.9,70.52,3.29,17.93,70.23786686,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_535_102,ASSY,USDA Plants,17.31,32.77,45.8,76.54,2.65,14.78,39.85143007,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_536_31,ASSY,USDA Plants,15.9,36.16,46.5,88.48,2.93,19.47,68.71341502,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_537_32,ASSY,USDA Plants,17.01,35.9,46.1,71.26,2.71,17.57,69.31573395,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_538_08,ASSY,USDA Plants,20.05,34.81,46.4,106.82,2.31,15.68,41.75797321,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_539_35,ASSY,USDA Plants,14.56,36.38,46,51.69,3.16,20.11,61.85170938,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_540_34,ASSY,USDA Plants,13.81,33.33,45.3,92.79,3.28,19.35,88.80771265,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_541_46,ASSY,USDA Plants,13.97,34.35,45.1,90.35,3.23,20.76,85.01096495,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_542_06,ASSY,USDA Plants,14.44,30.88,45.6,96.2,3.16,16.51,66.14720909,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_543_09,ASSY,USDA Plants,15.64,35.19,46.1,91.88,2.95,19.42,56.56265741,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_544_71,ASSY,USDA Plants,14.94,33.02,45.4,74.61,3.04,18.66,78.54807682,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_545_65,ASSY,USDA Plants,18.62,32.03,45.8,102.37,2.46,15.33,44.84659108,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_546_74,ASSY,USDA Plants,13.1,34.63,45.5,82.98,3.47,21.29,74.47376263,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_547_66,ASSY,USDA Plants,13.64,32.64,45.7,100.76,3.35,18.58,78.51773868,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_548_75,ASSY,USDA Plants,15.21,33.81,45.6,55.61,3,15.77,49.68967669,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_549_61,ASSY,USDA Plants,16.29,33.45,46.2,97.94,2.84,16.87,45.90324132,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_550_63,ASSY,USDA Plants,12.81,28.81,46.1,29.48,3.59,13.41,45.50868118,Water stressed,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_551_14,ASSY,USDA Plants,16.03,32.93,46.2,86.74,2.88,16.06,42.52992599,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_552_08,ASSY,USDA Plants,14.48,27.55,45.6,48.84,3.15,10.68,75.95914478,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_553_10,ASSY,USDA Plants,17.8,28.53,45.7,66.27,2.57,11.41,32.22920356,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_554_07,ASSY,USDA Plants,18.45,31.18,46,95.33,2.5,13.98,40.19078638,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_555_02,ASSY,USDA Plants,17.3,29.79,45.8,76.62,2.65,12.07,27.00168035,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_556_03,ASSY,USDA Plants,15.7,39.3,45.9,101.82,2.92,20.72,67.48379675,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_557_06,ASSY,USDA Plants,13.3,35.2,46,81.96,3.46,21.43,72.56282598,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_558_09,ASSY,USDA Plants,14.39,32.75,46.4,74.94,3.22,17.32,53.45269425,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_559_12,ASSY,USDA Plants,14.36,31.44,45.6,70.04,3.17,17.29,63.66180022,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_560_15,ASSY,USDA Plants,14.97,33.81,45.8,77.58,3.06,18,51.08482301,Well-watered,30,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_561_11,ASSY,USDA Plants,16.47,30.86,45.8,86.31,2.78,13.67,52.83113891,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_562_18,ASSY,USDA Plants,13.93,31.91,45.9,74.66,3.3,17.34,55.26076947,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_563_21,ASSY,USDA Plants,17.08,31.57,46.4,80.3,2.72,15.59,95.44046294,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_564_108,ASSY,USDA Plants,13.48,32.7,45.9,83.12,3.41,18.76,72.81195855,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_565_110,ASSY,USDA Plants,15.22,24.91,46.2,57.55,3.03,7.83,84.9177783,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_566_111,ASSY,USDA Plants,16.13,28.83,45.9,62.66,2.84,12.09,69.65932814,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_567_119,ASSY,USDA Plants,15.89,31.41,46.1,77.02,2.9,14.17,81.61005996,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_568_10,ASSY,USDA Plants,13.35,29.34,46,43.56,3.45,12.03,78.54338579,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_569_13,ASSY,USDA Plants,19.98,31.3,46.3,86.31,2.32,12.76,66.59122864,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_570_92,ASSY,USDA Plants,15.23,29.45,46.2,65.51,3.03,13.43,66.79755682,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_571_93,ASSY,USDA Plants,13.16,32.83,45.7,66.9,3.47,16.7,84.3858359,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_572_95,ASSY,USDA Plants,12.2,28.85,45.9,39.7,3.76,13.52,75.75811303,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_573_96,ASSY,USDA Plants,14.85,28.49,45.6,66.9,3.07,13.67,83.02009087,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_574_101,ASSY,USDA Plants,17.84,29.55,46.5,75.03,2.61,12.23,94.35752581,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_575_103,ASSY,USDA Plants,14.69,29.26,45.8,48.98,3.12,11.18,44.50680134,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_576_61,ASSY,USDA Plants,11.75,34.46,46.8,70.49,3.99,20.63,95.69332436,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_577_62,ASSY,USDA Plants,13.02,36.41,47.3,85.02,3.63,20,91.65170351,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_578_63,ASSY,USDA Plants,20.11,29.71,45.9,91.1,2.28,10.61,51.3989051,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_579_64,ASSY,USDA Plants,16.59,29.52,46.5,64.67,2.8,13.67,49.65320941,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_580_65,ASSY,USDA Plants,18.77,32.13,46.9,85.18,2.5,14.2,6.593995748,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_581_66,ASSY,USDA Plants,12.73,34.22,47.2,84.23,3.71,18.45,85.2496361,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_582_67,ASSY,USDA Plants,12.12,30.87,46.7,62.13,3.85,16.43,88.09424856,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_583_68,ASSY,USDA Plants,11.21,38.41,46.5,99.64,4.15,23.71,58.38903433,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_584_69,ASSY,USDA Plants,11.31,36.08,46.3,70.95,4.09,21.37,63.85168361,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_585_70,ASSY,USDA Plants,11.11,39.31,46.2,89.65,4.16,25.01,84.77159397,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_586_71,ASSY,USDA Plants,12.56,34.03,46.4,97.19,3.7,19.3,69.99013467,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_587_72,ASSY,USDA Plants,11.31,33.25,46.5,79.58,4.11,18.94,75.57577204,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_588_73,ASSY,USDA Plants,11.78,29.54,47.5,82.87,4.03,13.52,108.5772169,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_589_74,ASSY,USDA Plants,12.3,36.05,46.7,88.42,3.8,19.63,68.85341957,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_590_75,ASSY,USDA Plants,15.12,31.42,45.7,76.34,3.02,15.17,63.18696962,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_591_16,ASSY,USDA Plants,17.86,31.26,46.2,77.8,2.59,14.46,50.36401931,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_592_17,ASSY,USDA Plants,22.2,27.48,45.8,86.34,2.06,10.35,24.82690482,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_593_18,ASSY,USDA Plants,15.38,32.2,45.9,70.32,2.99,16.07,65.60311026,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_594_19,ASSY,USDA Plants,15.57,31.4,46.1,76.9,2.96,14.76,49.17930126,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_595_20,ASSY,USDA Plants,14.81,33.18,45.9,65.81,3.1,16.07,52.2927555,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_596_21,ASSY,USDA Plants,17.07,32.44,46.5,96.2,2.73,15.03,50.00667497,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_597_22,ASSY,USDA Plants,17.65,29.47,46.4,76.9,2.63,12.97,78.99979048,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_598_23,ASSY,USDA Plants,16.53,36.92,45.9,95.35,2.78,20.48,61.52257823,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_599_24,ASSY,USDA Plants,18.77,31.55,46,98.29,2.45,13.22,27.63425279,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_600_25,ASSY,USDA Plants,12.47,31.73,47.4,53.06,3.8,14.47,168.7655975,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_601_26,ASSY,USDA Plants,11.44,35.31,47.2,44.24,4.12,18.74,142.7578786,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_602_27,ASSY,USDA Plants,12.59,35.73,48.2,75.84,3.83,16.23,135.3348764,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_603_28,ASSY,USDA Plants,11.25,37.62,48,50.11,4.27,18.15,133.426913,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_604_29,ASSY,USDA Plants,12.65,35.32,46.6,39.07,3.68,17.13,127.9223814,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_605_30,ASSY,USDA Plants,12.88,36.3,46.9,34.15,3.64,19.45,136.3171919,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_606_76,ASSY,USDA Plants,13.16,33.33,46.7,29.86,3.55,14.59,164.9384652,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_607_77,ASSY,USDA Plants,12.13,34.22,47.1,42.43,3.89,18.11,166.4412899,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_608_78,ASSY,USDA Plants,23.01,27.7,46.1,53.22,2,8.73,80.39670632,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_609_79,ASSY,USDA Plants,15.4,35.12,47.8,99.05,3.1,15.69,126.5064482,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_610_80,ASSY,USDA Plants,12.97,32.64,47.2,66.19,3.64,14.1,135.9141666,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_611_82,ASSY,USDA Plants,14.23,33.47,47.2,62.19,3.31,14.59,135.5671233,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_612_83,ASSY,USDA Plants,17.17,34.22,47.9,92.25,2.79,13.72,110.6950715,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_613_85,ASSY,USDA Plants,13.49,34.76,47.7,71.95,3.53,15.55,127.7332,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_614_86,ASSY,USDA Plants,12.76,33.26,47.4,64.94,3.71,16.13,121.9369296,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_615_87,ASSY,USDA Plants,13.88,32.4,47.1,76.98,3.39,14.09,121.4972759,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_616_88,ASSY,USDA Plants,15.02,28.94,46.4,40.03,3.09,11.77,144.9343897,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_617_89,ASSY,USDA Plants,13.51,34.42,47.6,69.42,3.52,15.46,133.6752421,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_618_90,ASSY,USDA Plants,16.23,36.08,47,87.89,2.89,15.71,96.76084076,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_619_01,ASSY,USDA Plants,15.61,35.65,46.8,49.71,3,16.69,136.7439472,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_620_02,ASSY,USDA Plants,15.91,33.91,47.1,46.44,2.96,15.24,141.5981495,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_621_03,ASSY,USDA Plants,13.17,33.65,46.4,43.87,3.52,16.89,110.2112337,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_622_04,ASSY,USDA Plants,14.31,31.93,46.4,29.84,3.24,15.62,110.033041,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_623_05,ASSY,USDA Plants,13.95,38.49,47.3,73.31,3.39,19.39,136.0202663,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_624_06,ASSY,USDA Plants,13.45,33.93,46.7,47.23,3.47,18.06,168.195945,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_625_07,ASSY,USDA Plants,14.26,33.75,46.5,38.61,3.26,16.51,137.2497863,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_626_08,ASSY,USDA Plants,15.11,35.05,46.2,61.03,3.06,20.08,136.5761788,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_627_09,ASSY,USDA Plants,16.28,30.85,46.2,48.5,2.84,14.31,124.6507539,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_628_10,ASSY,USDA Plants,12.67,33.15,47.6,76.65,3.76,14.76,130.5541471,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_629_11,ASSY,USDA Plants,13.84,32.49,47.5,64.56,3.43,13.37,150.2552597,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_630_12,ASSY,USDA Plants,11.37,38.09,47.3,47.18,4.16,20.81,133.9770207,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_631_14,ASSY,USDA Plants,12.36,32.14,48,72.62,3.88,14.07,142.2534,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_632_15,ASSY,USDA Plants,13,35.73,47.6,60.88,3.66,17.98,125.6381731,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_633_05,ASSY,USDA Plants,12.58,38.05,47,81.89,3.74,20.86,119.849554,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_634_17,ASSY,USDA Plants,12.49,34.36,46.5,59.81,3.73,16.94,148.1170146,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_635_18,ASSY,USDA Plants,12.2,35.45,46.8,75.81,3.84,17.81,133.6355148,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_636_19,ASSY,USDA Plants,11.82,34.25,46.8,54.25,3.96,17.3,160.7498809,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_637_41,ASSY,USDA Plants,11.5,30.82,46.3,19.03,4.02,14.02,121.3730025,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_638_04,ASSY,USDA Plants,13.58,37,47,49.38,3.46,18.85,140.8271243,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_639_10,ASSY,USDA Plants,12.09,33.77,46.7,36.81,3.86,17.5,147.048652,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_640_16,ASSY,USDA Plants,13.07,35.42,46.9,54.31,3.59,17.25,162.5660996,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_641_20,ASSY,USDA Plants,12.86,34.01,47.2,46.44,3.67,16.33,151.8621445,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_642_43,ASSY,USDA Plants,12.97,38.24,46.6,60.75,3.59,22.14,159.5131617,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_643_31,ASSY,USDA Plants,13.65,33.49,47.2,60.16,3.46,15.7,130.4186801,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_644_32,ASSY,USDA Plants,12.94,36.49,47.4,62.5,3.66,18.68,149.5901316,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_645_33,ASSY,USDA Plants,13.5,34.25,46.1,41.91,3.41,18.02,140.5498597,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_646_34,ASSY,USDA Plants,14.14,34.61,47.1,59.35,3.33,16.3,143.9595773,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_647_35,ASSY,USDA Plants,13.18,33.76,46.6,43.52,3.53,16.45,159.8035095,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_648_36,ASSY,USDA Plants,13.46,36.12,47.9,75.41,3.56,16.82,134.5783102,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_649_37,ASSY,USDA Plants,11.42,31.62,48,47.35,4.2,12.29,182.9580134,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_650_38,ASSY,USDA Plants,15.89,43.43,48.6,88.81,3.06,20.21,156.0948086,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_651_39,ASSY,USDA Plants,14.53,35.58,47.5,59.17,3.27,15.88,147.0692532,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_652_40,ASSY,USDA Plants,14.03,37.34,48.1,55.21,3.43,17.12,160.7532835,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_653_41,ASSY,USDA Plants,13.63,36.46,47.6,70.49,3.5,17,144.6874698,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_654_42,ASSY,USDA Plants,14.39,36.3,48.1,69.74,3.34,15.61,145.7260172,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_655_43,ASSY,USDA Plants,10.93,34.04,47.7,85.53,4.36,18.48,106.2130757,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_656_44,ASSY,USDA Plants,11.74,40.23,47.9,77.95,4.08,22.68,108.92116,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_657_76,ASSY,USDA Plants,13.62,36.71,48.1,90.12,3.53,18.05,114.9009659,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_658_77,ASSY,USDA Plants,11.91,39.76,47.9,87.38,4.02,20.69,121.7698418,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_659_78,ASSY,USDA Plants,13.02,35,48.1,68.28,3.69,15.38,129.0770881,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_660_79,ASSY,USDA Plants,12.29,36.35,47.2,69.58,3.84,18.39,117.0680084,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_661_80,ASSY,USDA Plants,14.04,36.89,47.7,63.6,3.39,16.1,139.3406882,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_662_81,ASSY,USDA Plants,13.59,40.17,48,73.05,3.54,18.83,123.8910047,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_663_82,ASSY,USDA Plants,12.86,39.37,47.7,64.59,3.71,19.7,146.3228679,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_664_83,ASSY,USDA Plants,12.35,36.77,48,69.44,3.88,18.59,147.1240759,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_665_84,ASSY,USDA Plants,13.55,35.12,47.4,63.12,3.5,15.24,155.0814861,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_666_85,ASSY,USDA Plants,13.13,36,47.2,48.01,3.59,15.76,138.1267831,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_667_86,ASSY,USDA Plants,11.77,34.04,47.4,45.46,4.02,16.22,150.4306922,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_668_87,ASSY,USDA Plants,16.87,36.73,47.9,91.71,2.84,16.21,98.20858601,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_669_88,ASSY,USDA Plants,12.53,33.98,47.3,23.8,3.78,16.23,144.4134193,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_670_89,ASSY,USDA Plants,11.64,34,47.4,42.44,4.07,16.39,144.369789,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_671_90,ASSY,USDA Plants,16.09,33.74,47.3,61.74,2.94,14.46,138.5889017,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_672_108,ASSY,USDA Plants,17.55,31.21,46.2,69.5,2.63,15.3,96.65479237,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_673_111,ASSY,USDA Plants,18.26,33.27,46.4,71.8,2.54,16.22,87.39170361,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_674_119,ASSY,USDA Plants,19.16,26.79,46,65.45,2.4,11.27,80.4580088,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_675_110,ASSY,USDA Plants,18.65,28.19,46.4,68.17,2.49,11.7,71.35746167,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_676_93,ASSY,USDA Plants,17.84,29.68,46.4,63.97,2.6,11.55,66.10534794,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_677_10,ASSY,USDA Plants,18.91,32.32,46.3,72.65,2.45,14.09,82.11721917,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_678_101,ASSY,USDA Plants,17.88,31.52,46.4,73.6,2.6,13.42,74.79437546,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_679_92,ASSY,USDA Plants,16.09,36,46.5,77.74,2.89,17.27,84.34988702,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_680_95,ASSY,USDA Plants,13.14,35.65,47.4,89.56,3.61,18.64,86.4681496,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_681_74,ASSY,USDA Plants,13.36,33.58,46.9,68.37,3.51,17.03,116.282087,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_682_71,ASSY,USDA Plants,13.24,29.84,46.6,60.96,3.52,13.57,111.8550852,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_683_65,ASSY,USDA Plants,14.7,29.61,46.3,71.93,3.15,14.44,91.59837363,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_684_62,ASSY,USDA Plants,13.61,34.07,46.6,65.64,3.43,18.75,115.9660682,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_685_68,ASSY,USDA Plants,14.79,29.57,46.5,70.6,3.15,13.53,101.3980289,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_686_61,ASSY,USDA Plants,13.6,33.35,46.6,79.34,3.43,18.12,106.8125491,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_687_64,ASSY,USDA Plants,13.49,32.18,46.4,76.28,3.44,17.8,96.60719213,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_688_69,ASSY,USDA Plants,22.32,29.58,46.5,88.64,2.08,10.5,61.4657965,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_689_70,ASSY,USDA Plants,14.59,31.06,46.8,61.52,3.21,13.95,84.88760394,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_690_73,ASSY,USDA Plants,11.26,37.33,47.4,74.37,4.21,21.2,120.3495284,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_691_22,ASSY,USDA Plants,14.53,32.29,45.5,44.37,3.13,16.3,64.20931945,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_692_19,ASSY,USDA Plants,17.53,34.37,45.9,79.78,2.62,17.22,78.78337235,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_693_16,ASSY,USDA Plants,16.13,38.74,46.2,87.67,2.86,21.17,86.55097294,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_694_25,ASSY,USDA Plants,17.6,32.88,45.5,63.17,2.59,17.85,84.64928299,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_695_02,ASSY,USDA Plants,18.5,36.33,46.4,83.86,2.51,19.37,100.5977491,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_696_17,ASSY,USDA Plants,17.71,34.24,46,69.45,2.6,18.22,63.63620837,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_697_20,ASSY,USDA Plants,15.27,32.39,45.3,51.45,2.97,15.46,57.81881857,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_698_27,ASSY,USDA Plants,13.57,35.52,46.2,55.25,3.41,20.19,104.3327588,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_699_28,ASSY,USDA Plants,17.67,30.8,45.2,62.78,2.56,16.14,74.99202729,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_700_29,ASSY,USDA Plants,16.41,27.81,46.5,85.65,2.83,11.76,134.9334374,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_701_30,ASSY,USDA Plants,13.92,28.04,45.5,34.73,3.27,13.06,92.22035469,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_702_80,ASSY,USDA Plants,11.51,31.23,47.4,59.85,4.12,16.18,147.6189457,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_703_89,ASSY,USDA Plants,13.94,28,46.4,24.54,3.33,14.22,103.7360451,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_704_85,ASSY,USDA Plants,13.21,28.38,47,55.85,3.56,13.02,114.0343752,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_705_82,ASSY,USDA Plants,12.12,26.86,46.8,44.32,3.86,11.96,107.7692692,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_706_79,ASSY,USDA Plants,14.22,24.38,46,61.18,3.23,10.48,105.5101841,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_707_12,ASSY,USDA Plants,19.15,29.8,45.4,60.25,2.37,14.08,82.59769797,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_708_14,ASSY,USDA Plants,17.42,31.29,45.5,63.49,2.61,15.76,96.12893764,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_709_07,ASSY,USDA Plants,15.24,30.92,46.2,51.54,3.03,15.55,99.32239493,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_710_02,ASSY,USDA Plants,18.1,27.21,45.9,70.71,2.54,11.68,69.47392855,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_711_09,ASSY,USDA Plants,13.74,31.51,45.5,50,3.31,16.63,84.92033355,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_712_05,ASSY,USDA Plants,13.9,33.25,45.2,55.81,3.25,17.64,94.22286664,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_713_08,ASSY,USDA Plants,18.09,28.84,45.6,55.2,2.52,12.49,85.58953407,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_714_11,ASSY,USDA Plants,17.17,34.49,45.7,64.02,2.66,20.6,91.61556653,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_715_15,ASSY,USDA Plants,13.66,37.1,47.3,87.06,3.46,20.86,108.9499628,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_716_05,ASSY,USDA Plants,13.68,30,46.7,57.93,3.41,15.27,109.7170804,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_717_19,ASSY,USDA Plants,13.72,30.77,46.4,64.1,3.38,16.58,125.5792942,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_718_18,ASSY,USDA Plants,12.99,31.95,46.8,69.25,3.6,17.18,114.3321401,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_719_04,ASSY,USDA Plants,17.71,35.1,46.7,90.38,2.64,16.01,81.39633538,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_720_20,ASSY,USDA Plants,14.56,32.23,46.8,85.14,3.21,15.43,96.12762287,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_721_38,ASSY,USDA Plants,11.78,36.18,47.5,78.74,4.03,19.42,87.12552917,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_722_33,ASSY,USDA Plants,12.96,31.67,46.8,81.68,3.61,17.49,110.3900649,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_723_36,ASSY,USDA Plants,12.27,35.87,46.8,62.76,3.81,18.76,78.69458222,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_724_35,ASSY,USDA Plants,13.07,40.55,48.3,112.78,3.7,21.34,109.1321615,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_725_41,ASSY,USDA Plants,9.91,42.06,48.1,92.26,4.86,25.03,113.8165365,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_726_31,ASSY,USDA Plants,12.62,40.3,47.5,100.32,3.77,22.98,103.828556,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_727_34,ASSY,USDA Plants,11.48,40.17,47.8,81.81,4.17,22.48,98.5842537,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_728_39,ASSY,USDA Plants,11.91,34.91,47.7,97.35,4,19.49,86.26701255,Water stressed,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_729_81,ASSY,USDA Plants,18.49,36.76,45.7,95.35,2.47,19.97,80.19298884,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_730_80,ASSY,USDA Plants,14.05,39.47,46.8,99.4,3.33,22.77,81.75590621,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_731_78,ASSY,USDA Plants,18.72,39.28,46.2,104.32,2.47,21.28,63.67847038,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_732_84,ASSY,USDA Plants,16.96,37.31,46.3,96.64,2.73,19.42,70.09613254,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_733_79,ASSY,USDA Plants,16.83,38.38,45.7,94.41,2.72,20.38,78.38530263,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_734_86,ASSY,USDA Plants,18.25,33.48,45.8,90.62,2.51,18.18,52.73964791,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
+ecosis_milkweed_stress_735_90,ASSY,USDA Plants,16.99,42.93,46.3,100.23,2.72,25.5,66.24009154,Well-watered,23,TRUE,asd-fs3,43.076,-89.422,2012
