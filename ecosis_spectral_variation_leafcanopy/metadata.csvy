@@ -1,0 +1,48 @@
+#---
+#project_code: ecosis_spectral_variation_leafcanopy
+#short_name: Spectral variation
+#long_name: Spectral Variation Between Leaf-level and Canopy-level Measurements
+#spectra_methods:
+#  comment: Handheld, contact, greenhouse. Only using single plant spec.
+#resources:
+#  fields:
+#  - name: observation_id
+#    type: string
+#  - name: N_fertilization_treatment
+#    type: string
+#  - name: species_code
+#    type: string
+#  - name: Database_ID
+#    type: string
+#  - name: latitude
+#    type: number
+#  - name: longitude
+#    type: number
+#  - name: instrument_code
+#    type: string
+#  - name: is_experiment
+#    type: boolean
+#  - name: is_agriculture
+#    type: boolean
+#  - name: year
+#    type: number
+#
+#---
+observation_id,N_fertilization_treatment,species_code,Database_ID,latitude,longitude,instrument_code,is_experiment,is_agriculture,year
+AMHY_F_BASELINE_19_mean,Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_12_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_F_BASELINE_20_mean,Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_11_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_NF_SEQTA_P1_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_F_BASELINE_23_mean,Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_10_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_F_BASELINE_22_mean,Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_05_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_04_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_07_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_06_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_01_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_03_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_02_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_09_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013
+AMHY_08_mean,Not Fertalized,AMHY,USDA Plants,43.08,-89.42,asd-fs3,TRUE,TRUE,2013

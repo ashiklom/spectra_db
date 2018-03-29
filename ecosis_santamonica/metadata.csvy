@@ -1,0 +1,692 @@
+#---
+#project_code: ecosis_santamonica
+#short_name: Santa Monica Mtns.
+#long_name: Santa Monica Mountains vegetation species spectra
+#spectra_methods:
+#  comment: Proximal, handheld, some canopy
+#resources:
+#  fields:
+#  - name: observation_id
+#    type: string
+#  - name: species_common_name
+#    type: string
+#  - name: description
+#    type: string
+#  - name: species_genus
+#    type: string
+#  - name: species_species
+#    type: string
+#  - name: species_code
+#    type: string
+#  - name: Dataset_ID
+#    type: string
+#  - name: collection_date
+#    type: date
+#  - name: year
+#    type: number
+#  - name: target_type
+#    type: string
+#  - name: instrument_code
+#    type: string
+#  - name: is_experiment
+#    type: boolean
+#  - name: latitude
+#    type: number
+#  - name: longitude
+#    type: number
+#
+#---
+observation_id,species_common_name,description,species_genus,species_species,species_code,Dataset_ID,collection_date,year,target_type,instrument_code,is_experiment,latitude,longitude
+f7beac01-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac01-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f6argc01-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala01-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala01-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f8adsp01-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f7beac02-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac02-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adsp02-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6argc02-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca01-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala02-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac03-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac03-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adsp03-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6argc03-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale01-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala03-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac04-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac04-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adsp04-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6argc04-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale02-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca01-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac05-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac05-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adsp05-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6argc05-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sa_a01-95,San Luis purple sage,mixed with Artemesia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale01-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac06-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac06-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8bslt01-98,,Basalt,,,,USDA Plants,1998-08-27,1998,rock,asd-fs,FALSE,34.08,-118.8
+f6same01-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca02-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale02-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac07-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac07-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8bslt02-98,,Basalt,,,,USDA Plants,1998-08-27,1998,rock,asd-fs,FALSE,34.08,-118.8
+f6same02-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5er_a01-95,coastal buckwheat,mixed with Artemesia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sa_a01-95,San Luis purple sage,mixed with Artemisia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac08-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac08-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8bslt03-98,,Basalt,,,,USDA Plants,1998-08-27,1998,rock,asd-fs,FALSE,34.08,-118.8
+f6stik01-96,,spectra of sticks,,,,USDA Plants,1996-10-18,1996,npv,asd-fs,FALSE,34.08,-118.8
+f5sale03-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca02-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac09-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac09-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8bslt04-98,,Basalt,,,,USDA Plants,1998-08-27,1998,rock,asd-fs,FALSE,34.08,-118.8
+f6argc06-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala02-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5er_a01-95,coastal buckwheat,mixed with Artemisia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7beac10-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac10-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8erfa01-98,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6argc07-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala03-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale03-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7wsnd01-97,,wet beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac11-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8erfa02-98,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6argc08-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca03-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala04-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7wsnd02-97,,wet beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac12-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adfa01-98,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa01-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale04-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca03-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7cecu01-97,buckbrush,,Ceanothus,cuneatus,CECU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7beac13-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adsp06-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa02-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale05-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale04-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7cecu02-97,buckbrush,,Ceanothus,cuneatus,CECU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7beac14-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adsp07-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa03-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sa_a02-95,San Luis purple sage,mixed with Artemesia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale05-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road01-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7beac15-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
+f8adsp08-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6same03-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca04-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sa_a02-95,San Luis purple sage,mixed with Artemisia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road02-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7sale01-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f8adsp09-98,redshank,,Adenostoma,sparsifolium,ADSP,USDA Plants,1998-08-27,1998,veg,asd-fs,FALSE,34.08,-118.8
+f6same04-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5er_a02-95,coastal buckwheat,mixed with Artemesia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca04-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7argd01-97,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7sale02-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6argc09-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale06-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5er_a02-95,coastal buckwheat,mixed with Artemisia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7argd02-97,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7sale03-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6argc10-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala04-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale06-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7same01-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca01-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6same05-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala05-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala05-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7same02-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca02-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6same06-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca05-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala06-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7losc01-97,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca03-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa01-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale07-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca05-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7sans01-97,,sandstone,,,,USDA Plants,1997-10-07,1997,rock,asd-fs,FALSE,34.08,-118.8
+s7sale04-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa04-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale08-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale07-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7sans02-97,,sandstone,,,,USDA Plants,1997-10-07,1997,rock,asd-fs,FALSE,34.08,-118.8
+s7sale05-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa05-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sa_a03-95,San Luis purple sage,mixed with Artemesia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale08-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7adfa01-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7sale06-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa06-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca06-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sa_a03-95,San Luis purple sage,mixed with Artemisia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7adfa02-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca04-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme01-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5er_a03-95,coastal buckwheat,mixed with Artemesia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca06-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7arca01-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca05-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme02-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale09-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5er_a03-95,coastal buckwheat,mixed with Artemisia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-06-08,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7arca02-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7ar_s01-97,coastal sagebrush,mixed Atemisia cal. And Salvia leuc.,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme03-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala06-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa01-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7erfa01-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erci01-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6same07-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala07-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a01-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7erfa02-97,Eastern Mojave buckwheat,Also had Artemisia californica in field of view,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erci02-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6same08-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca07-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a02-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7cesp01-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erci03-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme04-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale10-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol01-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7cesp02-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erci04-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme05-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale11-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol02-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7cesp03-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erci05-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme06-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sa_a04-95,San Luis purple sage,mixed with Artemesia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ce_a01-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7erfa03-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erci06-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme07-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca08-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa02-95,chamise,mixed with Adenostoma fasc.,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7losc02-97,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca06-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa02-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5er_a04-95,coastal buckwheat,mixed with Artemesia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa03-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7losc03-97,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca07-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa03-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale12-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa04-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7erfa04-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7arca08-97,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6qudu01-96,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala08-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a03-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7mala01-97,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7sale07-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6qudu02-96,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala09-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a04-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7mala02-97,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7sale08-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6qudu03-96,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca09-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol03-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7mala03-97,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7sale09-97,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp01-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale13-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol04-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7hear01-97,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa01-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp02-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale14-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ce_a02-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7hear02-97,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa02-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp03-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sa_a05-95,San Luis purple sage,mixed with Artemesia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa05-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7hear03-97,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa03-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp04-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca10-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa06-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7hear04-97,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa04-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp05-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5er_a05-95,coastal buckwheat,mixed with Artemesia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa07-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7qudu01-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa05-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6soil01-96,,soil,,,,USDA Plants,1996-10-18,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5sale15-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a05-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7qudu02-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa06-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6soil02-96,,soil,,,,USDA Plants,1996-10-18,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5mala10-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a06-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7qudu03-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7same01-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp06-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala11-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol05-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7qudu04-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7same02-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp07-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca11-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol06-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7qudu05-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7same03-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp08-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale16-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ce_a03-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7qudu06-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa07-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa04-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale17-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa08-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7mala04-97,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa08-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa05-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sa_a06-95,San Luis purple sage,mixed with Artemesia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa09-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7mala05-97,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa09-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa06-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca12-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa10-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road03-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7same04-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa07-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5er_a06-95,coastal buckwheat,mixed with Artemesia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a07-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road04-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7same05-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa08-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale18-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a08-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road05-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7same06-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa09-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala12-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol07-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road06-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7erci07-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa10-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5mala13-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol08-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road07-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7erci08-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp09-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca13-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ce_a04-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7road08-97,,dirt road,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
+s7erci09-97,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp10-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale19-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa11-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7quag01-97,California live oak,,Quercus,agrifolia,QUAG,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7qudu01-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cesp11-96,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale20-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa12-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7quag02-97,California live oak,,Quercus,agrifolia,QUAG,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7qudu02-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa11-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sa_a07-95,San Luis purple sage,mixed with Artemesia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa13-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7quag03-97,California live oak,,Quercus,agrifolia,QUAG,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7qudu03-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6miau01-96,orange bush monkeyflower,,Diplacus,aurantiacus,DIAUA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5arca14-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a09-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7quag04-97,California live oak,,Quercus,agrifolia,QUAG,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa01-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6miau02-96,orange bush monkeyflower,,Diplacus,aurantiacus,DIAUA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5er_a07-95,coastal buckwheat,mixed with Artemesia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ad_a10-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7quag05-97,California live oak,,Quercus,agrifolia,QUAG,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa02-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6miau03-96,orange bush monkeyflower,,Diplacus,aurantiacus,DIAUA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5sale21-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-10-16,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol09-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7quag06-97,California live oak,,Quercus,agrifolia,QUAG,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa03-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6miau04-96,orange bush monkeyflower,,Diplacus,aurantiacus,DIAUA,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa01-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceol10-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+f7quag07-97,California live oak,,Quercus,agrifolia,QUAG,USDA Plants,1997-10-07,1997,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa10-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6yuwh01-96,chaparral yucca,,Hesperoyucca,whipplei,HEWH,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ad_a01-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ce_a05-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa11-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6losc01-96,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol01-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5adfa14-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-06-09,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa04-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa12-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol02-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme01-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp01-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erfa13-96,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ce_a01-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme02-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp02-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa07-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa02-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme03-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp03-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa08-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa03-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme04-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp04-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cebe01-96,,,Cercocarpus,betuloides,CEBE3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa04-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme05-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa05-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cebe02-96,,,Cercocarpus,betuloides,CEBE3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ad_a02-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme06-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa06-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6cebe03-96,,,Cercocarpus,betuloides,CEBE3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol03-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme07-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa07-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa09-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol04-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5gras01-95,,grass,,,,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa08-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa10-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ce_a02-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme08-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa09-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa11-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa05-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme09-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa10-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme08-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa06-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme10-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa11-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme09-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa07-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme11-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa12-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6hear01-96,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ad_a03-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme12-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7erfa12-97,Eastern Mojave buckwheat,,Eriogonum,fasciculatum,ERFA2,USDA Plants,1997-04-11,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6hear02-96,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol05-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme13-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7losc01-97,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme10-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol06-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme14-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp05-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala01-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ce_a03-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5gras02-95,,grass,,,,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp06-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala02-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa08-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme15-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp07-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme11-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa09-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme16-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7cesp08-97,redheart,,Ceanothus,spinosus,CESP,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme12-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa10-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme17-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7qudu07-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6ceme13-96,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ad_a04-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme18-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7qudu08-97,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6rhov01-96,sugar sumac,,Rhus,ovata,RHOV,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol07-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme19-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7losc02-97,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6rhov02-96,sugar sumac,,Rhus,ovata,RHOV,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol08-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme20-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7losc03-97,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6rhov03-96,sugar sumac,,Rhus,ovata,RHOV,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ce_a04-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme21-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa17-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6rhov04-96,sugar sumac,,Rhus,ovata,RHOV,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa11-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5gras03-95,,grass,,,,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa18-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6yuwh02-96,chaparral yucca,,Hesperoyucca,whipplei,HEWH,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa12-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme22-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa19-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6yuwh03-96,chaparral yucca,,Hesperoyucca,whipplei,HEWH,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa13-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme23-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa20-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6arca01-96,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ad_a05-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme24-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa21-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6arca02-96,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol09-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme25-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7hear01-97,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6same09-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol10-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme26-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7hear02-97,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6same10-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ce_a05-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme27-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7hear03-97,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1997-04-12,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6same11-96,black sage,,Salvia,mellifera,SAME3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa14-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme28-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7same07-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6erci01-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa15-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5gras04-95,,grass,,,,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7same08-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala03-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa16-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme29-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7same09-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala04-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ad_a06-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme30-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7ceme01-97,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala05-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol11-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme31-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7ceme02-97,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala06-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol12-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme32-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7ceme03-97,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala07-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ce_a06-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme33-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7ceme04-97,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6mala08-96,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa17-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme34-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7ceme05-97,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6losc02-96,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa18-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme35-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7argc01-97,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6hear03-96,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa19-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5gras05-95,,grass,,,,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7argc02-97,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6hear04-96,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ad_a07-95,chamise,mixed with Arctostaphylos glandulosa,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme36-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7argc03-97,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6hear05-96,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol13-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme37-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7same10-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6hear06-96,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceol14-95,hairy ceanothus,,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme38-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7same11-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6hear07-96,toyon,,Heteromeles,arbutifolia,HEAR5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ce_a07-95,hairy ceanothus,mixed with Adenostoma fasc.,Ceanothus,oliganthus,CEOL,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme39-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7same12-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa12-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa20-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme40-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa22-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa13-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5adfa21-95,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1995-10-17,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme41-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa23-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa14-96,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme01-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5ceme42-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-06-10,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa24-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6losc03-96,common deerweed,,Lotus,scoparius,LOSC2,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme02-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala07-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa25-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6rhov05-96,sugar sumac,,Rhus,ovata,RHOV,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme03-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala08-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7argc04-97,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6rhov06-96,sugar sumac,,Rhus,ovata,RHOV,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme04-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca07-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7argc05-97,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6argd01-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme05-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale09-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7argc06-97,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6argd02-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme06-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale10-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7argc07-97,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6argd03-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5gras01-95,,grass,,,,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sa_a04-95,San Luis purple sage,mixed with Artemisia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7ceme06-97,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6argd04-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme07-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca08-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7ceme07-97,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6qudu04-96,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme08-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5er_a04-95,coastal buckwheat,mixed with Artemisia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7adfa26-97,chamise,,Adenostoma,fasciculatum,ADFA,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6qudu05-96,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme09-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale11-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+s7same13-97,black sage,,Salvia,mellifera,SAME3,USDA Plants,1997-04-13,1997,veg,asd-fs,FALSE,34.08,-118.8
+f6qudu06-96,coastal sage scrub oak,,Quercus,dumosa,QUDU,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme10-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala09-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6argd05-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme11-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala10-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6argd06-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme12-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca09-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6argd07-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5gras02-95,,grass,,,,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale12-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6adfa15-96,Eastwood's manzanita,,Arctostaphylos,glandulosa,ARGL3,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f5ceme13-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale13-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac01-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme14-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sa_a05-95,San Luis purple sage,mixed with Artemisia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac02-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme15-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca10-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac03-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme16-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5er_a05-95,coastal buckwheat,mixed with Artemisia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac04-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme17-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale14-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac05-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme18-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala11-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac06-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5gras03-95,,grass,,,,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala12-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac07-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme19-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca11-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac08-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme20-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale15-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac09-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme21-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale16-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac10-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme22-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sa_a06-95,San Luis purple sage,mixed with Artemisia cal.,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac11-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme23-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca12-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac12-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme24-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5er_a06-95,coastal buckwheat,mixed with Artemisia cal.,Eriogonum,cinereum,ERCI5,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac13-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme25-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale17-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac14-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5gras04-95,,grass,,,,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala13-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac15-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme26-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5mala14-95,laurel sumac,,Malosma,laurina,MALA6,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac16-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme27-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5arca13-95,coastal sagebrush,,Artemisia,californica,ARCA11,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac17-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme28-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale18-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac18-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme29-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+s5sale19-95,San Luis purple sage,,Salvia,leucophylla,SALE3,USDA Plants,1995-06-11,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac19-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme30-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac20-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5ceme31-95,bigpod ceanothus,,Ceanothus,megacarpus,CEME,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6beac21-96,,beach sand,,,,USDA Plants,1996-10-20,1996,soil,asd-fs,FALSE,34.08,-118.8
+f5gras05-95,,grass,,,,USDA Plants,1995-10-18,1995,veg,asd-fs,FALSE,34.08,-118.8
+f6mafa01-96,Mendocino bushmallow,,Malacothamnus,fasciculatus,MAFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6mafa02-96,Mendocino bushmallow,,Malacothamnus,fasciculatus,MAFA,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6gras01-96,,grass,,,,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6gras02-96,,grass,,,,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6gras03-96,,grass,,,,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6erci02-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6erci03-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6arca03-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6erci04-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6erci05-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6erci06-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6erci07-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
+f6erci08-96,coastal buckwheat,,Eriogonum,cinereum,ERCI5,USDA Plants,1996-10-20,1996,veg,asd-fs,FALSE,34.08,-118.8
