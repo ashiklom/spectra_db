@@ -15,7 +15,7 @@
 #  - name: Database_ID
 #    type: string
 #  - name: variety
-#    type: integer
+#    type: string
 #  - name: latitude
 #    type: number
 #  - name: longitude
