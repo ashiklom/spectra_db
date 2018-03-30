@@ -1,5 +1,5 @@
 #---
-#spectra_types: .na.character
+#spectra_types: CRR
 #resources:
 #  fields:
 #  - name: wavelengths

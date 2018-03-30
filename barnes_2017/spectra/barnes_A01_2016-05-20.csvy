@@ -1,14 +1,14 @@
 #---
 #spectra_types:
 #- R
-#- .na.character
-#- .na.character
-#- .na.character
-#- .na.character
-#- .na.character
-#- .na.character
-#- .na.character
-#- .na.character
+#- R
+#- R
+#- R
+#- R
+#- R
+#- R
+#- R
+#- R
 #resources:
 #  fields:
 #  - name: wavelengths
