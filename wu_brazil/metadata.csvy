@@ -39,7 +39,7 @@
 #    data_unit: kg m-2
 #  - name: leaf_water_pct_mass
 #    type: number
-#    data_unit: '%'
+#    data_unit: ''
 #  - name: leaf_water_thickness
 #    type: number
 #    data_unit: kg m-2

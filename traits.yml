@@ -132,4 +132,18 @@
   description: Leaf water potential
   unit: "Pa"
   SI_unit: "Pa"
+
+- trait: leaf_water_pct_mass
+  description: Percentageo of leaf fresh mass in water
+  unit: "%"
+  SI_unit: ""
+  constraints:
+    minimum: 0
+
+- trait: leaf_area
+  description: Leaf area
+  unit: "cm2"
+  SI_unit: "m2"
+  constraints:
+    minimum: 0
 ---
