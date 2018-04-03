@@ -60,279 +60,279 @@
 #
 #---
 leaf_prospect_N,leaf_chla_per_area,leaf_chlb_per_area,leaf_chltot_per_area,leaf_cartot_per_area,leaf_anth_per_area,leaf_water_thickness,leaf_mass_per_area,observation_id,species_code,scientific_name,Database_ID,site_code,plot_code,latitude,longitude,year,instrument_code,apparatus,is_experiment
-1.31,9.53,3.01,12.54,4.33,-999,0.0122,0.0055,an03r0001,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,9.01,3.41,12.41,3.65,-999,0.012,0.0053,an03r0002,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.55,19.36,6.45,25.81,6.5,-999,0.0106,0.0045,an03r0003,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.65,18.66,5.47,24.13,6.9,-999,0.0109,0.0043,an03r0004,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.44,12.16,4.96,17.12,4.91,-999,0.0104,0.004,an03r0005,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.53,9.21,4.34,13.54,3.85,-999,0.0102,0.004,an03r0006,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.49,16.24,5.57,21.8,5.2,-999,0.0094,0.0039,an03r0007,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,15.82,5.08,20.9,5.41,-999,0.0099,0.0038,an03r0008,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.47,15.97,5.9,21.87,5.68,-999,0.0097,0.0042,an03r0009,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,15.18,4.99,20.16,5.55,-999,0.0075,0.0043,an03r0010,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,17.12,5.52,22.64,5.12,-999,0.0083,0.0034,an03r0011,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,15.32,4.9,20.22,4.95,-999,0.0087,0.0037,an03r0012,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.53,15.74,5.54,21.28,5.6,-999,0.012,0.0036,an03r0013,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.49,14.18,5.44,19.61,5.56,-999,0.0116,0.0035,an03r0014,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.59,22.9,7.33,30.23,8.49,-999,0.0121,0.0041,an03r0015,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.55,23.66,7.78,31.44,8.44,-999,0.0114,0.0039,an03r0016,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,12.05,4.38,16.43,4.51,-999,0.0113,0.0033,an03r0017,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.49,9.88,3.36,13.23,4.4,-999,0.0115,0.0036,an03r0018,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,27.66,8.12,35.78,9.32,-999,0.0109,0.0043,an03r0019,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.52,24.74,7.77,32.51,9.11,-999,0.0111,0.0042,an03r0020,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.56,9.34,3.61,12.95,3.59,-999,0.0103,0.0045,an03r0021,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.44,10.24,3.86,14.11,3.75,-999,0.0112,0.0046,an03r0022,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.62,21.1,6.79,27.88,6.98,-999,0.0118,0.0053,an03r0023,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.6,22.01,7.06,29.07,7.93,-999,0.0111,0.0052,an03r0024,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.57,10.75,3.8,14.55,4.98,-999,0.0131,0.005,an03r0025,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.28,11.59,4.91,16.5,5.29,-999,0.0118,0.0094,an03r0026,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.51,18.76,7.23,26,5.97,-999,0.0103,0.0041,an03r0027,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.69,17.03,6.23,23.26,5.89,-999,0.0102,0.0042,an03r0028,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,11.36,4.56,15.92,4.69,-999,0.0088,0.0036,an03r0029,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.47,10.52,4.18,14.7,4.32,-999,0.0087,0.0039,an03r0030,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.6,20.69,7.21,27.9,7.63,-999,0.0096,0.004,an03r0031,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.58,22.53,8.22,30.75,8.7,-999,0.0095,0.0041,an03r0032,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.69,25.16,9.34,34.5,8.09,-999,0.0111,0.0047,an03r0033,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.46,7.86,2.68,10.54,3.78,-999,0.0114,0.0051,an03r0034,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.56,18.05,5.44,23.49,6.75,-999,0.0097,0.0042,an03r0035,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,24.64,7.67,32.3,7.28,-999,0.0064,0.0019,an03r0036,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.41,21.84,6.58,28.42,6.42,-999,0.0065,0.0018,an03r0037,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.37,24.84,8.38,33.21,7.58,-999,0.0071,0.002,an03r0038,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.25,17.8,6.33,24.13,6.08,-999,0.0067,0.0018,an03r0039,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.22,17.82,6.24,24.06,5.93,-999,0.0067,0.0018,an03r0040,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.54,33,11.58,44.58,10.22,-999,0.0083,0.0023,an03r0041,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.49,32.67,11.79,44.46,9.94,-999,0.0084,0.0023,an03r0042,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,22.33,8.18,30.51,8.42,-999,0.0065,0.0018,an03r0043,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.29,23.1,8.54,31.63,8.19,-999,0.0065,0.0019,an03r0044,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,22.3,8.37,30.67,7.34,-999,0.0086,0.0021,an03r0045,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.36,21.89,8.79,30.68,6.97,-999,0.0081,0.0019,an03r0046,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,31.81,11.17,42.98,10.14,-999,0.0074,0.002,an03r0047,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.34,31.36,10.54,41.9,10.4,-999,0.0076,0.0021,an03r0048,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.28,26.6,9.11,35.71,8.82,-999,0.0078,0.0026,an03r0049,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,17.1,5.86,22.96,5.32,-999,0.0074,0.0019,an03r0050,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.36,15.83,4.99,20.83,5.33,-999,0.0082,0.0024,an03r0051,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,16.68,6.37,23.05,5.71,-999,0.0087,0.0022,an03r0052,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.45,21.46,5.48,26.94,7.86,-999,0.0121,0.0046,an03r0053,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.46,23.33,6.9,30.23,8.01,-999,0.0114,0.0048,an03r0054,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.53,36.12,9.47,45.59,12.02,-999,0.011,0.0047,an03r0055,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.5,33.67,8.86,42.53,11.12,-999,0.0115,0.0049,an03r0056,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,18.86,5.1,23.97,7.37,-999,0.0137,0.0046,an03r0057,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.59,18.67,5.23,23.89,7.47,-999,0.0137,0.0048,an03r0058,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.5,43.21,11.88,55.09,14.54,-999,0.0113,0.0046,an03r0059,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.47,39.25,12.17,51.42,12.37,-999,0.0103,0.0038,an03r0060,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.5,21.01,6.34,27.35,7.71,-999,0.0125,0.005,an03r0061,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.47,24.28,7.15,31.42,8.69,-999,0.0126,0.0051,an03r0062,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.5,30.01,8.4,38.41,10.62,-999,0.0109,0.0047,an03r0063,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.46,32.41,8.98,41.39,10.86,-999,0.01,0.0041,an03r0064,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.4,19.16,5.75,24.91,6.45,-999,0.0098,0.0036,an03r0065,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,18.27,5.39,23.65,6.63,-999,0.0099,0.0041,an03r0066,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,33.01,9.1,42.11,10.68,-999,0.0102,0.0037,an03r0067,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.44,33.46,9.64,43.11,10.7,-999,0.0098,0.0034,an03r0068,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.44,17.47,5.63,23.1,6.35,-999,0.0109,0.0044,an03r0069,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,16.37,5.23,21.61,5.84,-999,0.0098,0.0045,an03r0070,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.47,39.19,11.57,50.76,12.14,-999,0.0097,0.0049,an03r0071,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.46,19.64,5.86,25.5,6.9,-999,0.0093,0.0046,an03r0072,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.53,20.05,6.35,26.41,6.98,-999,0.0113,0.005,an03r0073,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.41,21.54,6.43,27.97,7.48,-999,0.011,0.0048,an03r0074,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.51,38.02,11.73,49.75,11.78,-999,0.0098,0.0042,an03r0075,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.45,40.45,12.4,52.85,12.63,-999,0.0106,0.0044,an03r0076,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,24.2,8.19,32.39,7.28,-999,0.0083,0.0029,an03r0077,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.26,25.72,8.08,33.8,7.57,-999,0.0085,0.0029,an03r0078,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,38.15,12.21,50.37,11.44,-999,0.0082,0.0027,an03r0079,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,37.06,10.69,47.74,11.18,-999,0.0085,0.0029,an03r0080,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,21.38,7.02,28.41,6.22,-999,0.0088,0.0031,an03r0081,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.25,21.04,6.66,27.7,6.32,-999,0.0088,0.0026,an03r0082,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.52,31.03,9.51,40.54,8.89,-999,0.0078,0.0029,an03r0083,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.45,34.5,11.22,45.72,9.98,-999,0.0083,0.0025,an03r0084,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,27.22,8.73,35.95,8.13,-999,0.0088,0.0026,an03r0085,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,27.12,9.2,36.32,8.2,-999,0.0088,0.0027,an03r0086,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.41,39.87,12.69,52.56,11.41,-999,0.0085,0.0028,an03r0087,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,41.22,12.89,54.11,12.02,-999,0.0085,0.0031,an03r0088,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,27.52,9.29,36.81,8.15,-999,0.008,0.0023,an03r0089,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,24.32,8.45,32.77,7.31,-999,0.008,0.0023,an03r0090,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.34,39.01,12.57,51.58,11.59,-999,0.0084,0.0028,an03r0091,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,38.57,12.93,51.5,11.28,-999,0.0079,0.0028,an03r0092,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.29,21.6,7.63,29.23,6.76,-999,0.0088,0.0021,an03r0093,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,22.35,7.67,30.02,6.87,-999,0.0089,0.0021,an03r0094,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,38.14,12.31,50.45,10.57,-999,0.0078,0.0025,an03r0095,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,38.3,12.12,50.42,10.67,-999,0.0081,0.0025,an03r0096,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,30.82,9.72,40.54,9.26,-999,0.0084,0.0024,an03r0097,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,30.23,10.01,40.24,8.86,-999,0.0083,0.0024,an03r0098,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.37,46.14,15.73,61.88,13.69,-999,0.0082,0.0029,an03r0099,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,43.19,13.75,56.94,13.16,-999,0.008,0.0026,an03r0100,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,18.12,5.73,23.85,5.84,-999,0.0071,0.0029,an03r0101,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,16.69,4.88,21.56,5.52,-999,0.0078,0.0031,an03r0102,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,20.41,6.22,26.63,6.21,-999,0.0078,0.0029,an03r0103,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.4,19.42,6.17,25.59,5.68,-999,0.0077,0.0026,an03r0104,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,8.66,3.07,11.72,3.65,-999,0.0092,0.0033,an03r0105,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,9.94,3.97,13.91,3.98,-999,0.0087,0.0032,an03r0106,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,15.65,4.61,20.26,5.68,-999,0.0086,0.0029,an03r0107,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,16.22,5.42,21.63,5.45,-999,0.0083,0.0027,an03r0108,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,10.73,4.13,14.86,4.1,-999,0.0097,0.0046,an03r0109,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.38,10.12,3.86,13.98,3.91,-999,0.01,0.0045,an03r0110,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.58,15.62,5.53,21.15,5.41,-999,0.0092,0.0039,an03r0111,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.56,15.38,4.78,20.16,5.81,-999,0.0096,0.004,an03r0112,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,8.52,2.67,11.19,3.6,-999,0.0096,0.0044,an03r0113,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.49,9.1,3.36,12.46,3.61,-999,0.0099,0.0043,an03r0114,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.5,15.91,5.27,21.18,5.47,-999,0.0086,0.0044,an03r0115,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,16.64,4.91,21.55,6.11,-999,0.0086,0.004,an03r0116,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,6.45,1.88,8.33,2.9,-999,0.0092,0.0031,an03r0117,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.3,6.12,1.6,7.72,2.88,-999,0.0099,0.0033,an03r0118,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,6.67,1.74,8.41,3.06,-999,0.009,0.0034,an03r0119,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.37,7.48,2.51,9.99,3.06,-999,0.009,0.0034,an03r0120,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.36,8.72,2.38,11.1,4.64,-999,0.0081,0.0035,an03r0121,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.29,7.94,2.23,10.17,3.73,-999,0.0092,0.003,an03r0122,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,5.44,1.64,7.08,2.47,-999,0.008,0.0019,an03r0123,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.28,5.06,1.94,7.01,2.01,-999,0.0079,0.0019,an03r0124,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,11.55,3.22,14.77,4.12,-999,0.0079,0.0022,an03r0125,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.32,13.39,4.04,17.43,4.35,-999,0.0078,0.0022,an03r0126,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.4,6.93,2.37,9.3,2.87,-999,0.0075,0.0025,an03r0127,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,7.25,2.41,9.66,2.93,-999,0.0076,0.0022,an03r0128,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.23,9.59,2.57,12.16,4.02,-999,0.0084,0.0024,an03r0129,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.22,10.16,2.86,13.02,4.27,-999,0.0079,0.0022,an03r0130,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.21,4.06,1.38,5.45,2.75,-999,0.0125,0.0046,an03r0131,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.05,3.05,1.32,4.37,1.85,-999,0.0113,0.0039,an03r0132,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.41,8.37,3.32,11.69,4.64,-999,0.0108,0.005,an03r0133,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.4,9.74,3.45,13.19,5.37,-999,0.0121,0.0055,an03r0134,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,12.83,3.98,16.81,5.59,-999,0.0091,0.0048,an03r0135,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.37,11.41,3.07,14.48,5.5,-999,0.0099,0.0044,an03r0136,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,5.84,1.94,7.78,3.41,-999,0.0132,0.0053,an03r0137,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,7.13,2.4,9.54,3.71,-999,0.0122,0.0051,an03r0138,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.45,56.03,17.26,73.28,21.18,-999,0.0117,0.0055,an03r0139,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,57.85,18.3,76.15,22.48,-999,0.0128,0.0066,an03r0140,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.5,27.55,8.02,35.57,9.74,-999,0.0146,0.0047,an03r0141,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,27.66,7.7,35.36,9.14,-999,0.0151,0.005,an03r0142,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.4,67.21,20.31,87.52,23,-999,0.0127,0.0059,an03r0143,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,69.04,22.38,91.42,25.28,-999,0.0124,0.006,an03r0144,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.44,55.4,18.81,74.21,19.88,-999,0.011,0.0052,an03r0145,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.47,62.59,19.99,82.58,22.72,-999,0.0123,0.006,an03r0146,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,23.27,6.93,30.2,7.94,-999,0.0095,0.0024,an03r0147,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,20.64,6.33,26.97,7.13,-999,0.0101,0.0025,an03r0148,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,20.26,5.89,26.15,6.7,-999,0.0104,0.0032,an03r0149,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,18.09,6.16,24.25,7.29,-999,0.0099,0.0028,an03r0150,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.22,16.56,4.46,21.03,6.53,-999,0.009,0.0025,an03r0151,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.23,16.57,4.37,20.94,6.25,-999,0.0091,0.0025,an03r0152,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.57,23.83,6.18,30.01,8.31,-999,0.0136,0.004,an03r0153,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.54,24.8,6.82,31.62,8.62,-999,0.0132,0.0037,an03r0154,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.66,62.32,22.02,84.34,20.86,-999,0.014,0.0059,an03r0155,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.59,59.3,20.55,79.85,19.51,-999,0.0134,0.0052,an03r0156,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.82,61.52,21.8,83.32,20.57,-999,0.0142,0.0063,an03r0157,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.81,60.02,21.13,81.15,19.56,-999,0.0153,0.0062,an03r0158,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.64,74.76,28.78,103.54,23.95,-999,0.0132,0.007,an03r0159,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.72,73.5,28.15,101.65,23.25,-999,0.0124,0.0054,an03r0160,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.66,76.83,29.88,106.72,24.22,-999,0.0147,0.0061,an03r0161,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.58,76.3,28.8,105.09,24.13,-999,0.0158,0.0065,an03r0162,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.68,68.42,23.94,92.36,22.22,-999,0.0166,0.0061,an03r0163,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.75,68.1,24.65,92.75,22.1,-999,0.0165,0.0059,an03r0164,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.58,18.39,6.8,25.19,8.19,-999,0.0114,0.0059,an03r0165,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,29.72,8.84,38.55,10.31,-999,0.0129,0.0062,an03r0166,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.55,41,12.3,53.3,16.43,-999,0.0141,0.0105,an03r0167,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,21.78,5.79,27.56,8.46,-999,0.008,0.0055,an03r0168,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.4,18.62,5.75,24.37,6.78,-999,0.0092,0.0052,an03r0169,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,35.99,12.09,48.08,13.23,-999,0.0132,0.0095,an03r0170,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.54,48.54,15.01,63.54,16.76,-999,0.013,0.0079,an03r0171,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.35,13.04,3.93,16.97,5.81,-999,0.0142,0.0065,an03r0172,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.41,14.93,5.22,20.15,5.35,-999,0.014,0.006,an03r0173,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,26.75,7.27,34.02,10.09,-999,0.0131,0.007,an03r0174,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.51,60.38,18.42,78.8,20.06,-999,0.0097,0.0071,an03r0175,COMA18,Corylus maxima Mill.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.24,7.19,0.71,7.9,6.77,-999,0.0082,0.0046,an03r0176,COMA18,Corylus maxima Mill.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.23,6.7,1.25,7.95,6.77,-999,0.0078,0.004,an03r0177,COMA18,Corylus maxima Mill.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.4,0.58,0.56,1.14,6.88,-999,0.0083,0.0033,an03r0178,ROPS,Robinia pseudoacacia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.7,0.57,0.3,0.87,7.24,-999,0.0044,0.0039,an03r0179,ROPS,Robinia pseudoacacia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.51,46.36,15.11,61.48,13.9,-999,0.0101,0.0053,an03r0180,ROPS,Robinia pseudoacacia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,53.38,17.1,70.48,16.16,-999,0.0104,0.005,an03r0181,ROPS,Robinia pseudoacacia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.08,10.49,1.13,11.62,3.67,-999,0.0075,0.0029,an03r0182,ROPS,Robinia pseudoacacia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.17,10.43,1.01,11.44,3.54,-999,0.0071,0.003,an03r0183,ROPS,Robinia pseudoacacia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,0.64,0.53,1.17,0,-999,0.0081,0.0024,an03r0184,COSES,Cornus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.27,0.46,0.32,0.78,0,-999,0.0082,0.0021,an03r0185,COSES,Cornus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.53,31.39,9.78,41.17,7.9,-999,0.0085,0.0038,an03r0186,COSES,Cornus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.53,34.24,10.89,45.13,9.07,-999,0.0075,0.0039,an03r0187,COSES,Cornus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.58,24.56,7.38,31.94,6.44,-999,0.0081,0.0037,an03r0188,COSES,Cornus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.67,24.56,7.89,32.44,6.82,-999,0.0086,0.0037,an03r0189,COSES,Cornus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.58,12.53,3.75,16.29,5.25,-999,0.0146,0.0073,an03r0190,VITI2,Viburnum tinus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.56,13.24,3.73,16.97,6.44,-999,0.0145,0.0074,an03r0191,VITI2,Viburnum tinus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.82,47.37,17.64,65.01,17.47,-999,0.0157,0.0135,an03r0192,VITI2,Viburnum tinus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.86,52.66,21.49,74.15,18.41,-999,0.0176,0.0138,an03r0193,VITI2,Viburnum tinus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.82,27.42,9.59,37.01,9.91,-999,0.0136,0.01,an03r0194,VITI2,Viburnum tinus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.78,28.02,10.29,38.32,9.54,-999,0.0125,0.0087,an03r0195,VITI2,Viburnum tinus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.68,2.83,2.61,5.44,1.08,-999,0.0326,0.0079,an03r0196,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.68,2.6,1.74,4.34,1.59,-999,0.0316,0.0081,an03r0197,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,25.82,9.1,34.92,8.1,-999,0.0257,0.0083,an03r0198,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.5,24.71,9.04,33.74,7.84,-999,0.0252,0.0081,an03r0199,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.73,34.01,13.16,47.18,11.32,-999,0.0265,0.0116,an03r0200,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.76,28.85,10.78,39.63,11.05,-999,0.0253,0.011,an03r0201,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.36,15.56,4.91,20.47,5.3,-999,0.0088,0.0023,an03r0202,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.36,16.54,4.81,21.35,5.77,-999,0.0088,0.0023,an03r0203,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,16.11,4.91,21.01,5.47,-999,0.0079,0.0022,an03r0204,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,15.83,4.83,20.66,5.51,-999,0.0079,0.0024,an03r0205,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.32,14.35,4.27,18.62,4.98,-999,0.0077,0.0023,an03r0206,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.33,14.61,4.44,19.05,5.16,-999,0.0081,0.0022,an03r0207,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.55,31.26,10.44,41.69,14.27,-999,0.0101,0.0044,an03r0208,LITU,Liriodendron tulipifera L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.43,27.2,8.82,36.01,14.48,-999,0.0106,0.0045,an03r0209,LITU,Liriodendron tulipifera L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.79,46.05,15.94,61.99,12.18,-999,0.012,0.0068,an03r0210,VIPL,Viburnum plicatum Thunb.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.77,40.27,12.67,52.94,11.81,-999,0.0102,0.0061,an03r0211,VIPL,Viburnum plicatum Thunb.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.39,28.39,8.25,36.64,8.62,-999,0.0073,0.0063,an03r0212,CASA27,Castanea sativa Mill.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.41,23.49,7.14,30.62,6.67,-999,0.0089,0.0066,an03r0213,CASA27,Castanea sativa Mill.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.05,53.21,19.6,72.81,18.19,-999,0.0194,0.0157,an03r0214,PRLU,Prunus lusitanica L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.94,19.28,5.09,24.37,7.34,-999,0.0145,0.0103,an03r0215,PRLU,Prunus lusitanica L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.59,38.67,13.19,51.86,20.6,-999,0.0133,0.0079,an03r0216,JURE80,Juglans regia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.52,30.4,12.46,42.86,19.82,-999,0.0117,0.0068,an03r0217,JURE80,Juglans regia L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.1,26.53,9.07,35.6,6.89,-999,0.0181,0.0091,an03r0218,PRLA5,Prunus laurocerasus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.95,17.57,5.32,22.89,4.66,-999,0.0197,0.0094,an03r0219,PRLA5,Prunus laurocerasus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.98,53.11,16.96,70.07,18.87,-999,0.0214,0.0131,an03r0220,PRLA5,Prunus laurocerasus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2,47.45,15.3,62.75,15.21,-999,0.0213,0.0128,an03r0221,PRLA5,Prunus laurocerasus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.52,29.59,9.07,38.66,10.29,-999,0.0096,0.0069,an03r0222,RHTY,Rhus typhina L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.48,25.66,7.54,33.2,10.36,-999,0.009,0.0074,an03r0223,RHTY,Rhus typhina L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.47,12.69,4.47,17.16,5.73,-999,0.0105,0.0051,an03r0224,VIVI5,Vitis vinifera L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.29,14.11,4.9,19.02,5.43,-999,0.0095,0.0041,an03r0225,VIVI5,Vitis vinifera L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.64,9.32,3.7,13.02,4.47,-999,0.0134,0.0051,an03r0226,PATR6,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.32,11.1,3.66,14.76,4.23,-999,0.0142,0.0046,an03r0227,PATR6,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.68,52.64,20.96,73.6,14.02,-999,0.0107,0.0056,an03r0228,ALGL2,Alnus glutinosa (L.) Gaertn.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.52,43.86,14.86,58.72,11.7,-999,0.009,0.0058,an03r0229,ALGL2,Alnus glutinosa (L.) Gaertn.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.88,44.15,16.04,60.19,12.27,-999,0.0081,0.0072,an03r0230,TITO,Tilia tomentosa Moench,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.04,23.98,7.42,31.39,7.14,-999,0.007,0.0073,an03r0231,TITO,Tilia tomentosa Moench,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.31,40.04,14.28,54.32,10.67,-999,0.0061,0.0057,an03r0232,QUPA2,Quercus palustris Münchh.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.26,34.86,12.64,47.5,9.97,-999,0.005,0.005,an03r0233,QUPA2,Quercus palustris Münchh.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.05,40.45,12.24,52.69,13.62,-999,0.0185,0.0121,an03r0234,LIVU,Ligustrum vulgare L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.06,15.03,4.83,19.87,4.84,-999,0.014,0.0064,an03r0235,LIVU,Ligustrum vulgare L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.73,38.06,12.27,50.33,8.5,-999,0.0075,0.0069,an03r0236,SAAT2,Salix atrocinerea Brot.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.56,42.53,13.52,56.05,10.49,-999,0.0113,0.0084,an03r0237,SAAT2,Salix atrocinerea Brot.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.71,41.76,15.38,57.14,12.29,-999,0.0089,0.0066,an03r0238,POAL7,Populus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.69,43.54,17.61,61.15,11.74,-999,0.0089,0.0063,an03r0239,POAL7,Populus alba L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.79,37.93,13.66,51.58,12.75,-999,0.0183,0.0098,an03r0240,HEHE,Hedera helix L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.9,1.01,0.74,1.75,0.68,-999,0.0157,0.0047,an03r0241,HEHE,Hedera helix L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.43,40.76,14.47,55.23,10.85,-999,0.0127,0.015,an03r0242,QUIL2,Quercus ilex L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.41,39.92,14.68,54.6,10.18,-999,0.013,0.015,an03r0243,QUIL2,Quercus ilex L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.35,43.27,11.28,54.55,10.72,-999,0.0119,0.0092,an03r0244,VIRH,Viburnum rhytidophyllum Hemsl.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.16,36.38,10.21,46.59,9.49,-999,0.0126,0.0085,an03r0245,VIRH,Viburnum rhytidophyllum Hemsl.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,9.53,3.01,12.54,4.33,-999,0.0122,0.0055,an03r0001,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,9.01,3.41,12.41,3.65,-999,0.012,0.0053,an03r0002,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.55,19.36,6.45,25.81,6.5,-999,0.0106,0.0045,an03r0003,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.65,18.66,5.47,24.13,6.9,-999,0.0109,0.0043,an03r0004,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.44,12.16,4.96,17.12,4.91,-999,0.0104,0.004,an03r0005,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.53,9.21,4.34,13.54,3.85,-999,0.0102,0.004,an03r0006,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.49,16.24,5.57,21.8,5.2,-999,0.0094,0.0039,an03r0007,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,15.82,5.08,20.9,5.41,-999,0.0099,0.0038,an03r0008,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.47,15.97,5.9,21.87,5.68,-999,0.0097,0.0042,an03r0009,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,15.18,4.99,20.16,5.55,-999,0.0075,0.0043,an03r0010,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,17.12,5.52,22.64,5.12,-999,0.0083,0.0034,an03r0011,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,15.32,4.9,20.22,4.95,-999,0.0087,0.0037,an03r0012,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.53,15.74,5.54,21.28,5.6,-999,0.012,0.0036,an03r0013,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.49,14.18,5.44,19.61,5.56,-999,0.0116,0.0035,an03r0014,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.59,22.9,7.33,30.23,8.49,-999,0.0121,0.0041,an03r0015,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.55,23.66,7.78,31.44,8.44,-999,0.0114,0.0039,an03r0016,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,12.05,4.38,16.43,4.51,-999,0.0113,0.0033,an03r0017,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.49,9.88,3.36,13.23,4.4,-999,0.0115,0.0036,an03r0018,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,27.66,8.12,35.78,9.32,-999,0.0109,0.0043,an03r0019,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.52,24.74,7.77,32.51,9.11,-999,0.0111,0.0042,an03r0020,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.56,9.34,3.61,12.95,3.59,-999,0.0103,0.0045,an03r0021,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.44,10.24,3.86,14.11,3.75,-999,0.0112,0.0046,an03r0022,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.62,21.1,6.79,27.88,6.98,-999,0.0118,0.0053,an03r0023,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.6,22.01,7.06,29.07,7.93,-999,0.0111,0.0052,an03r0024,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.57,10.75,3.8,14.55,4.98,-999,0.0131,0.005,an03r0025,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.28,11.59,4.91,16.5,5.29,-999,0.0118,0.0094,an03r0026,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.51,18.76,7.23,26,5.97,-999,0.0103,0.0041,an03r0027,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.69,17.03,6.23,23.26,5.89,-999,0.0102,0.0042,an03r0028,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,11.36,4.56,15.92,4.69,-999,0.0088,0.0036,an03r0029,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.47,10.52,4.18,14.7,4.32,-999,0.0087,0.0039,an03r0030,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.6,20.69,7.21,27.9,7.63,-999,0.0096,0.004,an03r0031,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.58,22.53,8.22,30.75,8.7,-999,0.0095,0.0041,an03r0032,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.69,25.16,9.34,34.5,8.09,-999,0.0111,0.0047,an03r0033,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.46,7.86,2.68,10.54,3.78,-999,0.0114,0.0051,an03r0034,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.56,18.05,5.44,23.49,6.75,-999,0.0097,0.0042,an03r0035,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,24.64,7.67,32.3,7.28,-999,0.0064,0.0019,an03r0036,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.41,21.84,6.58,28.42,6.42,-999,0.0065,0.0018,an03r0037,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.37,24.84,8.38,33.21,7.58,-999,0.0071,0.002,an03r0038,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.25,17.8,6.33,24.13,6.08,-999,0.0067,0.0018,an03r0039,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.22,17.82,6.24,24.06,5.93,-999,0.0067,0.0018,an03r0040,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.54,33,11.58,44.58,10.22,-999,0.0083,0.0023,an03r0041,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.49,32.67,11.79,44.46,9.94,-999,0.0084,0.0023,an03r0042,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,22.33,8.18,30.51,8.42,-999,0.0065,0.0018,an03r0043,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.29,23.1,8.54,31.63,8.19,-999,0.0065,0.0019,an03r0044,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,22.3,8.37,30.67,7.34,-999,0.0086,0.0021,an03r0045,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.36,21.89,8.79,30.68,6.97,-999,0.0081,0.0019,an03r0046,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,31.81,11.17,42.98,10.14,-999,0.0074,0.002,an03r0047,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.34,31.36,10.54,41.9,10.4,-999,0.0076,0.0021,an03r0048,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.28,26.6,9.11,35.71,8.82,-999,0.0078,0.0026,an03r0049,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,17.1,5.86,22.96,5.32,-999,0.0074,0.0019,an03r0050,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.36,15.83,4.99,20.83,5.33,-999,0.0082,0.0024,an03r0051,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,16.68,6.37,23.05,5.71,-999,0.0087,0.0022,an03r0052,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.45,21.46,5.48,26.94,7.86,-999,0.0121,0.0046,an03r0053,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.46,23.33,6.9,30.23,8.01,-999,0.0114,0.0048,an03r0054,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.53,36.12,9.47,45.59,12.02,-999,0.011,0.0047,an03r0055,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.5,33.67,8.86,42.53,11.12,-999,0.0115,0.0049,an03r0056,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,18.86,5.1,23.97,7.37,-999,0.0137,0.0046,an03r0057,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.59,18.67,5.23,23.89,7.47,-999,0.0137,0.0048,an03r0058,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.5,43.21,11.88,55.09,14.54,-999,0.0113,0.0046,an03r0059,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.47,39.25,12.17,51.42,12.37,-999,0.0103,0.0038,an03r0060,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.5,21.01,6.34,27.35,7.71,-999,0.0125,0.005,an03r0061,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.47,24.28,7.15,31.42,8.69,-999,0.0126,0.0051,an03r0062,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.5,30.01,8.4,38.41,10.62,-999,0.0109,0.0047,an03r0063,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.46,32.41,8.98,41.39,10.86,-999,0.01,0.0041,an03r0064,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.4,19.16,5.75,24.91,6.45,-999,0.0098,0.0036,an03r0065,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,18.27,5.39,23.65,6.63,-999,0.0099,0.0041,an03r0066,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,33.01,9.1,42.11,10.68,-999,0.0102,0.0037,an03r0067,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.44,33.46,9.64,43.11,10.7,-999,0.0098,0.0034,an03r0068,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.44,17.47,5.63,23.1,6.35,-999,0.0109,0.0044,an03r0069,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,16.37,5.23,21.61,5.84,-999,0.0098,0.0045,an03r0070,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.47,39.19,11.57,50.76,12.14,-999,0.0097,0.0049,an03r0071,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.46,19.64,5.86,25.5,6.9,-999,0.0093,0.0046,an03r0072,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.53,20.05,6.35,26.41,6.98,-999,0.0113,0.005,an03r0073,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.41,21.54,6.43,27.97,7.48,-999,0.011,0.0048,an03r0074,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.51,38.02,11.73,49.75,11.78,-999,0.0098,0.0042,an03r0075,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.45,40.45,12.4,52.85,12.63,-999,0.0106,0.0044,an03r0076,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,24.2,8.19,32.39,7.28,-999,0.0083,0.0029,an03r0077,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.26,25.72,8.08,33.8,7.57,-999,0.0085,0.0029,an03r0078,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,38.15,12.21,50.37,11.44,-999,0.0082,0.0027,an03r0079,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,37.06,10.69,47.74,11.18,-999,0.0085,0.0029,an03r0080,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,21.38,7.02,28.41,6.22,-999,0.0088,0.0031,an03r0081,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.25,21.04,6.66,27.7,6.32,-999,0.0088,0.0026,an03r0082,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.52,31.03,9.51,40.54,8.89,-999,0.0078,0.0029,an03r0083,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.45,34.5,11.22,45.72,9.98,-999,0.0083,0.0025,an03r0084,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,27.22,8.73,35.95,8.13,-999,0.0088,0.0026,an03r0085,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,27.12,9.2,36.32,8.2,-999,0.0088,0.0027,an03r0086,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.41,39.87,12.69,52.56,11.41,-999,0.0085,0.0028,an03r0087,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,41.22,12.89,54.11,12.02,-999,0.0085,0.0031,an03r0088,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,27.52,9.29,36.81,8.15,-999,0.008,0.0023,an03r0089,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,24.32,8.45,32.77,7.31,-999,0.008,0.0023,an03r0090,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.34,39.01,12.57,51.58,11.59,-999,0.0084,0.0028,an03r0091,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,38.57,12.93,51.5,11.28,-999,0.0079,0.0028,an03r0092,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.29,21.6,7.63,29.23,6.76,-999,0.0088,0.0021,an03r0093,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,22.35,7.67,30.02,6.87,-999,0.0089,0.0021,an03r0094,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,38.14,12.31,50.45,10.57,-999,0.0078,0.0025,an03r0095,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,38.3,12.12,50.42,10.67,-999,0.0081,0.0025,an03r0096,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,30.82,9.72,40.54,9.26,-999,0.0084,0.0024,an03r0097,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,30.23,10.01,40.24,8.86,-999,0.0083,0.0024,an03r0098,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.37,46.14,15.73,61.88,13.69,-999,0.0082,0.0029,an03r0099,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,43.19,13.75,56.94,13.16,-999,0.008,0.0026,an03r0100,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,18.12,5.73,23.85,5.84,-999,0.0071,0.0029,an03r0101,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,16.69,4.88,21.56,5.52,-999,0.0078,0.0031,an03r0102,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,20.41,6.22,26.63,6.21,-999,0.0078,0.0029,an03r0103,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.4,19.42,6.17,25.59,5.68,-999,0.0077,0.0026,an03r0104,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,8.66,3.07,11.72,3.65,-999,0.0092,0.0033,an03r0105,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,9.94,3.97,13.91,3.98,-999,0.0087,0.0032,an03r0106,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,15.65,4.61,20.26,5.68,-999,0.0086,0.0029,an03r0107,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,16.22,5.42,21.63,5.45,-999,0.0083,0.0027,an03r0108,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,10.73,4.13,14.86,4.1,-999,0.0097,0.0046,an03r0109,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.38,10.12,3.86,13.98,3.91,-999,0.01,0.0045,an03r0110,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.58,15.62,5.53,21.15,5.41,-999,0.0092,0.0039,an03r0111,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.56,15.38,4.78,20.16,5.81,-999,0.0096,0.004,an03r0112,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,8.52,2.67,11.19,3.6,-999,0.0096,0.0044,an03r0113,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.49,9.1,3.36,12.46,3.61,-999,0.0099,0.0043,an03r0114,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.5,15.91,5.27,21.18,5.47,-999,0.0086,0.0044,an03r0115,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,16.64,4.91,21.55,6.11,-999,0.0086,0.004,an03r0116,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,6.45,1.88,8.33,2.9,-999,0.0092,0.0031,an03r0117,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.3,6.12,1.6,7.72,2.88,-999,0.0099,0.0033,an03r0118,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,6.67,1.74,8.41,3.06,-999,0.009,0.0034,an03r0119,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.37,7.48,2.51,9.99,3.06,-999,0.009,0.0034,an03r0120,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.36,8.72,2.38,11.1,4.64,-999,0.0081,0.0035,an03r0121,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.29,7.94,2.23,10.17,3.73,-999,0.0092,0.003,an03r0122,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,5.44,1.64,7.08,2.47,-999,0.008,0.0019,an03r0123,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.28,5.06,1.94,7.01,2.01,-999,0.0079,0.0019,an03r0124,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,11.55,3.22,14.77,4.12,-999,0.0079,0.0022,an03r0125,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.32,13.39,4.04,17.43,4.35,-999,0.0078,0.0022,an03r0126,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.4,6.93,2.37,9.3,2.87,-999,0.0075,0.0025,an03r0127,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,7.25,2.41,9.66,2.93,-999,0.0076,0.0022,an03r0128,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.23,9.59,2.57,12.16,4.02,-999,0.0084,0.0024,an03r0129,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.22,10.16,2.86,13.02,4.27,-999,0.0079,0.0022,an03r0130,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.21,4.06,1.38,5.45,2.75,-999,0.0125,0.0046,an03r0131,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.05,3.05,1.32,4.37,1.85,-999,0.0113,0.0039,an03r0132,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.41,8.37,3.32,11.69,4.64,-999,0.0108,0.005,an03r0133,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.4,9.74,3.45,13.19,5.37,-999,0.0121,0.0055,an03r0134,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,12.83,3.98,16.81,5.59,-999,0.0091,0.0048,an03r0135,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.37,11.41,3.07,14.48,5.5,-999,0.0099,0.0044,an03r0136,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,5.84,1.94,7.78,3.41,-999,0.0132,0.0053,an03r0137,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,7.13,2.4,9.54,3.71,-999,0.0122,0.0051,an03r0138,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.45,56.03,17.26,73.28,21.18,-999,0.0117,0.0055,an03r0139,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,57.85,18.3,76.15,22.48,-999,0.0128,0.0066,an03r0140,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.5,27.55,8.02,35.57,9.74,-999,0.0146,0.0047,an03r0141,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,27.66,7.7,35.36,9.14,-999,0.0151,0.005,an03r0142,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.4,67.21,20.31,87.52,23,-999,0.0127,0.0059,an03r0143,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,69.04,22.38,91.42,25.28,-999,0.0124,0.006,an03r0144,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.44,55.4,18.81,74.21,19.88,-999,0.011,0.0052,an03r0145,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.47,62.59,19.99,82.58,22.72,-999,0.0123,0.006,an03r0146,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,23.27,6.93,30.2,7.94,-999,0.0095,0.0024,an03r0147,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,20.64,6.33,26.97,7.13,-999,0.0101,0.0025,an03r0148,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,20.26,5.89,26.15,6.7,-999,0.0104,0.0032,an03r0149,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,18.09,6.16,24.25,7.29,-999,0.0099,0.0028,an03r0150,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.22,16.56,4.46,21.03,6.53,-999,0.009,0.0025,an03r0151,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.23,16.57,4.37,20.94,6.25,-999,0.0091,0.0025,an03r0152,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.57,23.83,6.18,30.01,8.31,-999,0.0136,0.004,an03r0153,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.54,24.8,6.82,31.62,8.62,-999,0.0132,0.0037,an03r0154,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.66,62.32,22.02,84.34,20.86,-999,0.014,0.0059,an03r0155,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.59,59.3,20.55,79.85,19.51,-999,0.0134,0.0052,an03r0156,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.82,61.52,21.8,83.32,20.57,-999,0.0142,0.0063,an03r0157,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.81,60.02,21.13,81.15,19.56,-999,0.0153,0.0062,an03r0158,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.64,74.76,28.78,103.54,23.95,-999,0.0132,0.007,an03r0159,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.72,73.5,28.15,101.65,23.25,-999,0.0124,0.0054,an03r0160,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.66,76.83,29.88,106.72,24.22,-999,0.0147,0.0061,an03r0161,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.58,76.3,28.8,105.09,24.13,-999,0.0158,0.0065,an03r0162,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.68,68.42,23.94,92.36,22.22,-999,0.0166,0.0061,an03r0163,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.75,68.1,24.65,92.75,22.1,-999,0.0165,0.0059,an03r0164,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.58,18.39,6.8,25.19,8.19,-999,0.0114,0.0059,an03r0165,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,29.72,8.84,38.55,10.31,-999,0.0129,0.0062,an03r0166,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.55,41,12.3,53.3,16.43,-999,0.0141,0.0105,an03r0167,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,21.78,5.79,27.56,8.46,-999,0.008,0.0055,an03r0168,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.4,18.62,5.75,24.37,6.78,-999,0.0092,0.0052,an03r0169,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,35.99,12.09,48.08,13.23,-999,0.0132,0.0095,an03r0170,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.54,48.54,15.01,63.54,16.76,-999,0.013,0.0079,an03r0171,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.35,13.04,3.93,16.97,5.81,-999,0.0142,0.0065,an03r0172,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.41,14.93,5.22,20.15,5.35,-999,0.014,0.006,an03r0173,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,26.75,7.27,34.02,10.09,-999,0.0131,0.007,an03r0174,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.51,60.38,18.42,78.8,20.06,-999,0.0097,0.0071,an03r0175,COMA18,Corylus maxima Mill.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.24,7.19,0.71,7.9,6.77,-999,0.0082,0.0046,an03r0176,COMA18,Corylus maxima Mill.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.23,6.7,1.25,7.95,6.77,-999,0.0078,0.004,an03r0177,COMA18,Corylus maxima Mill.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.4,0.58,0.56,1.14,6.88,-999,0.0083,0.0033,an03r0178,ROPS,Robinia pseudoacacia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.7,0.57,0.3,0.87,7.24,-999,0.0044,0.0039,an03r0179,ROPS,Robinia pseudoacacia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.51,46.36,15.11,61.48,13.9,-999,0.0101,0.0053,an03r0180,ROPS,Robinia pseudoacacia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,53.38,17.1,70.48,16.16,-999,0.0104,0.005,an03r0181,ROPS,Robinia pseudoacacia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.08,10.49,1.13,11.62,3.67,-999,0.0075,0.0029,an03r0182,ROPS,Robinia pseudoacacia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.17,10.43,1.01,11.44,3.54,-999,0.0071,0.003,an03r0183,ROPS,Robinia pseudoacacia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,0.64,0.53,1.17,0,-999,0.0081,0.0024,an03r0184,COSES,Cornus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.27,0.46,0.32,0.78,0,-999,0.0082,0.0021,an03r0185,COSES,Cornus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.53,31.39,9.78,41.17,7.9,-999,0.0085,0.0038,an03r0186,COSES,Cornus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.53,34.24,10.89,45.13,9.07,-999,0.0075,0.0039,an03r0187,COSES,Cornus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.58,24.56,7.38,31.94,6.44,-999,0.0081,0.0037,an03r0188,COSES,Cornus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.67,24.56,7.89,32.44,6.82,-999,0.0086,0.0037,an03r0189,COSES,Cornus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.58,12.53,3.75,16.29,5.25,-999,0.0146,0.0073,an03r0190,VITI2,Viburnum tinus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.56,13.24,3.73,16.97,6.44,-999,0.0145,0.0074,an03r0191,VITI2,Viburnum tinus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.82,47.37,17.64,65.01,17.47,-999,0.0157,0.0135,an03r0192,VITI2,Viburnum tinus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.86,52.66,21.49,74.15,18.41,-999,0.0176,0.0138,an03r0193,VITI2,Viburnum tinus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.82,27.42,9.59,37.01,9.91,-999,0.0136,0.01,an03r0194,VITI2,Viburnum tinus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.78,28.02,10.29,38.32,9.54,-999,0.0125,0.0087,an03r0195,VITI2,Viburnum tinus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.68,2.83,2.61,5.44,1.08,-999,0.0326,0.0079,an03r0196,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.68,2.6,1.74,4.34,1.59,-999,0.0316,0.0081,an03r0197,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,25.82,9.1,34.92,8.1,-999,0.0257,0.0083,an03r0198,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.5,24.71,9.04,33.74,7.84,-999,0.0252,0.0081,an03r0199,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.73,34.01,13.16,47.18,11.32,-999,0.0265,0.0116,an03r0200,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.76,28.85,10.78,39.63,11.05,-999,0.0253,0.011,an03r0201,SCAR10,Schefflera arboricola (Hayata) Merr.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.36,15.56,4.91,20.47,5.3,-999,0.0088,0.0023,an03r0202,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.36,16.54,4.81,21.35,5.77,-999,0.0088,0.0023,an03r0203,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,16.11,4.91,21.01,5.47,-999,0.0079,0.0022,an03r0204,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,15.83,4.83,20.66,5.51,-999,0.0079,0.0024,an03r0205,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.32,14.35,4.27,18.62,4.98,-999,0.0077,0.0023,an03r0206,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.33,14.61,4.44,19.05,5.16,-999,0.0081,0.0022,an03r0207,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.55,31.26,10.44,41.69,14.27,-999,0.0101,0.0044,an03r0208,LITU,Liriodendron tulipifera L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.43,27.2,8.82,36.01,14.48,-999,0.0106,0.0045,an03r0209,LITU,Liriodendron tulipifera L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.79,46.05,15.94,61.99,12.18,-999,0.012,0.0068,an03r0210,VIPL,Viburnum plicatum Thunb.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.77,40.27,12.67,52.94,11.81,-999,0.0102,0.0061,an03r0211,VIPL,Viburnum plicatum Thunb.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.39,28.39,8.25,36.64,8.62,-999,0.0073,0.0063,an03r0212,CASA27,Castanea sativa Mill.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.41,23.49,7.14,30.62,6.67,-999,0.0089,0.0066,an03r0213,CASA27,Castanea sativa Mill.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.05,53.21,19.6,72.81,18.19,-999,0.0194,0.0157,an03r0214,PRLU,Prunus lusitanica L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.94,19.28,5.09,24.37,7.34,-999,0.0145,0.0103,an03r0215,PRLU,Prunus lusitanica L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.59,38.67,13.19,51.86,20.6,-999,0.0133,0.0079,an03r0216,JURE80,Juglans regia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.52,30.4,12.46,42.86,19.82,-999,0.0117,0.0068,an03r0217,JURE80,Juglans regia L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.1,26.53,9.07,35.6,6.89,-999,0.0181,0.0091,an03r0218,PRLA5,Prunus laurocerasus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.95,17.57,5.32,22.89,4.66,-999,0.0197,0.0094,an03r0219,PRLA5,Prunus laurocerasus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.98,53.11,16.96,70.07,18.87,-999,0.0214,0.0131,an03r0220,PRLA5,Prunus laurocerasus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2,47.45,15.3,62.75,15.21,-999,0.0213,0.0128,an03r0221,PRLA5,Prunus laurocerasus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.52,29.59,9.07,38.66,10.29,-999,0.0096,0.0069,an03r0222,RHTY,Rhus typhina L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.48,25.66,7.54,33.2,10.36,-999,0.009,0.0074,an03r0223,RHTY,Rhus typhina L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.47,12.69,4.47,17.16,5.73,-999,0.0105,0.0051,an03r0224,VIVI5,Vitis vinifera L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.29,14.11,4.9,19.02,5.43,-999,0.0095,0.0041,an03r0225,VIVI5,Vitis vinifera L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.64,9.32,3.7,13.02,4.47,-999,0.0134,0.0051,an03r0226,PATR6,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.32,11.1,3.66,14.76,4.23,-999,0.0142,0.0046,an03r0227,PATR6,Parthenocissus tricuspidata (Siebold & Zucc.) Planch.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.68,52.64,20.96,73.6,14.02,-999,0.0107,0.0056,an03r0228,ALGL2,Alnus glutinosa (L.) Gaertn.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.52,43.86,14.86,58.72,11.7,-999,0.009,0.0058,an03r0229,ALGL2,Alnus glutinosa (L.) Gaertn.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.88,44.15,16.04,60.19,12.27,-999,0.0081,0.0072,an03r0230,TITO,Tilia tomentosa Moench,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.04,23.98,7.42,31.39,7.14,-999,0.007,0.0073,an03r0231,TITO,Tilia tomentosa Moench,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.31,40.04,14.28,54.32,10.67,-999,0.0061,0.0057,an03r0232,QUPA2,Quercus palustris Münchh.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.26,34.86,12.64,47.5,9.97,-999,0.005,0.005,an03r0233,QUPA2,Quercus palustris Münchh.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.05,40.45,12.24,52.69,13.62,-999,0.0185,0.0121,an03r0234,LIVU,Ligustrum vulgare L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.06,15.03,4.83,19.87,4.84,-999,0.014,0.0064,an03r0235,LIVU,Ligustrum vulgare L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.73,38.06,12.27,50.33,8.5,-999,0.0075,0.0069,an03r0236,SAAT2,Salix atrocinerea Brot.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.56,42.53,13.52,56.05,10.49,-999,0.0113,0.0084,an03r0237,SAAT2,Salix atrocinerea Brot.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.71,41.76,15.38,57.14,12.29,-999,0.0089,0.0066,an03r0238,POAL7,Populus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.69,43.54,17.61,61.15,11.74,-999,0.0089,0.0063,an03r0239,POAL7,Populus alba L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.79,37.93,13.66,51.58,12.75,-999,0.0183,0.0098,an03r0240,HEHE,Hedera helix L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.9,1.01,0.74,1.75,0.68,-999,0.0157,0.0047,an03r0241,HEHE,Hedera helix L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.43,40.76,14.47,55.23,10.85,-999,0.0127,0.015,an03r0242,QUIL2,Quercus ilex L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.41,39.92,14.68,54.6,10.18,-999,0.013,0.015,an03r0243,QUIL2,Quercus ilex L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.35,43.27,11.28,54.55,10.72,-999,0.0119,0.0092,an03r0244,VIRH,Viburnum rhytidophyllum Hemsl.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.16,36.38,10.21,46.59,9.49,-999,0.0126,0.0085,an03r0245,VIRH,Viburnum rhytidophyllum Hemsl.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
 2.02,49.64,16.6,66.23,14.44,-999,0.0155,0.0117,an03r0246,tro-50060048,Rhododendron calophytum Franch.,ThePlantList,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
 2,38.74,13.63,52.37,10.95,-999,0.0158,0.0108,an03r0247,tro-50060048,Rhododendron calophytum Franch.,ThePlantList,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.54,27.96,8.93,36.89,9.7,-999,0.0105,0.0055,an03r0248,LIST2,Liquidambar styraciflua L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.58,21.75,6.22,27.97,8.3,-999,0.0111,0.0078,an03r0249,LIST2,Liquidambar styraciflua L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.57,0.85,0.48,1.33,2.35,-999,0.0166,0.0033,an03r0250,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.54,8.71,1.52,10.23,2.84,-999,0.0169,0.0036,an03r0251,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.67,28.36,9.26,37.62,8.01,-999,0.0167,0.0046,an03r0252,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.83,20.69,6.3,26.98,7.71,-999,0.0217,0.0071,an03r0253,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.93,0.41,0.51,0.92,0.67,-999,0.0157,0.0058,an03r0254,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.02,34.8,10.79,45.59,10.8,-999,0.015,0.0083,an03r0255,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.67,22.53,6.9,29.43,7.78,-999,0.0109,0.0036,an03r0256,ACPS,Acer pseudoplatanus L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.78,0.99,0.3,1.29,0.06,-999,0.0179,0.0018,an03r0257,GERAN,Geranium L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.2,0.72,0.83,1.56,0.04,-999,0.0084,0.0022,an03r0258,ACNE2,Acer negundo L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.22,20.39,6.56,26.96,8.04,-999,0.0108,0.0042,an03r0259,ACNE2,Acer negundo L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.71,29.56,9.02,38.58,12.01,-999,0.0115,0.0092,an03r0260,COCO10,Cotinus coggygria Scop.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.45,24.42,7.06,31.48,9.23,-999,0.0114,0.0058,an03r0261,CESI9,Cercis siliquastrum L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.42,17.75,5.3,23.05,6.91,-999,0.0124,0.0056,an03r0262,CESI9,Cercis siliquastrum L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.54,27.96,8.93,36.89,9.7,-999,0.0105,0.0055,an03r0248,LIST2,Liquidambar styraciflua L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.58,21.75,6.22,27.97,8.3,-999,0.0111,0.0078,an03r0249,LIST2,Liquidambar styraciflua L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.57,0.85,0.48,1.33,2.35,-999,0.0166,0.0033,an03r0250,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.54,8.71,1.52,10.23,2.84,-999,0.0169,0.0036,an03r0251,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.67,28.36,9.26,37.62,8.01,-999,0.0167,0.0046,an03r0252,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.83,20.69,6.3,26.98,7.71,-999,0.0217,0.0071,an03r0253,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.93,0.41,0.51,0.92,0.67,-999,0.0157,0.0058,an03r0254,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.02,34.8,10.79,45.59,10.8,-999,0.015,0.0083,an03r0255,EUFO5,Euonymus fortunei (Turcz.) Hand.-Maz.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.67,22.53,6.9,29.43,7.78,-999,0.0109,0.0036,an03r0256,ACPS,Acer pseudoplatanus L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.78,0.99,0.3,1.29,0.06,-999,0.0179,0.0018,an03r0257,GERAN,Geranium L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.2,0.72,0.83,1.56,0.04,-999,0.0084,0.0022,an03r0258,ACNE2,Acer negundo L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.22,20.39,6.56,26.96,8.04,-999,0.0108,0.0042,an03r0259,ACNE2,Acer negundo L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.71,29.56,9.02,38.58,12.01,-999,0.0115,0.0092,an03r0260,COCO10,Cotinus coggygria Scop.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.45,24.42,7.06,31.48,9.23,-999,0.0114,0.0058,an03r0261,CESI9,Cercis siliquastrum L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.42,17.75,5.3,23.05,6.91,-999,0.0124,0.0056,an03r0262,CESI9,Cercis siliquastrum L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
 1.46,11.07,4.09,15.16,5.83,-999,0.0129,0.0072,an03r0263,kew-30688,Callicarpa bodinieri H.Lév.,ThePlantList,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
 1.56,15.38,5.93,21.31,7.68,-999,0.0112,0.0071,an03r0264,kew-30688,Callicarpa bodinieri H.Lév.,ThePlantList,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.56,47.3,15.63,62.93,15.39,-999,0.0146,0.0084,an03r0265,SYVU,Syringa vulgaris L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.62,41.05,14.62,55.67,12.71,-999,0.0132,0.0072,an03r0266,SYVU,Syringa vulgaris L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.41,31.63,12.27,43.9,11.25,-999,0.026,0.0112,an03r0267,EUGU5,Eucalyptus gunnii Hook. f.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.46,31.81,12,43.8,11.19,-999,0.0264,0.011,an03r0268,EUGU5,Eucalyptus gunnii Hook. f.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2,1.75,0.61,2.36,0.76,-999,0.0259,0.0089,an03r0269,ILAQ80,Ilex aquifolium L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.22,64.9,22.7,87.6,20.77,-999,0.0287,0.0189,an03r0270,ILAQ80,Ilex aquifolium L.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.36,26.16,10.95,37.11,9.13,-999,0.0337,0.0331,an03r0271,OSHE,Osmanthus heterophyllus (G. Don) P.S. Green,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-2.48,24.88,11.58,36.46,7.86,-999,0.034,0.0326,an03r0272,OSHE,Osmanthus heterophyllus (G. Don) P.S. Green,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.56,18.88,8.4,27.28,5.61,-999,0.018,0.0017,an03r0273,HYMA7,Hydrangea macrophylla (Thunb.) Ser.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.64,32.3,13.99,46.29,9.1,-999,0.0261,0.0034,an03r0274,HYMA7,Hydrangea macrophylla (Thunb.) Ser.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.97,23.82,8.26,32.08,9.14,-999,0.0215,0.0081,an03r0275,WEFL2,Weigela florida (Bunge) A. DC.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
-1.94,21.34,7.88,29.22,6.97,-999,0.0188,0.0091,an03r0276,WEFL2,Weigela florida (Bunge) A. DC.,USDA_Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.56,47.3,15.63,62.93,15.39,-999,0.0146,0.0084,an03r0265,SYVU,Syringa vulgaris L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.62,41.05,14.62,55.67,12.71,-999,0.0132,0.0072,an03r0266,SYVU,Syringa vulgaris L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.41,31.63,12.27,43.9,11.25,-999,0.026,0.0112,an03r0267,EUGU5,Eucalyptus gunnii Hook. f.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.46,31.81,12,43.8,11.19,-999,0.0264,0.011,an03r0268,EUGU5,Eucalyptus gunnii Hook. f.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2,1.75,0.61,2.36,0.76,-999,0.0259,0.0089,an03r0269,ILAQ80,Ilex aquifolium L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.22,64.9,22.7,87.6,20.77,-999,0.0287,0.0189,an03r0270,ILAQ80,Ilex aquifolium L.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.36,26.16,10.95,37.11,9.13,-999,0.0337,0.0331,an03r0271,OSHE,Osmanthus heterophyllus (G. Don) P.S. Green,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+2.48,24.88,11.58,36.46,7.86,-999,0.034,0.0326,an03r0272,OSHE,Osmanthus heterophyllus (G. Don) P.S. Green,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.56,18.88,8.4,27.28,5.61,-999,0.018,0.0017,an03r0273,HYMA7,Hydrangea macrophylla (Thunb.) Ser.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.64,32.3,13.99,46.29,9.1,-999,0.0261,0.0034,an03r0274,HYMA7,Hydrangea macrophylla (Thunb.) Ser.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.97,23.82,8.26,32.08,9.14,-999,0.0215,0.0081,an03r0275,WEFL2,Weigela florida (Bunge) A. DC.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE
+1.94,21.34,7.88,29.22,6.97,-999,0.0188,0.0091,an03r0276,WEFL2,Weigela florida (Bunge) A. DC.,USDA Plants,INRA,INRA,47.47,-0.56,2003,asd-fs,leaf_clip,FALSE

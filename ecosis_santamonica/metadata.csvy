@@ -18,7 +18,7 @@
 #    type: string
 #  - name: species_code
 #    type: string
-#  - name: Dataset_ID
+#  - name: Database_ID
 #    type: string
 #  - name: collection_date
 #    type: date
@@ -36,7 +36,7 @@
 #    type: number
 #
 #---
-observation_id,species_common_name,description,species_genus,species_species,species_code,Dataset_ID,collection_date,year,target_type,instrument_code,is_experiment,latitude,longitude
+observation_id,species_common_name,description,species_genus,species_species,species_code,Database_ID,collection_date,year,target_type,instrument_code,is_experiment,latitude,longitude
 f7beac01-97,,beach sand,,,,USDA Plants,1997-10-07,1997,soil,asd-fs,FALSE,34.08,-118.8
 s7beac01-97,,beach sand,,,,USDA Plants,1997-04-11,1997,soil,asd-fs,FALSE,34.08,-118.8
 f6argc01-96,bigberry manzanita,,Arctostaphylos,glauca,ARGL4,USDA Plants,1996-10-18,1996,veg,asd-fs,FALSE,34.08,-118.8

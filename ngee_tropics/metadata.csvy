@@ -59,24 +59,24 @@ BNL10449,ANACEX,sun,7.5,ngee_tropics|BNL10449|2016,2016,PNM,2016-02-13T00:00:00Z
 BNL10443,ANTITR,sun,8,ngee_tropics|BNL10443|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10444,ANTITR,sun,10,ngee_tropics|BNL10444|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10445,ANTITR,sun,17,ngee_tropics|BNL10445|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
-BNL10453,CALYCA,sun,9.5,ngee_tropics|BNL10453|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10454,CALYCA,sun,13,ngee_tropics|BNL10454|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10455,CALYCA,sun,,ngee_tropics|BNL10455|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10433,CASTEL,sun,14,ngee_tropics|BNL10433|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10434,CASTEL,sun,13.5,ngee_tropics|BNL10434|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10435,CASTEL,sun,14,ngee_tropics|BNL10435|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10450,CORDAL,sun,16.5,ngee_tropics|BNL10450|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10451,CORDAL,sun,16,ngee_tropics|BNL10451|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10452,CORDAL,sun,15.5,ngee_tropics|BNL10452|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL10453,CALYCA,sun,9.5,ngee_tropics|BNL10453|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10454,CALYCA,sun,13,ngee_tropics|BNL10454|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10455,CALYCA,sun,,ngee_tropics|BNL10455|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10433,CASTEL,sun,14,ngee_tropics|BNL10433|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10434,CASTEL,sun,13.5,ngee_tropics|BNL10434|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10435,CASTEL,sun,14,ngee_tropics|BNL10435|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10450,CORDAL,sun,16.5,ngee_tropics|BNL10450|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10451,CORDAL,sun,16,ngee_tropics|BNL10451|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10452,CORDAL,sun,15.5,ngee_tropics|BNL10452|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL10436,FICUIN,sun,17.5,ngee_tropics|BNL10436|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10437,FICUIN,sun,18,ngee_tropics|BNL10437|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10438,FICUIN,sun,17,ngee_tropics|BNL10438|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10439,LUEHSE,sun,,ngee_tropics|BNL10439|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL10440,LUEHSE,sun,18,ngee_tropics|BNL10440|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL10441,LUEHSE,sun,23,ngee_tropics|BNL10441|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
-BNL10662,CALYCA,sun,,ngee_tropics|BNL10662|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10684,CALYCA,sun,,ngee_tropics|BNL10684|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10446,CALYCA,sun,,ngee_tropics|BNL10446|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL10662,CALYCA,sun,,ngee_tropics|BNL10662|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10684,CALYCA,sun,,ngee_tropics|BNL10684|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10446,CALYCA,sun,,ngee_tropics|BNL10446|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL10442,FICUIN,sun,,ngee_tropics|BNL10442|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10664,FICUIN,sun,,ngee_tropics|BNL10664|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10665,LUEHSE,sun,,ngee_tropics|BNL10665|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
@@ -91,15 +91,15 @@ BNL10425,ANACEX,sun,17,ngee_tropics|BNL10425|2016,2016,PNM,2016-02-13T00:00:00Z,
 BNL10410,ANTITR,sun,21,ngee_tropics|BNL10410|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10414,ANTITR,sun,19,ngee_tropics|BNL10414|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10403,ANTITR,sun,19.5,ngee_tropics|BNL10403|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
-BNL10417,CALYCA,sun,14.5,ngee_tropics|BNL10417|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10404,CALYCA,sun,22,ngee_tropics|BNL10404|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10402,CALYCA,sun,22.5,ngee_tropics|BNL10402|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10405,CASTEL,sun,20,ngee_tropics|BNL10405|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10413,CASTEL,sun,23,ngee_tropics|BNL10413|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10411,CASTEL,sun,21,ngee_tropics|BNL10411|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10420,CORDAL,sun,22,ngee_tropics|BNL10420|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10419,CORDAL,sun,27.5,ngee_tropics|BNL10419|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10418,CORDAL,sun,24,ngee_tropics|BNL10418|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL10417,CALYCA,sun,14.5,ngee_tropics|BNL10417|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10404,CALYCA,sun,22,ngee_tropics|BNL10404|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10402,CALYCA,sun,22.5,ngee_tropics|BNL10402|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10405,CASTEL,sun,20,ngee_tropics|BNL10405|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10413,CASTEL,sun,23,ngee_tropics|BNL10413|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10411,CASTEL,sun,21,ngee_tropics|BNL10411|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10420,CORDAL,sun,22,ngee_tropics|BNL10420|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10419,CORDAL,sun,27.5,ngee_tropics|BNL10419|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10418,CORDAL,sun,24,ngee_tropics|BNL10418|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL10412,FICUIN,sun,22,ngee_tropics|BNL10412|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10409,FICUIN,sun,24.5,ngee_tropics|BNL10409|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10408,FICUIN,sun,21.5,ngee_tropics|BNL10408|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
@@ -112,12 +112,12 @@ BNL10624,ANACEX,sun,13.5,ngee_tropics|BNL10624|2016,2016,PNM,2016-02-13T00:00:00
 BNL10625,ANACEX,sun,15.5,ngee_tropics|BNL10625|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL10609,ANTITR,sun,10,ngee_tropics|BNL10609|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10618,ANTITR,sun,18.5,ngee_tropics|BNL10618|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
-BNL10613,CALYCA,sun,27,ngee_tropics|BNL10613|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10610,CALYCA,sun,33,ngee_tropics|BNL10610|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10406,CASTEL,sun,16,ngee_tropics|BNL10406|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10407,CASTEL,sun,17,ngee_tropics|BNL10407|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10616,CORDAL,sun,14.5,ngee_tropics|BNL10616|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10617,CORDAL,sun,14.5,ngee_tropics|BNL10617|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL10613,CALYCA,sun,27,ngee_tropics|BNL10613|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10610,CALYCA,sun,33,ngee_tropics|BNL10610|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10406,CASTEL,sun,16,ngee_tropics|BNL10406|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10407,CASTEL,sun,17,ngee_tropics|BNL10407|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10616,CORDAL,sun,14.5,ngee_tropics|BNL10616|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10617,CORDAL,sun,14.5,ngee_tropics|BNL10617|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL10615,FICUIN,sun,23,ngee_tropics|BNL10615|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10611,FICUIN,sun,5,ngee_tropics|BNL10611|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10623,LUEHSE,sun,25,ngee_tropics|BNL10623|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
@@ -129,13 +129,13 @@ BNL10679,ANACEX,sun,9.5,ngee_tropics|BNL10679|2016,2016,PNM,2016-02-13T00:00:00Z
 BNL10674,ANTITR,sun,19.5,ngee_tropics|BNL10674|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10675,ANTITR,sun,21.5,ngee_tropics|BNL10675|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10620,ANTITR,sun,20.5,ngee_tropics|BNL10620|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
-BNL10673,CALYCA,sun,30.5,ngee_tropics|BNL10673|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10669,CALYCA,sun,,ngee_tropics|BNL10669|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10666,CASTEL,sun,18.5,ngee_tropics|BNL10666|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10682,CASTEL,sun,8,ngee_tropics|BNL10682|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10668,CORDAL,sun,29.5,ngee_tropics|BNL10668|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10677,CORDAL,sun,24.5,ngee_tropics|BNL10677|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10678,CORDAL,sun,14,ngee_tropics|BNL10678|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL10673,CALYCA,sun,30.5,ngee_tropics|BNL10673|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10669,CALYCA,sun,,ngee_tropics|BNL10669|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10666,CASTEL,sun,18.5,ngee_tropics|BNL10666|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10682,CASTEL,sun,8,ngee_tropics|BNL10682|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10668,CORDAL,sun,29.5,ngee_tropics|BNL10668|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10677,CORDAL,sun,24.5,ngee_tropics|BNL10677|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10678,CORDAL,sun,14,ngee_tropics|BNL10678|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL10670,FICUIN,sun,17.5,ngee_tropics|BNL10670|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10676,FICUIN,sun,13.5,ngee_tropics|BNL10676|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10681,LUEHSE,sun,24.5,ngee_tropics|BNL10681|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
@@ -146,12 +146,12 @@ BNL10606,ANACEX,sun,12.5,ngee_tropics|BNL10606|2016,2016,PNM,2016-02-13T00:00:00
 BNL10605,ANACEX,sun,10,ngee_tropics|BNL10605|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL10655,ANTITR,sun,23,ngee_tropics|BNL10655|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10656,ANTITR,sun,18,ngee_tropics|BNL10656|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
-BNL10604,CALYCA,sun,18,ngee_tropics|BNL10604|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10621,CALYCA,sun,17.5,ngee_tropics|BNL10621|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10619,CASTEL,sun,16.5,ngee_tropics|BNL10619|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10622,CASTEL,sun,19,ngee_tropics|BNL10622|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10607,CORDAL,sun,26,ngee_tropics|BNL10607|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10608,CORDAL,sun,25.5,ngee_tropics|BNL10608|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL10604,CALYCA,sun,18,ngee_tropics|BNL10604|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10621,CALYCA,sun,17.5,ngee_tropics|BNL10621|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10619,CASTEL,sun,16.5,ngee_tropics|BNL10619|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10622,CASTEL,sun,19,ngee_tropics|BNL10622|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10607,CORDAL,sun,26,ngee_tropics|BNL10607|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10608,CORDAL,sun,25.5,ngee_tropics|BNL10608|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL10603,FICUIN,sun,15,ngee_tropics|BNL10603|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10602,FICUIN,sun,17,ngee_tropics|BNL10602|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10614,LUEHSE,sun,19,ngee_tropics|BNL10614|2016,2016,PNM,2016-02-13T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
@@ -168,16 +168,16 @@ BNL10535,ANTITR,sun,,ngee_tropics|BNL10535|2016,2016,PNM,2016-02-14T00:00:00Z,sv
 BNL10552,ANTITR,sun,,ngee_tropics|BNL10552|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10543,ANTITR,sun,,ngee_tropics|BNL10543|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
 BNL10544,ANTITR,sun,,ngee_tropics|BNL10544|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,9.25,-79.99
-BNL10554,CALYCA,sun,,ngee_tropics|BNL10554|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL10556,CASTEL,sun,,ngee_tropics|BNL10556|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL10536,CECRPE,sun,,ngee_tropics|BNL10536|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA_Plants,9.25,-79.99
-BNL10537,CECRPE,sun,,ngee_tropics|BNL10537|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA_Plants,9.25,-79.99
-BNL10539,CECRPE,sun,,ngee_tropics|BNL10539|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA_Plants,9.25,-79.99
-BNL10661,CECRPE,sun,,ngee_tropics|BNL10661|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA_Plants,9.25,-79.99
-BNL10549,CORDAL,sun,,ngee_tropics|BNL10549|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10557,CORDAL,sun,,ngee_tropics|BNL10557|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10561,CORDAL,sun,,ngee_tropics|BNL10561|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL10542,CORDAL,sun,,ngee_tropics|BNL10542|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL10554,CALYCA,sun,,ngee_tropics|BNL10554|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL10556,CASTEL,sun,,ngee_tropics|BNL10556|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL10536,CECRPE,sun,,ngee_tropics|BNL10536|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA Plants,9.25,-79.99
+BNL10537,CECRPE,sun,,ngee_tropics|BNL10537|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA Plants,9.25,-79.99
+BNL10539,CECRPE,sun,,ngee_tropics|BNL10539|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA Plants,9.25,-79.99
+BNL10661,CECRPE,sun,,ngee_tropics|BNL10661|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CESC9,Cecropia schreberiana Miq.,USDA Plants,9.25,-79.99
+BNL10549,CORDAL,sun,,ngee_tropics|BNL10549|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10557,CORDAL,sun,,ngee_tropics|BNL10557|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10561,CORDAL,sun,,ngee_tropics|BNL10561|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL10542,CORDAL,sun,,ngee_tropics|BNL10542|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL10550,FICUIN,sun,,ngee_tropics|BNL10550|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10558,FICUIN,sun,,ngee_tropics|BNL10558|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL10560,LUEHSE,sun,,ngee_tropics|BNL10560|2016,2016,PNM,2016-02-14T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
@@ -225,9 +225,9 @@ BNL10693,,sun,,ngee_tropics|BNL10693|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,s
 BNL10584,APEIME,sun,11,ngee_tropics|BNL10584|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10585,APEIME,sun,13.5,ngee_tropics|BNL10585|2016,2016,,,,ngee_tropics,,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,,
 BNL10586,APEIME,sun,11.5,ngee_tropics|BNL10586|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10578,CARAGU,sun,8,ngee_tropics|BNL10578|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10579,CARAGU,sun,8.5,ngee_tropics|BNL10579|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10580,CARAGU,sun,8.5,ngee_tropics|BNL10580|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10578,CARAGU,sun,8,ngee_tropics|BNL10578|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10579,CARAGU,sun,8.5,ngee_tropics|BNL10579|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10580,CARAGU,sun,8.5,ngee_tropics|BNL10580|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10428,GUATDU,sun,6.5,ngee_tropics|BNL10428|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10461,GUATDU,sun,9.5,ngee_tropics|BNL10461|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10573,GUATDU,sun,6.5,ngee_tropics|BNL10573|2016,2016,SanLorenzo,2016-02-16T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
@@ -253,16 +253,16 @@ BNL10703,APEIME,sun,,ngee_tropics|BNL10703|2016,2016,SanLorenzo,2016-02-17T00:00
 BNL10786,APEIME,sun,,ngee_tropics|BNL10786|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10787,APEIME,sun,,ngee_tropics|BNL10787|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10803,APEIME,sun,,ngee_tropics|BNL10803|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10702,CARAGU,sun,,ngee_tropics|BNL10702|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10788,CARAGU,sun,,ngee_tropics|BNL10788|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10807,CARAGU,sun,,ngee_tropics|BNL10807|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10702,CARAGU,sun,,ngee_tropics|BNL10702|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10788,CARAGU,sun,,ngee_tropics|BNL10788|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10807,CARAGU,sun,,ngee_tropics|BNL10807|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10701,TACHVE,sun,,ngee_tropics|BNL10701|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10805,TACHVE,sun,,ngee_tropics|BNL10805|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10699,VOCHFE,sun,,ngee_tropics|BNL10699|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL10564,APEIME,sun,12,ngee_tropics|BNL10564|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10565,APEIME,sun,14,ngee_tropics|BNL10565|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10629,CARAGU,sun,8,ngee_tropics|BNL10629|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10630,CARAGU,sun,9,ngee_tropics|BNL10630|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10629,CARAGU,sun,8,ngee_tropics|BNL10629|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10630,CARAGU,sun,9,ngee_tropics|BNL10630|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10546,GUATDU,sun,17,ngee_tropics|BNL10546|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10547,GUATDU,sun,19,ngee_tropics|BNL10547|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10567,MICOBO,sun,23,ngee_tropics|BNL10567|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
@@ -279,8 +279,8 @@ BNL10631,VOCHFE,sun,13,ngee_tropics|BNL10631|2016,2016,SanLorenzo,2016-02-17T00:
 BNL10657,VOCHFE,sun,11.5,ngee_tropics|BNL10657|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL10568,APEIME,sun,16.5,ngee_tropics|BNL10568|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10548,APEIME,sun,14.5,ngee_tropics|BNL10548|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10737,CARAGU,sun,13.5,ngee_tropics|BNL10737|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10738,CARAGU,sun,12.5,ngee_tropics|BNL10738|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10737,CARAGU,sun,13.5,ngee_tropics|BNL10737|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10738,CARAGU,sun,12.5,ngee_tropics|BNL10738|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10563,GUATDU,sun,19.5,ngee_tropics|BNL10563|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10651,GUATDU,sun,15,ngee_tropics|BNL10651|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10710,MICOBO,sun,21,ngee_tropics|BNL10710|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
@@ -297,8 +297,8 @@ BNL10571,VOCHFE,sun,14.5,ngee_tropics|BNL10571|2016,2016,,,,ngee_tropics,,FALSE,
 BNL10572,VOCHFE,sun,16.5,ngee_tropics|BNL10572|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL10754,APEIME,sun,13.5,ngee_tropics|BNL10754|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10747,APEIME,sun,15.5,ngee_tropics|BNL10747|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10728,CARAGU,sun,14.5,ngee_tropics|BNL10728|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10707,CARAGU,sun,16,ngee_tropics|BNL10707|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10728,CARAGU,sun,14.5,ngee_tropics|BNL10728|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10707,CARAGU,sun,16,ngee_tropics|BNL10707|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10748,GUATDU,sun,18.5,ngee_tropics|BNL10748|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10751,GUATDU,sun,17,ngee_tropics|BNL10751|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10756,MICOBO,sun,10.5,ngee_tropics|BNL10756|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
@@ -315,8 +315,8 @@ BNL10766,VOCHFE,sun,16,ngee_tropics|BNL10766|2016,2016,SanLorenzo,2016-02-17T00:
 BNL10764,VOCHFE,sun,16.5,ngee_tropics|BNL10764|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL10778,APEIME,sun,17,ngee_tropics|BNL10778|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10802,APEIME,sun,14,ngee_tropics|BNL10802|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10726,CARAGU,sun,7,ngee_tropics|BNL10726|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10725,CARAGU,sun,8.5,ngee_tropics|BNL10725|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10726,CARAGU,sun,7,ngee_tropics|BNL10726|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10725,CARAGU,sun,8.5,ngee_tropics|BNL10725|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10779,GUATDU,sun,25,ngee_tropics|BNL10779|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10801,GUATDU,sun,24,ngee_tropics|BNL10801|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10763,MICOBO,sun,20,ngee_tropics|BNL10763|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
@@ -333,8 +333,8 @@ BNL10760,VOCHFE,sun,19.5,ngee_tropics|BNL10760|2016,2016,SanLorenzo,2016-02-17T0
 BNL10776,VOCHFE,sun,16.5,ngee_tropics|BNL10776|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL10816,APEIME,sun,14,ngee_tropics|BNL10816|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10832,APEIME,sun,14,ngee_tropics|BNL10832|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10824,CARAGU,sun,20.5,ngee_tropics|BNL10824|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10825,CARAGU,sun,17.5,ngee_tropics|BNL10825|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10824,CARAGU,sun,20.5,ngee_tropics|BNL10824|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10825,CARAGU,sun,17.5,ngee_tropics|BNL10825|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10815,GUATDU,sun,16.5,ngee_tropics|BNL10815|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10823,GUATDU,sun,17,ngee_tropics|BNL10823|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10821,MICOBO,sun,20,ngee_tropics|BNL10821|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
@@ -351,8 +351,8 @@ BNL10822,VOCHFE,sun,19.5,ngee_tropics|BNL10822|2016,2016,SanLorenzo,2016-02-17T0
 BNL10828,VOCHFE,sun,9,ngee_tropics|BNL10828|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL10790,APEIME,sun,14,ngee_tropics|BNL10790|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10834,APEIME,sun,17,ngee_tropics|BNL10834|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
-BNL10809,CARAGU,sun,13,ngee_tropics|BNL10809|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10804,CARAGU,sun,13.5,ngee_tropics|BNL10804|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10809,CARAGU,sun,13,ngee_tropics|BNL10809|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10804,CARAGU,sun,13.5,ngee_tropics|BNL10804|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10831,GUATDU,sun,14,ngee_tropics|BNL10831|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10817,GUATDU,sun,12,ngee_tropics|BNL10817|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL10791,MICOBO,sun,11,ngee_tropics|BNL10791|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
@@ -367,21 +367,21 @@ BNL10833,VIROSP,sun,20,ngee_tropics|BNL10833|2016,2016,SanLorenzo,2016-02-17T00:
 BNL10819,VIROSP,sun,21.5,ngee_tropics|BNL10819|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2452051,Virola multiflora (Standl.) A.C.Sm.,ThePlantList,9.25,-79.99
 BNL10793,VOCHFE,sun,13.5,ngee_tropics|BNL10793|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL10820,VOCHFE,sun,15,ngee_tropics|BNL10820|2016,2016,SanLorenzo,2016-02-17T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
-BNL11370,CASTEL,sun,12.5,ngee_tropics|BNL11370|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11371,CASTEL,sun,10.5,ngee_tropics|BNL11371|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11325,CASTEL,sun,12,ngee_tropics|BNL11325|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11370,CASTEL,sun,12.5,ngee_tropics|BNL11370|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11371,CASTEL,sun,10.5,ngee_tropics|BNL11371|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11325,CASTEL,sun,12,ngee_tropics|BNL11325|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11214,LUEHSE,sun,14.5,ngee_tropics|BNL11214|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11326,LUEHSE,sun,19.5,ngee_tropics|BNL11326|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11263,LUEHSE,sun,16.5,ngee_tropics|BNL11263|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11390,ANACEX,sun,10,ngee_tropics|BNL11390|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11385,ANACEX,sun,15,ngee_tropics|BNL11385|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11386,ANACEX,sun,12,ngee_tropics|BNL11386|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11387,CORDAL,sun,20,ngee_tropics|BNL11387|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11322,CORDAL,sun,15.5,ngee_tropics|BNL11322|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11264,CORDAL,sun,22,ngee_tropics|BNL11264|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11279,CALYCA,sun,14.5,ngee_tropics|BNL11279|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11276,CALYCA,sun,19,ngee_tropics|BNL11276|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11367,CALYCA,sun,22.5,ngee_tropics|BNL11367|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11387,CORDAL,sun,20,ngee_tropics|BNL11387|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11322,CORDAL,sun,15.5,ngee_tropics|BNL11322|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11264,CORDAL,sun,22,ngee_tropics|BNL11264|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11279,CALYCA,sun,14.5,ngee_tropics|BNL11279|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11276,CALYCA,sun,19,ngee_tropics|BNL11276|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11367,CALYCA,sun,22.5,ngee_tropics|BNL11367|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11396,FICUIN,sun,12.5,ngee_tropics|BNL11396|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11213,FICUIN,sun,10.5,ngee_tropics|BNL11213|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11212,FICUIN,sun,13,ngee_tropics|BNL11212|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
@@ -391,64 +391,64 @@ BNL11452,ALBIED,sun,28,ngee_tropics|BNL11452|2016,2016,,,,ngee_tropics,,FALSE,il
 BNL11492,ANTITR,sun,13,ngee_tropics|BNL11492|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11499,ANTITR,sun,11.5,ngee_tropics|BNL11499|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11313,ANTITR,sun,13.5,ngee_tropics|BNL11313|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
-BNL11106,CASTEL,sun,13,ngee_tropics|BNL11106|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11087,CASTEL,sun,15.5,ngee_tropics|BNL11087|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11106,CASTEL,sun,13,ngee_tropics|BNL11106|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11087,CASTEL,sun,15.5,ngee_tropics|BNL11087|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11232,LUEHSE,sun,20,ngee_tropics|BNL11232|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11104,LUEHSE,sun,18,ngee_tropics|BNL11104|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11141,ANACEX,sun,11,ngee_tropics|BNL11141|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL10991,ANACEX,sun,12.5,ngee_tropics|BNL10991|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11110,CORDAL,sun,17.5,ngee_tropics|BNL11110|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11092,CORDAL,sun,17,ngee_tropics|BNL11092|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11063,CALYCA,sun,22,ngee_tropics|BNL11063|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11114,CALYCA,sun,17,ngee_tropics|BNL11114|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11110,CORDAL,sun,17.5,ngee_tropics|BNL11110|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11092,CORDAL,sun,17,ngee_tropics|BNL11092|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11063,CALYCA,sun,22,ngee_tropics|BNL11063|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11114,CALYCA,sun,17,ngee_tropics|BNL11114|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11094,FICUIN,sun,13.5,ngee_tropics|BNL11094|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11140,FICUIN,sun,13.5,ngee_tropics|BNL11140|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11055,ALBIED,sun,20,ngee_tropics|BNL11055|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11115,ALBIED,sun,15,ngee_tropics|BNL11115|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11098,ANTITR,sun,15,ngee_tropics|BNL11098|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11116,ANTITR,sun,20.5,ngee_tropics|BNL11116|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
-BNL11298,CASTEL,sun,14.5,ngee_tropics|BNL11298|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11099,CASTEL,sun,18,ngee_tropics|BNL11099|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11298,CASTEL,sun,14.5,ngee_tropics|BNL11298|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11099,CASTEL,sun,18,ngee_tropics|BNL11099|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11100,LUEHSE,sun,23.5,ngee_tropics|BNL11100|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11135,LUEHSE,sun,21,ngee_tropics|BNL11135|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11133,ANACEX,sun,14,ngee_tropics|BNL11133|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11103,ANACEX,sun,15.5,ngee_tropics|BNL11103|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11102,CORDAL,sun,23.5,ngee_tropics|BNL11102|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11101,CORDAL,sun,25.5,ngee_tropics|BNL11101|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11118,CALYCA,sun,34,ngee_tropics|BNL11118|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11062,CALYCA,sun,33,ngee_tropics|BNL11062|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11102,CORDAL,sun,23.5,ngee_tropics|BNL11102|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11101,CORDAL,sun,25.5,ngee_tropics|BNL11101|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11118,CALYCA,sun,34,ngee_tropics|BNL11118|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11062,CALYCA,sun,33,ngee_tropics|BNL11062|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11119,FICUIN,sun,17,ngee_tropics|BNL11119|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11064,FICUIN,sun,15,ngee_tropics|BNL11064|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11195,ALBIED,sun,23,ngee_tropics|BNL11195|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11090,ALBIED,sun,23,ngee_tropics|BNL11090|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11004,ANTITR,sun,20,ngee_tropics|BNL11004|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11093,ANTITR,sun,19.5,ngee_tropics|BNL11093|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
-BNL11168,CASTEL,sun,13,ngee_tropics|BNL11168|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11185,CASTEL,sun,12.5,ngee_tropics|BNL11185|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11168,CASTEL,sun,13,ngee_tropics|BNL11168|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11185,CASTEL,sun,12.5,ngee_tropics|BNL11185|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11193,LUEHSE,sun,29,ngee_tropics|BNL11193|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11070,LUEHSE,sun,28.9,ngee_tropics|BNL11070|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11077,ANACEX,sun,12,ngee_tropics|BNL11077|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11071,ANACEX,sun,13,ngee_tropics|BNL11071|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11072,CORDAL,sun,23.5,ngee_tropics|BNL11072|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11079,CORDAL,sun,24.5,ngee_tropics|BNL11079|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11078,CALYCA,sun,32,ngee_tropics|BNL11078|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11076,CALYCA,sun,35.5,ngee_tropics|BNL11076|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11072,CORDAL,sun,23.5,ngee_tropics|BNL11072|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11079,CORDAL,sun,24.5,ngee_tropics|BNL11079|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11078,CALYCA,sun,32,ngee_tropics|BNL11078|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11076,CALYCA,sun,35.5,ngee_tropics|BNL11076|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11081,FICUIN,sun,14,ngee_tropics|BNL11081|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11082,FICUIN,sun,13.5,ngee_tropics|BNL11082|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11172,ALBIED,sun,27,ngee_tropics|BNL11172|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11083,ALBIED,sun,26,ngee_tropics|BNL11083|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11171,ANTITR,sun,24,ngee_tropics|BNL11171|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11074,ANTITR,sun,20,ngee_tropics|BNL11074|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
-BNL11073,CASTEL,sun,11,ngee_tropics|BNL11073|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11066,CASTEL,sun,16,ngee_tropics|BNL11066|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11073,CASTEL,sun,11,ngee_tropics|BNL11073|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11066,CASTEL,sun,16,ngee_tropics|BNL11066|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11368,LUEHSE,sun,27,ngee_tropics|BNL11368|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11303,LUEHSE,sun,24,ngee_tropics|BNL11303|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11304,ANACEX,sun,11,ngee_tropics|BNL11304|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11364,ANACEX,sun,12,ngee_tropics|BNL11364|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11361,CORDAL,sun,23,ngee_tropics|BNL11361|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11357,CORDAL,sun,24,ngee_tropics|BNL11357|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11065,CALYCA,sun,34,ngee_tropics|BNL11065|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11359,CALYCA,sun,37,ngee_tropics|BNL11359|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11361,CORDAL,sun,23,ngee_tropics|BNL11361|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11357,CORDAL,sun,24,ngee_tropics|BNL11357|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11065,CALYCA,sun,34,ngee_tropics|BNL11065|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11359,CALYCA,sun,37,ngee_tropics|BNL11359|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11373,FICUIN,sun,25.5,ngee_tropics|BNL11373|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11374,FICUIN,sun,20,ngee_tropics|BNL11374|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11353,FICUIN,sun,17,ngee_tropics|BNL11353|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
@@ -456,41 +456,41 @@ BNL11429,ALBIED,sun,24,ngee_tropics|BNL11429|2016,2016,,,,ngee_tropics,,FALSE,il
 BNL11428,ALBIED,sun,26,ngee_tropics|BNL11428|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11430,ANTITR,sun,25,ngee_tropics|BNL11430|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11435,ANTITR,sun,21.5,ngee_tropics|BNL11435|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
-BNL11431,CASTEL,sun,14,ngee_tropics|BNL11431|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11432,CASTEL,sun,20,ngee_tropics|BNL11432|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11431,CASTEL,sun,14,ngee_tropics|BNL11431|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11432,CASTEL,sun,20,ngee_tropics|BNL11432|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11427,LUEHSE,sun,27.5,ngee_tropics|BNL11427|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11426,LUEHSE,sun,26,ngee_tropics|BNL11426|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11415,ANACEX,sun,12,ngee_tropics|BNL11415|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11204,ANACEX,sun,18,ngee_tropics|BNL11204|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11203,CORDAL,sun,28.5,ngee_tropics|BNL11203|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11202,CORDAL,sun,23,ngee_tropics|BNL11202|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11486,CALYCA,sun,36,ngee_tropics|BNL11486|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11466,CALYCA,sun,28.5,ngee_tropics|BNL11466|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11203,CORDAL,sun,28.5,ngee_tropics|BNL11203|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11202,CORDAL,sun,23,ngee_tropics|BNL11202|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11486,CALYCA,sun,36,ngee_tropics|BNL11486|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11466,CALYCA,sun,28.5,ngee_tropics|BNL11466|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11416,FICUIN,sun,16.5,ngee_tropics|BNL11416|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11117,FICUIN,sun,28.5,ngee_tropics|BNL11117|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11206,ALBIED,sun,24.5,ngee_tropics|BNL11206|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11414,ALBIED,sun,25,ngee_tropics|BNL11414|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11465,ANTITR,sun,21.5,ngee_tropics|BNL11465|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11485,ANTITR,sun,20,ngee_tropics|BNL11485|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
-BNL11301,CASTEL,sun,13,ngee_tropics|BNL11301|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11491,CASTEL,sun,12,ngee_tropics|BNL11491|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11301,CASTEL,sun,13,ngee_tropics|BNL11301|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11491,CASTEL,sun,12,ngee_tropics|BNL11491|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11483,LUEHSE,sun,13,ngee_tropics|BNL11483|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11487,LUEHSE,sun,17.5,ngee_tropics|BNL11487|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11484,ANACEX,sun,11,ngee_tropics|BNL11484|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11467,ANACEX,sun,11,ngee_tropics|BNL11467|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11207,CORDAL,sun,18,ngee_tropics|BNL11207|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11488,CORDAL,sun,24,ngee_tropics|BNL11488|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11480,CALYCA,sun,30,ngee_tropics|BNL11480|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11354,CALYCA,sun,22,ngee_tropics|BNL11354|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11207,CORDAL,sun,18,ngee_tropics|BNL11207|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11488,CORDAL,sun,24,ngee_tropics|BNL11488|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11480,CALYCA,sun,30,ngee_tropics|BNL11480|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11354,CALYCA,sun,22,ngee_tropics|BNL11354|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11479,FICUIN,sun,15.5,ngee_tropics|BNL11479|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11307,FICUIN,sun,12.5,ngee_tropics|BNL11307|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11400,ALBIED,sun,20.5,ngee_tropics|BNL11400|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11417,ALBIED,sun,24,ngee_tropics|BNL11417|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11308,ANTITR,sun,15.5,ngee_tropics|BNL11308|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11309,ANTITR,sun,16.5,ngee_tropics|BNL11309|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
-BNL11451,CASTEL,sun,,ngee_tropics|BNL11451|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11316,CASTEL,sun,,ngee_tropics|BNL11316|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
-BNL11448,CASTEL,sun,,ngee_tropics|BNL11448|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,,
+BNL11451,CASTEL,sun,,ngee_tropics|BNL11451|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11316,CASTEL,sun,,ngee_tropics|BNL11316|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
+BNL11448,CASTEL,sun,,ngee_tropics|BNL11448|2016,2016,,,,ngee_tropics,,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,,
 BNL11462,ANTITR,sun,,ngee_tropics|BNL11462|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11450,ANACEX,sun,,ngee_tropics|BNL11450|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11449,FICUIN,sun,,ngee_tropics|BNL11449|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
@@ -499,17 +499,17 @@ BNL11444,ANTITR,sun,,ngee_tropics|BNL11444|2016,2016,,,,ngee_tropics,,FALSE,kew-
 BNL11446,ANACEX,sun,,ngee_tropics|BNL11446|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11463,ANTITR,sun,,ngee_tropics|BNL11463|2016,2016,,,,ngee_tropics,,FALSE,kew-156694,Pittoniotis trichantha Griseb.,ThePlantList,,
 BNL11445,ANACEX,sun,,ngee_tropics|BNL11445|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11397,CALYCA,sun,,ngee_tropics|BNL11397|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11305,CORDAL,sun,,ngee_tropics|BNL11305|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11381,CORDAL,sun,,ngee_tropics|BNL11381|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
+BNL11397,CALYCA,sun,,ngee_tropics|BNL11397|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11305,CORDAL,sun,,ngee_tropics|BNL11305|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11381,CORDAL,sun,,ngee_tropics|BNL11381|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
 BNL11350,ALBIED,sun,,ngee_tropics|BNL11350|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11351,LUEHSE,sun,,ngee_tropics|BNL11351|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
-BNL11380,CALYCA,sun,,ngee_tropics|BNL11380|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11508,CALYCA,sun,,ngee_tropics|BNL11508|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11380,CALYCA,sun,,ngee_tropics|BNL11380|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11508,CALYCA,sun,,ngee_tropics|BNL11508|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11436,ALBIED,sun,,ngee_tropics|BNL11436|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
 BNL11208,LUEHSE,sun,,ngee_tropics|BNL11208|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11501,ALBIED,sun,,ngee_tropics|BNL11501|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
-BNL11506,CALYCA,sun,,ngee_tropics|BNL11506|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11506,CALYCA,sun,,ngee_tropics|BNL11506|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11502,LUEHSE,sun,,ngee_tropics|BNL11502|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11505,FICUIN,sun,,ngee_tropics|BNL11505|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11507,FICUIN,sun,,ngee_tropics|BNL11507|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
@@ -624,9 +624,9 @@ BNL11241,MICOAR,sun,16,ngee_tropics|BNL11241|2016,2016,,,,ngee_tropics,,FALSE,tr
 BNL11085,APEIME,sun,15,ngee_tropics|BNL11085|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,9.25,-79.99
 BNL10981,APEIME,sun,14.5,ngee_tropics|BNL10981|2016,2016,,,,ngee_tropics,,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,,
 BNL10957,APEIME,sun,12.5,ngee_tropics|BNL10957|2016,2016,,,,ngee_tropics,,FALSE,kew-2643251,Apeiba membranacea Spruce ex Benth.,ThePlantList,,
-BNL11123,CARAGU,sun,7.5,ngee_tropics|BNL11123|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11019,CARAGU,sun,7.5,ngee_tropics|BNL11019|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11025,CARAGU,sun,7,ngee_tropics|BNL11025|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11123,CARAGU,sun,7.5,ngee_tropics|BNL11123|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11019,CARAGU,sun,7.5,ngee_tropics|BNL11019|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11025,CARAGU,sun,7,ngee_tropics|BNL11025|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11033,GUATDU,sun,16,ngee_tropics|BNL11033|2016,2016,,,,ngee_tropics,,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,,
 BNL11040,GUATDU,sun,15.5,ngee_tropics|BNL11040|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
 BNL11036,GUATDU,sun,18.2,ngee_tropics|BNL11036|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
@@ -652,8 +652,8 @@ BNL10970,TERMAM,sun,10.5,ngee_tropics|BNL10970|2016,2016,SanLorenzo,2016-03-10T0
 BNL10939,TERMAM,sun,13.5,ngee_tropics|BNL10939|2016,2016,,,,ngee_tropics,,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,,
 BNL10998,TOCOPI,sun,10.5,ngee_tropics|BNL10998|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL10995,TOCOPI,sun,15,ngee_tropics|BNL10995|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL10960,CARAGU,sun,10.5,ngee_tropics|BNL10960|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11030,CARAGU,sun,14,ngee_tropics|BNL11030|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10960,CARAGU,sun,10.5,ngee_tropics|BNL10960|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11030,CARAGU,sun,14,ngee_tropics|BNL11030|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11029,TACHVE,sun,21,ngee_tropics|BNL11029|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10966,TACHVE,sun,20,ngee_tropics|BNL10966|2016,2016,,,,ngee_tropics,,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,,
 BNL10962,VOCHFE,sun,17,ngee_tropics|BNL10962|2016,2016,,,,ngee_tropics,,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,,
@@ -670,8 +670,8 @@ BNL10987,TERMAM,sun,14.5,ngee_tropics|BNL10987|2016,2016,,,,ngee_tropics,,FALSE,
 BNL11046,TERMAM,sun,16,ngee_tropics|BNL11046|2016,2016,,,,ngee_tropics,,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,,
 BNL11048,TOCOPI,sun,18,ngee_tropics|BNL11048|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL10997,TOCOPI,sun,21,ngee_tropics|BNL10997|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11000,CARAGU,sun,19,ngee_tropics|BNL11000|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10941,CARAGU,sun,15.5,ngee_tropics|BNL10941|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11000,CARAGU,sun,19,ngee_tropics|BNL11000|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10941,CARAGU,sun,15.5,ngee_tropics|BNL10941|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10951,TACHVE,sun,24.5,ngee_tropics|BNL10951|2016,2016,,,,ngee_tropics,,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,,
 BNL10971,TACHVE,sun,20,ngee_tropics|BNL10971|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10973,VOCHFE,sun,13.5,ngee_tropics|BNL10973|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -688,8 +688,8 @@ BNL10917,TERMAM,sun,23,ngee_tropics|BNL10917|2016,2016,SanLorenzo,2016-03-10T00:
 BNL10918,TERMAM,sun,20,ngee_tropics|BNL10918|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL10912,TOCOPI,sun,24.5,ngee_tropics|BNL10912|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL10908,TOCOPI,sun,24,ngee_tropics|BNL10908|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL10922,CARAGU,sun,18,ngee_tropics|BNL10922|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10930,CARAGU,sun,19,ngee_tropics|BNL10930|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10922,CARAGU,sun,18,ngee_tropics|BNL10922|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10930,CARAGU,sun,19,ngee_tropics|BNL10930|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10932,TACHVE,sun,29,ngee_tropics|BNL10932|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10927,TACHVE,sun,22.5,ngee_tropics|BNL10927|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10950,VOCHFE,sun,15,ngee_tropics|BNL10950|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -706,8 +706,8 @@ BNL10901,TERMAM,sun,16.5,ngee_tropics|BNL10901|2016,2016,SanLorenzo,2016-03-10T0
 BNL10889,TERMAM,sun,17.5,ngee_tropics|BNL10889|2016,2016,,,,ngee_tropics,,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,,
 BNL10893,TOCOPI,sun,15,ngee_tropics|BNL10893|2016,2016,,,,ngee_tropics,,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,,
 BNL10931,TOCOPI,sun,22.5,ngee_tropics|BNL10931|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL10899,CARAGU,sun,16.5,ngee_tropics|BNL10899|2016,2016,,,,ngee_tropics,,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,,
-BNL10903,CARAGU,sun,15.5,ngee_tropics|BNL10903|2016,2016,,,,ngee_tropics,,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,,
+BNL10899,CARAGU,sun,16.5,ngee_tropics|BNL10899|2016,2016,,,,ngee_tropics,,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,,
+BNL10903,CARAGU,sun,15.5,ngee_tropics|BNL10903|2016,2016,,,,ngee_tropics,,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,,
 BNL10902,TACHVE,sun,25,ngee_tropics|BNL10902|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10886,TACHVE,sun,23.5,ngee_tropics|BNL10886|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10881,VOCHFE,sun,15,ngee_tropics|BNL10881|2016,2016,,,,ngee_tropics,,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,,
@@ -724,8 +724,8 @@ BNL10944,TERMAM,sun,21,ngee_tropics|BNL10944|2016,2016,SanLorenzo,2016-03-10T00:
 BNL10945,TERMAM,sun,29,ngee_tropics|BNL10945|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL10946,TOCOPI,sun,16,ngee_tropics|BNL10946|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL10938,TOCOPI,sun,15,ngee_tropics|BNL10938|2016,2016,,,,ngee_tropics,,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,,
-BNL10920,CARAGU,sun,15,ngee_tropics|BNL10920|2016,2016,,,,ngee_tropics,,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,,
-BNL11047,CARAGU,sun,14.5,ngee_tropics|BNL11047|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10920,CARAGU,sun,15,ngee_tropics|BNL10920|2016,2016,,,,ngee_tropics,,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,,
+BNL11047,CARAGU,sun,14.5,ngee_tropics|BNL11047|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11038,TACHVE,sun,17,ngee_tropics|BNL11038|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11034,TACHVE,sun,17.5,ngee_tropics|BNL11034|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11039,VOCHFE,sun,13.5,ngee_tropics|BNL11039|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -742,8 +742,8 @@ BNL10948,TERMAM,sun,14.5,ngee_tropics|BNL10948|2016,2016,SanLorenzo,2016-03-10T0
 BNL10905,TERMAM,sun,16,ngee_tropics|BNL10905|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL10921,TOCOPI,sun,10.5,ngee_tropics|BNL10921|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL10925,TOCOPI,sun,15,ngee_tropics|BNL10925|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL10914,CARAGU,sun,13,ngee_tropics|BNL10914|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10923,CARAGU,sun,11,ngee_tropics|BNL10923|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10914,CARAGU,sun,13,ngee_tropics|BNL10914|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10923,CARAGU,sun,11,ngee_tropics|BNL10923|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL10878,TACHVE,sun,18,ngee_tropics|BNL10878|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11037,TACHVE,sun,16.5,ngee_tropics|BNL11037|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL10919,VOCHFE,sun,12,ngee_tropics|BNL10919|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -760,7 +760,7 @@ BNL11028,TACHVE,sun,,ngee_tropics|BNL11028|2016,2016,SanLorenzo,2016-03-10T00:00
 BNL11121,TOCOPI,sun,,ngee_tropics|BNL11121|2016,2016,,,,ngee_tropics,,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,,
 BNL11020,TACHVE,sun,,ngee_tropics|BNL11020|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11032,GUATDU,sun,,ngee_tropics|BNL11032|2016,2016,,,,ngee_tropics,,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,,
-BNL11173,CARAGU,sun,,ngee_tropics|BNL11173|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11173,CARAGU,sun,,ngee_tropics|BNL11173|2016,2016,SanLorenzo,2016-03-10T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11142,TACHVE,sun,,ngee_tropics|BNL11142|2016,2016,,,,ngee_tropics,,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,,
 BNL11143,TACHVE,sun,,ngee_tropics|BNL11143|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11144,TOCOPI,sun,,ngee_tropics|BNL11144|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
@@ -780,11 +780,11 @@ BNL10784,TERMAM,sun,,ngee_tropics|BNL10784|2016,2016,SanLorenzo,2016-03-11T00:00
 BNL11091,VIROSP,sun,,ngee_tropics|BNL11091|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2452051,Virola multiflora (Standl.) A.C.Sm.,ThePlantList,9.25,-79.99
 BNL10885,VIROSP,sun,,ngee_tropics|BNL10885|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2452051,Virola multiflora (Standl.) A.C.Sm.,ThePlantList,9.25,-79.99
 BNL10937,TOCOPI,sun,,ngee_tropics|BNL10937|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL10880,CARAGU,sun,,ngee_tropics|BNL10880|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL10928,CARAGU,sun,,ngee_tropics|BNL10928|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL10880,CARAGU,sun,,ngee_tropics|BNL10880|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL10928,CARAGU,sun,,ngee_tropics|BNL10928|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11137,VOCHFE,sun,,ngee_tropics|BNL11137|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL11139,TERMAM,sun,,ngee_tropics|BNL11139|2016,2016,,,,ngee_tropics,,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,,
-BNL11138,CARAGU,sun,,ngee_tropics|BNL11138|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11138,CARAGU,sun,,ngee_tropics|BNL11138|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11080,VOCHFE,sun,,ngee_tropics|BNL11080|2016,2016,SanLorenzo,2016-03-11T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL12210,TERMAM,sun,,ngee_tropics|BNL12210|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11537,GUATDU,sun,15.5,ngee_tropics|BNL11537|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2834344,Guatteria dumetorum R.E.Fr.,ThePlantList,9.25,-79.99
@@ -792,12 +792,12 @@ BNL11519,GUATDU,sun,17,ngee_tropics|BNL11519|2016,2016,SanLorenzo,2016-04-21T00:
 BNL11529,VOCHFE,sun,12.5,ngee_tropics|BNL11529|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL12207,TOCOPI,sun,4,ngee_tropics|BNL12207|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11524,VIROSP,sun,5,ngee_tropics|BNL11524|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2452051,Virola multiflora (Standl.) A.C.Sm.,ThePlantList,9.25,-79.99
-BNL12208,CARAGU,sun,8.5,ngee_tropics|BNL12208|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL12208,CARAGU,sun,8.5,ngee_tropics|BNL12208|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11525,VOCHFE,sun,9.5,ngee_tropics|BNL11525|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
 BNL12209,TOCOPI,sun,16,ngee_tropics|BNL12209|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11522,TERMAM,sun,12.5,ngee_tropics|BNL11522|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11527,MICOBO,sun,27,ngee_tropics|BNL11527|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
-BNL11523,CARAGU,sun,9.5,ngee_tropics|BNL11523|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11523,CARAGU,sun,9.5,ngee_tropics|BNL11523|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11530,TACHVE,sun,15,ngee_tropics|BNL11530|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11536,TACHVE,sun,21,ngee_tropics|BNL11536|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11528,VIROSP,sun,15,ngee_tropics|BNL11528|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2452051,Virola multiflora (Standl.) A.C.Sm.,ThePlantList,9.25,-79.99
@@ -808,8 +808,8 @@ BNL11707,TERMAM,sun,13.5,ngee_tropics|BNL11707|2016,2016,SanLorenzo,2016-04-21T0
 BNL11708,TERMAM,sun,21,ngee_tropics|BNL11708|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11719,TOCOPI,sun,9.5,ngee_tropics|BNL11719|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11720,TOCOPI,sun,14.5,ngee_tropics|BNL11720|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11709,CARAGU,sun,10.5,ngee_tropics|BNL11709|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11710,CARAGU,sun,14.5,ngee_tropics|BNL11710|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11709,CARAGU,sun,10.5,ngee_tropics|BNL11709|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11710,CARAGU,sun,14.5,ngee_tropics|BNL11710|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11717,TACHVE,sun,15.5,ngee_tropics|BNL11717|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11718,TACHVE,sun,18.5,ngee_tropics|BNL11718|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11715,VOCHFE,sun,10,ngee_tropics|BNL11715|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -824,8 +824,8 @@ BNL11749,TERMAM,sun,19.5,ngee_tropics|BNL11749|2016,2016,SanLorenzo,2016-04-21T0
 BNL11750,TERMAM,sun,18,ngee_tropics|BNL11750|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11751,TOCOPI,sun,19,ngee_tropics|BNL11751|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11752,TOCOPI,sun,10.5,ngee_tropics|BNL11752|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11745,CARAGU,sun,15.5,ngee_tropics|BNL11745|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11746,CARAGU,sun,11.5,ngee_tropics|BNL11746|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11745,CARAGU,sun,15.5,ngee_tropics|BNL11745|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11746,CARAGU,sun,11.5,ngee_tropics|BNL11746|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11741,TACHVE,sun,22.5,ngee_tropics|BNL11741|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11742,TACHVE,sun,20,ngee_tropics|BNL11742|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11743,VOCHFE,sun,16.5,ngee_tropics|BNL11743|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -840,8 +840,8 @@ BNL12205,TERMAM,sun,25.5,ngee_tropics|BNL12205|2016,2016,SanLorenzo,2016-04-21T0
 BNL12206,TERMAM,sun,21,ngee_tropics|BNL12206|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL12203,TOCOPI,sun,18.5,ngee_tropics|BNL12203|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL12204,TOCOPI,sun,18.5,ngee_tropics|BNL12204|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11545,CARAGU,sun,15.5,ngee_tropics|BNL11545|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11546,CARAGU,sun,17,ngee_tropics|BNL11546|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11545,CARAGU,sun,15.5,ngee_tropics|BNL11545|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11546,CARAGU,sun,17,ngee_tropics|BNL11546|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11801,TACHVE,sun,22.5,ngee_tropics|BNL11801|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11802,TACHVE,sun,20,ngee_tropics|BNL11802|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11803,VOCHFE,sun,17.5,ngee_tropics|BNL11803|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -856,8 +856,8 @@ BNL11737,TERMAM,sun,25.5,ngee_tropics|BNL11737|2016,2016,SanLorenzo,2016-04-21T0
 BNL11738,TERMAM,sun,15,ngee_tropics|BNL11738|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11735,TOCOPI,sun,16.5,ngee_tropics|BNL11735|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11736,TOCOPI,sun,17.5,ngee_tropics|BNL11736|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11721,CARAGU,sun,15.5,ngee_tropics|BNL11721|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11722,CARAGU,sun,20,ngee_tropics|BNL11722|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11721,CARAGU,sun,15.5,ngee_tropics|BNL11721|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11722,CARAGU,sun,20,ngee_tropics|BNL11722|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11723,TACHVE,sun,19.5,ngee_tropics|BNL11723|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11724,TACHVE,sun,20,ngee_tropics|BNL11724|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11725,VOCHFE,sun,20,ngee_tropics|BNL11725|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -872,8 +872,8 @@ BNL11795,TERMAM,sun,26.5,ngee_tropics|BNL11795|2016,2016,SanLorenzo,2016-04-21T0
 BNL12202,TERMAM,sun,27.5,ngee_tropics|BNL12202|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11793,TOCOPI,sun,15.5,ngee_tropics|BNL11793|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11794,TOCOPI,sun,19,ngee_tropics|BNL11794|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11791,CARAGU,sun,18,ngee_tropics|BNL11791|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11792,CARAGU,sun,19,ngee_tropics|BNL11792|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11791,CARAGU,sun,18,ngee_tropics|BNL11791|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11792,CARAGU,sun,19,ngee_tropics|BNL11792|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11798,TACHVE,sun,26,ngee_tropics|BNL11798|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11799,TACHVE,sun,26,ngee_tropics|BNL11799|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11812,VOCHFE,sun,18,ngee_tropics|BNL11812|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -888,8 +888,8 @@ BNL11516,TERMAM,sun,16.5,ngee_tropics|BNL11516|2016,2016,SanLorenzo,2016-04-21T0
 BNL11517,TERMAM,sun,13,ngee_tropics|BNL11517|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11703,TOCOPI,sun,9.5,ngee_tropics|BNL11703|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11513,TOCOPI,sun,15.5,ngee_tropics|BNL11513|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11533,CARAGU,sun,14,ngee_tropics|BNL11533|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11514,CARAGU,sun,18,ngee_tropics|BNL11514|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11533,CARAGU,sun,14,ngee_tropics|BNL11533|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11514,CARAGU,sun,18,ngee_tropics|BNL11514|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11511,TACHVE,sun,22.5,ngee_tropics|BNL11511|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11512,TACHVE,sun,16.5,ngee_tropics|BNL11512|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11509,VOCHFE,sun,14,ngee_tropics|BNL11509|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -904,8 +904,8 @@ BNL11605,TERMAM,sun,12,ngee_tropics|BNL11605|2016,2016,SanLorenzo,2016-04-21T00:
 BNL11606,TERMAM,sun,21.5,ngee_tropics|BNL11606|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11632,TOCOPI,sun,13.5,ngee_tropics|BNL11632|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11631,TOCOPI,sun,15,ngee_tropics|BNL11631|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11617,CARAGU,sun,17,ngee_tropics|BNL11617|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11618,CARAGU,sun,12,ngee_tropics|BNL11618|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11617,CARAGU,sun,17,ngee_tropics|BNL11617|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11618,CARAGU,sun,12,ngee_tropics|BNL11618|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11608,TACHVE,sun,14,ngee_tropics|BNL11608|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11607,TACHVE,sun,10,ngee_tropics|BNL11607|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11609,VOCHFE,sun,11.5,ngee_tropics|BNL11609|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -920,8 +920,8 @@ BNL11619,TERMAM,sun,12.5,ngee_tropics|BNL11619|2016,2016,SanLorenzo,2016-04-21T0
 BNL11620,TERMAM,sun,14,ngee_tropics|BNL11620|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11621,TOCOPI,sun,8,ngee_tropics|BNL11621|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
 BNL11622,TOCOPI,sun,10,ngee_tropics|BNL11622|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-206933,Tocoyena pittieri (Standl.) Standl.,ThePlantList,9.25,-79.99
-BNL11623,CARAGU,sun,16.5,ngee_tropics|BNL11623|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
-BNL11624,CARAGU,sun,13.5,ngee_tropics|BNL11624|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,usda_Plants,9.25,-79.99
+BNL11623,CARAGU,sun,16.5,ngee_tropics|BNL11623|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
+BNL11624,CARAGU,sun,13.5,ngee_tropics|BNL11624|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,CAGU6,Carapa guianensis Aubl.,USDA Plants,9.25,-79.99
 BNL11783,TACHVE,sun,19,ngee_tropics|BNL11783|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11784,TACHVE,sun,12,ngee_tropics|BNL11784|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,ild-10610,Tachigali versicolor Standl. & L.O.Williams,ThePlantList,9.25,-79.99
 BNL11625,VOCHFE,sun,12,ngee_tropics|BNL11625|2016,2016,SanLorenzo,2016-04-21T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
@@ -963,18 +963,18 @@ BNL11647,TERMAM,sun,,ngee_tropics|BNL11647|2016,2016,SanLorenzo,2016-04-22T00:00
 BNL11655,TERMAM,sun,,ngee_tropics|BNL11655|2016,2016,SanLorenzo,2016-04-22T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2431494,Terminalia amazonia (J.F.Gmel.) Exell,ThePlantList,9.25,-79.99
 BNL11649,MICOBO,sun,,ngee_tropics|BNL11649|2016,2016,SanLorenzo,2016-04-22T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,tro-20302782,Miconia borealis Gleason,ThePlantList,9.25,-79.99
 BNL11644,VOCHFE,sun,,ngee_tropics|BNL11644|2016,2016,SanLorenzo,2016-04-22T00:00:00Z,svc-hr,ngee_tropics,SanLorenzo,FALSE,kew-2461164,Vochysia ferruginea Mart.,ThePlantList,9.25,-79.99
-BNL11733,CASTEL,sun,6,ngee_tropics|BNL11733|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL11734,CASTEL,sun,4,ngee_tropics|BNL11734|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
+BNL11733,CASTEL,sun,6,ngee_tropics|BNL11733|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL11734,CASTEL,sun,4,ngee_tropics|BNL11734|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
 BNL11544,LUEHSE,sun,13,ngee_tropics|BNL11544|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL11903,ANACEX,sun,9,ngee_tropics|BNL11903|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL11704,LUEHSE,sun,11,ngee_tropics|BNL11704|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL11909,FICUIN,sun,10.5,ngee_tropics|BNL11909|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11910,FICUIN,sun,13.5,ngee_tropics|BNL11910|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
-BNL11907,CALYCA,sun,21,ngee_tropics|BNL11907|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL11908,CALYCA,sun,22.5,ngee_tropics|BNL11908|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL11905,CORDAL,sun,18,ngee_tropics|BNL11905|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL11907,CALYCA,sun,21,ngee_tropics|BNL11907|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL11908,CALYCA,sun,22.5,ngee_tropics|BNL11908|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL11905,CORDAL,sun,18,ngee_tropics|BNL11905|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL11904,ANACEX,sun,6,ngee_tropics|BNL11904|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
-BNL11906,CORDAL,sun,27,ngee_tropics|BNL11906|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
+BNL11906,CORDAL,sun,27,ngee_tropics|BNL11906|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
 BNL11912,ALBIED,sun,18,ngee_tropics|BNL11912|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
 BNL11911,ALBIED,sun,14,ngee_tropics|BNL11911|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
 BNL11650,FICUIN,sun,,ngee_tropics|BNL11650|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
@@ -983,8 +983,8 @@ BNL11652,FICUIN,sun,,ngee_tropics|BNL11652|2016,2016,PNM,2016-04-25T00:00:00Z,sv
 BNL11651,ALBIED,sun,,ngee_tropics|BNL11651|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
 BNL11656,FICUIN,sun,,ngee_tropics|BNL11656|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11653,ALBIED,sun,,ngee_tropics|BNL11653|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
-BNL11657,CASTEL,shade,,ngee_tropics|BNL11657|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
-BNL11595,CASTEL,shade,,ngee_tropics|BNL11595|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA_Plants,9.25,-79.99
+BNL11657,CASTEL,shade,,ngee_tropics|BNL11657|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
+BNL11595,CASTEL,shade,,ngee_tropics|BNL11595|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAEL5,Castilla elastica Sessé,USDA Plants,9.25,-79.99
 BNL11593,ALBIED,sun,,ngee_tropics|BNL11593|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
 BNL11594,ANACEX,shade,,ngee_tropics|BNL11594|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL11816,ANACEX,shade,,ngee_tropics|BNL11816|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
@@ -992,10 +992,10 @@ BNL11913,LUEHSE,sun,12,ngee_tropics|BNL11913|2016,2016,PNM,2016-04-25T00:00:00Z,
 BNL11914,LUEHSE,sun,11,ngee_tropics|BNL11914|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL11915,ANACEX,sun,6,ngee_tropics|BNL11915|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL11916,ANACEX,sun,5.5,ngee_tropics|BNL11916|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
-BNL11920,CORDAL,sun,20,ngee_tropics|BNL11920|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL11919,CORDAL,sun,23,ngee_tropics|BNL11919|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL11917,CALYCA,sun,23.5,ngee_tropics|BNL11917|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL11918,CALYCA,sun,20,ngee_tropics|BNL11918|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
+BNL11920,CORDAL,sun,20,ngee_tropics|BNL11920|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL11919,CORDAL,sun,23,ngee_tropics|BNL11919|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL11917,CALYCA,sun,23.5,ngee_tropics|BNL11917|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL11918,CALYCA,sun,20,ngee_tropics|BNL11918|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
 BNL11921,FICUIN,sun,12,ngee_tropics|BNL11921|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11922,FICUIN,sun,15,ngee_tropics|BNL11922|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11923,ALBIED,sun,17,ngee_tropics|BNL11923|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
@@ -1006,10 +1006,10 @@ BNL11927,LUEHSE,sun,21,ngee_tropics|BNL11927|2016,2016,PNM,2016-04-25T00:00:00Z,
 BNL11928,LUEHSE,sun,16,ngee_tropics|BNL11928|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL11929,ANACEX,sun,12,ngee_tropics|BNL11929|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL11930,ANACEX,sun,11,ngee_tropics|BNL11930|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
-BNL11931,CORDAL,sun,22.5,ngee_tropics|BNL11931|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL11932,CORDAL,sun,20.5,ngee_tropics|BNL11932|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL11933,CALYCA,sun,19,ngee_tropics|BNL11933|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL11934,CALYCA,sun,22,ngee_tropics|BNL11934|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
+BNL11931,CORDAL,sun,22.5,ngee_tropics|BNL11931|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL11932,CORDAL,sun,20.5,ngee_tropics|BNL11932|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL11933,CALYCA,sun,19,ngee_tropics|BNL11933|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL11934,CALYCA,sun,22,ngee_tropics|BNL11934|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
 BNL11935,FICUIN,sun,11.5,ngee_tropics|BNL11935|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11955,FICUIN,sun,10.5,ngee_tropics|BNL11955|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11956,ALBIED,sun,11.5,ngee_tropics|BNL11956|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
@@ -1020,10 +1020,10 @@ BNL11960,LUEHSE,sun,22,ngee_tropics|BNL11960|2016,2016,PNM,2016-04-25T00:00:00Z,
 BNL11961,LUEHSE,sun,23,ngee_tropics|BNL11961|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL11962,ANACEX,sun,10,ngee_tropics|BNL11962|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL11963,ANACEX,sun,7.5,ngee_tropics|BNL11963|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
-BNL11964,CORDAL,sun,23.5,ngee_tropics|BNL11964|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL11965,CORDAL,sun,29,ngee_tropics|BNL11965|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,9.25,-79.99
-BNL11966,CALYCA,sun,22.5,ngee_tropics|BNL11966|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
-BNL11967,CALYCA,sun,25,ngee_tropics|BNL11967|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
+BNL11964,CORDAL,sun,23.5,ngee_tropics|BNL11964|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL11965,CORDAL,sun,29,ngee_tropics|BNL11965|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,9.25,-79.99
+BNL11966,CALYCA,sun,22.5,ngee_tropics|BNL11966|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
+BNL11967,CALYCA,sun,25,ngee_tropics|BNL11967|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
 BNL11968,FICUIN,sun,14,ngee_tropics|BNL11968|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11969,FICUIN,sun,13,ngee_tropics|BNL11969|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,9.25,-79.99
 BNL11970,ALBIED,sun,18,ngee_tropics|BNL11970|2016,2016,PNM,2016-04-25T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,9.25,-79.99
@@ -1035,20 +1035,20 @@ BNL11975,LUEHSE,sun,25.5,ngee_tropics|BNL11975|2016,2016,PNM,2016-04-25T00:00:00
 BNL11850,CAL1,shade,,ngee_tropics|BNL11850|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,tro-3700004,Callichlamys latifolia (Rich.) K. Schum.,ThePlantList,9.25,-79.99
 BNL11817,POSOLA,shade,,ngee_tropics|BNL11817|2016,2016,,,,ngee_tropics,,FALSE,kew-163583,Posoqueria latifolia (Rudge) Schult.,ThePlantList,,
 BNL11818,POSOLA,shade,,ngee_tropics|BNL11818|2016,2016,,,,ngee_tropics,,FALSE,kew-163583,Posoqueria latifolia (Rudge) Schult.,ThePlantList,,
-BNL11845,CAPI,shade,,ngee_tropics|BNL11845|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAIN5,Capparis indica (L.) Druce,USDA_Plants,9.25,-79.99
-BNL11596,CALYCA,shade,,ngee_tropics|BNL11596|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
+BNL11845,CAPI,shade,,ngee_tropics|BNL11845|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAIN5,Capparis indica (L.) Druce,USDA Plants,9.25,-79.99
+BNL11596,CALYCA,shade,,ngee_tropics|BNL11596|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
 BNL11599,CAL1,shade,,ngee_tropics|BNL11599|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,tro-3700004,Callichlamys latifolia (Rich.) K. Schum.,ThePlantList,9.25,-79.99
-BNL11848,ALBIAD,shade,,ngee_tropics|BNL11848|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ALBIZ,Albizia Durazz.,USDA_Plants,9.25,-79.99
-BNL11821,CALYCA,shade,,ngee_tropics|BNL11821|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,9.25,-79.99
+BNL11848,ALBIAD,shade,,ngee_tropics|BNL11848|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ALBIZ,Albizia Durazz.,USDA Plants,9.25,-79.99
+BNL11821,CALYCA,shade,,ngee_tropics|BNL11821|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,9.25,-79.99
 BNL11819,POSOLA,shade,,ngee_tropics|BNL11819|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-163583,Posoqueria latifolia (Rudge) Schult.,ThePlantList,9.25,-79.99
-BNL11820,CAPI,shade,,ngee_tropics|BNL11820|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAIN5,Capparis indica (L.) Druce,USDA_Plants,9.25,-79.99
+BNL11820,CAPI,shade,,ngee_tropics|BNL11820|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAIN5,Capparis indica (L.) Druce,USDA Plants,9.25,-79.99
 BNL11849,POSOLA,shade,,ngee_tropics|BNL11849|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-163583,Posoqueria latifolia (Rudge) Schult.,ThePlantList,9.25,-79.99
 BNL11600,AST2GR,shade,,ngee_tropics|BNL11600|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2664129,Astronium graveolens Jacq.,ThePlantList,9.25,-79.99
 BNL11822,CAL1,shade,,ngee_tropics|BNL11822|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,tro-3700004,Callichlamys latifolia (Rich.) K. Schum.,ThePlantList,9.25,-79.99
-BNL11826,PPRE,shade,,ngee_tropics|BNL11826|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,PIRE10,Piper reticulatum L.,USDA_Plants,9.25,-79.99
+BNL11826,PPRE,shade,,ngee_tropics|BNL11826|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,PIRE10,Piper reticulatum L.,USDA Plants,9.25,-79.99
 BNL11827,PIT1RU,shade,,ngee_tropics|BNL11827|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-17602,Cojoba rufescens (Benth.) Britton & Rose,ThePlantList,9.25,-79.99
-BNL11823,CAPI,shade,,ngee_tropics|BNL11823|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAIN5,Capparis indica (L.) Druce,USDA_Plants,9.25,-79.99
-BNL11829,PPRE,shade,,ngee_tropics|BNL11829|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,PIRE10,Piper reticulatum L.,USDA_Plants,9.25,-79.99
+BNL11823,CAPI,shade,,ngee_tropics|BNL11823|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,CAIN5,Capparis indica (L.) Druce,USDA Plants,9.25,-79.99
+BNL11829,PPRE,shade,,ngee_tropics|BNL11829|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,PIRE10,Piper reticulatum L.,USDA Plants,9.25,-79.99
 BNL11831,PIT1RU,shade,,ngee_tropics|BNL11831|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,ild-17602,Cojoba rufescens (Benth.) Britton & Rose,ThePlantList,9.25,-79.99
 BNL11825,LUEHSE,shade,,ngee_tropics|BNL11825|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,9.25,-79.99
 BNL11832,CUPACI,shade,,ngee_tropics|BNL11832|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2747501,Cupania cinerea Poepp.,ThePlantList,9.25,-79.99
@@ -1056,15 +1056,15 @@ BNL11828,LUEHSE,shade,,ngee_tropics|BNL11828|2016,2016,PNM,2016-04-26T00:00:00Z,
 BNL11833,ANACEX,shade,,ngee_tropics|BNL11833|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL11830,ANACEX,shade,,ngee_tropics|BNL11830|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
 BNL11824,ANACEX,shade,,ngee_tropics|BNL11824|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,9.25,-79.99
-BNL11834,PPRE,shade,,ngee_tropics|BNL11834|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,PIRE10,Piper reticulatum L.,USDA_Plants,9.25,-79.99
+BNL11834,PPRE,shade,,ngee_tropics|BNL11834|2016,2016,PNM,2016-04-26T00:00:00Z,svc-hr,ngee_tropics,PNM,FALSE,PIRE10,Piper reticulatum L.,USDA Plants,9.25,-79.99
 BNL11976,LUEHSE,sun,27,ngee_tropics|BNL11976|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11977,LUEHSE,sun,21.5,ngee_tropics|BNL11977|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11978,ANACEX,sun,14,ngee_tropics|BNL11978|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11979,ANACEX,sun,15,ngee_tropics|BNL11979|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11980,CORDAL,sun,21.5,ngee_tropics|BNL11980|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11981,CORDAL,sun,24,ngee_tropics|BNL11981|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11982,CALYCA,sun,23,ngee_tropics|BNL11982|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11983,CALYCA,sun,28,ngee_tropics|BNL11983|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11980,CORDAL,sun,21.5,ngee_tropics|BNL11980|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11981,CORDAL,sun,24,ngee_tropics|BNL11981|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11982,CALYCA,sun,23,ngee_tropics|BNL11982|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11983,CALYCA,sun,28,ngee_tropics|BNL11983|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11984,FICUIN,sun,15,ngee_tropics|BNL11984|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11985,FICUIN,sun,13,ngee_tropics|BNL11985|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11986,ALBIED,sun,18,ngee_tropics|BNL11986|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
@@ -1075,10 +1075,10 @@ BNL11553,LUEHSE,sun,24,ngee_tropics|BNL11553|2016,2016,,,,ngee_tropics,,FALSE,ke
 BNL11554,LUEHSE,sun,22,ngee_tropics|BNL11554|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11990,ANACEX,sun,8,ngee_tropics|BNL11990|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11991,ANACEX,sun,10.5,ngee_tropics|BNL11991|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11992,CORDAL,sun,25,ngee_tropics|BNL11992|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11993,CORDAL,sun,23,ngee_tropics|BNL11993|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11994,CALYCA,sun,23.5,ngee_tropics|BNL11994|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11995,CALYCA,sun,20,ngee_tropics|BNL11995|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11992,CORDAL,sun,25,ngee_tropics|BNL11992|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11993,CORDAL,sun,23,ngee_tropics|BNL11993|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11994,CALYCA,sun,23.5,ngee_tropics|BNL11994|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11995,CALYCA,sun,20,ngee_tropics|BNL11995|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11996,FICUIN,sun,14,ngee_tropics|BNL11996|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11997,FICUIN,sun,14.5,ngee_tropics|BNL11997|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11998,ALBIED,sun,11.5,ngee_tropics|BNL11998|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,
@@ -1089,10 +1089,10 @@ BNL11551,LUEHSE,sun,21.5,ngee_tropics|BNL11551|2016,2016,,,,ngee_tropics,,FALSE,
 BNL11552,LUEHSE,sun,18,ngee_tropics|BNL11552|2016,2016,,,,ngee_tropics,,FALSE,kew-2496835,Luehea seemannii Triana & Planch,ThePlantList,,
 BNL11555,ANACEX,sun,11,ngee_tropics|BNL11555|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
 BNL11556,ANACEX,sun,10,ngee_tropics|BNL11556|2016,2016,,,,ngee_tropics,,FALSE,kew-2635897,Anacardium excelsum (Bertero ex Kunth) Skeels,ThePlantList,,
-BNL11557,CORDAL,sun,15.5,ngee_tropics|BNL11557|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11558,CORDAL,sun,24,ngee_tropics|BNL11558|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA_Plants,,
-BNL11559,CALYCA,sun,17.5,ngee_tropics|BNL11559|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
-BNL11560,CALYCA,sun,14,ngee_tropics|BNL11560|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA_Plants,,
+BNL11557,CORDAL,sun,15.5,ngee_tropics|BNL11557|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11558,CORDAL,sun,24,ngee_tropics|BNL11558|2016,2016,,,,ngee_tropics,,FALSE,COAL,Cordia alliodora (Ruiz & Pav.) Oken,USDA Plants,,
+BNL11559,CALYCA,sun,17.5,ngee_tropics|BNL11559|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
+BNL11560,CALYCA,sun,14,ngee_tropics|BNL11560|2016,2016,,,,ngee_tropics,,FALSE,CACA73,Calycophyllum candidissimum (Vahl) DC.,USDA Plants,,
 BNL11561,FICUIN,sun,11,ngee_tropics|BNL11561|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11562,FICUIN,sun,10.5,ngee_tropics|BNL11562|2016,2016,,,,ngee_tropics,,FALSE,kew-2810868,Ficus insipida Willd.,ThePlantList,,
 BNL11563,ALBIED,sun,9,ngee_tropics|BNL11563|2016,2016,,,,ngee_tropics,,FALSE,ild-32326,Albizia guachapele (Kunth) Dugand,ThePlantList,,

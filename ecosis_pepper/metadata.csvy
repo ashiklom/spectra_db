@@ -11,7 +11,7 @@
 #    type: string
 #  - name: species_code
 #    type: string
-#  - name: Dataset_ID
+#  - name: Database_ID
 #    type: string
 #  - name: fresh_dry
 #    type: string
@@ -33,7 +33,7 @@
 #    type: boolean
 #
 #---
-observation_id,species_code,Dataset_ID,fresh_dry,year,latitude,longitude,instrument_code,leaf_N_pct_mass,leaf_K_pct_mass,is_experiment
+observation_id,species_code,Database_ID,fresh_dry,year,latitude,longitude,instrument_code,leaf_N_pct_mass,leaf_K_pct_mass,is_experiment
 ecosis_pepper_01_01,CAAN4,USDA Plants,fresh,2014,31.997,34.817,asd-fs,4.38,3.5998003992,TRUE
 ecosis_pepper_01_02,CAAN4,USDA Plants,fresh,2014,31.997,34.817,asd-fs,4.38,3.5998003992,TRUE
 ecosis_pepper_01_03,CAAN4,USDA Plants,fresh,2014,31.997,34.817,asd-fs,4.38,3.5998003992,TRUE
