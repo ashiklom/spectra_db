@@ -1,24 +1,24 @@
-project_code,color
-accp,#FF0000FF
-angers,#FF9900FF
-barnes_2017,#FFCC00FF
-divittorio_conifer,#00FF00FF
-ecosis_californiatraits,#6699FFFF
-ecosis_cedarcreek_biodiversity,#CC33FFFF
-ecosis_cornvarieties,#99991EFF
-ecosis_hawaii2000,#999999FF
-ecosis_milkweed_stress,#FF00CCFF
-ecosis_missoulats,#CC0000FF
-ecosis_pepper,#FFCCCCFF
-ecosis_pvy_solanum,#FFFF00FF
-ecosis_santamonica,#CCFF00FF
-ecosis_soybean_aphid,#358000FF
-ecosis_spectral_variation_leafcanopy,#0000CCFF
-foster_beetle,#99CCFFFF
-lopex,#00FFFFFF
-nasa_fft,#CCFFFFFF
-nasa_hyspiri,#9900CCFF
-ngee_arctic,#CC99FFFF
-ngee_tropics,#996600FF
-wu_brazil,#666600FF
-yang_pheno,#666666FF
+project_code,short_name,color
+accp,ACCP,#FF0000FF
+angers,ANGERS,#FF9900FF
+barnes_2017,Barnes 2017,#FFCC00FF
+divittorio_conifer,Di Vittorio 2009,#00FF00FF
+ecosis_californiatraits,Cali. Eco. Traits,#6699FFFF
+ecosis_cedarcreek_biodiversity,Cedar Creek Biodiv.,#CC33FFFF
+ecosis_cornvarieties,Corn var.,#99991EFF
+ecosis_hawaii2000,Hawaii 2000,#999999FF
+ecosis_milkweed_stress,Milkweed stress,#FF00CCFF
+ecosis_missoulats,Missoula TS,#CC0000FF
+ecosis_pepper,Pepper K/N,#FFCCCCFF
+ecosis_pvy_solanum,PVY solanum,#FFFF00FF
+ecosis_santamonica,Santa Monica Mtns.,#CCFF00FF
+ecosis_soybean_aphid,Soybean aphid,#358000FF
+ecosis_spectral_variation_leafcanopy,Spectral variation,#0000CCFF
+foster_beetle,Foster 2017,#99CCFFFF
+lopex,LOPEX,#00FFFFFF
+nasa_fft,NASA FFT,#CCFFFFFF
+nasa_hyspiri,NASA HyspIRI,#9900CCFF
+ngee_arctic,NGEE Arctic,#CC99FFFF
+ngee_tropics,NGEE Tropics,#996600FF
+wu_brazil,Wu 2016,#666600FF
+yang_pheno,Yang 2016,#666666FF
