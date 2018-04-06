@@ -34,764 +34,764 @@
 #
 #---
 observation_id,PVY_infected,variety,species_genus,species_species,species_code,Database_ID,is_experiment,year,latitude,longitude,instrument_code
-ecosis_pvy_solanum_0001_01,healthy,CO-04099-3W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0002_01,infected,CO-04099-3W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0003_01,infected,Colorado Rose,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0004_01,healthy,CO97226-2R/R,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0005_01,infected,CO97226-2R/R,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0006_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0007_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0008_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0009_01,infected,CO07131-1W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0010_01,infected,ATTX98453-6R,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0011_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0012_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0013_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0014_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0015_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0016_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0017_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0018_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0019_01,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0020_02,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0021_03,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0022_01,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0023_02,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0024_03,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0025_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0026_01,healthy,Austrian Cresent,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0027_01,infected,Austrian Cresent,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0028_01,healthy,Cherie,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0029_01,infected,Cherie,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0030_01,healthy,Cherie,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0031_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0032_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0033_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0034_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0035_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0036_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0037_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0038_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0039_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0040_01,infected,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0041_02,infected,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0042_01,healthy,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0043_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0044_01,infected,FL2215,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0045_01,infected,Mercury Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0046_01,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0047_01,infected,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0048_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0049_02,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0050_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0051_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0052_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0053_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0054_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0055_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0056_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0057_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0058_01,infected,AC99375-RU,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0059_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0060_01,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0061_02,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0062_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0063_02,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0064_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0065_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0066_01,infected,FL1867,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0067_01,infected,FL1867,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0068_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0069_01,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0070_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0071_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0072_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0073_01,infected,AC99375-RU,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0074_01,healthy,Chopin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0075_01,infected,Chopin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0076_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0077_01,healthy,Rooster,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0078_01,infected,Rooster,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0079_01,healthy,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0080_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0081_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0082_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0083_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0084_01,infected,Latona,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0085_01,infected,Latona,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0086_01,infected,Mesa Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0087_01,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0088_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0089_01,infected,CO-04099-3W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0090_01,healthy,Purple Majesty,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0091_01,infected,Purple Majesty,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0092_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0093_02,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0094_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0095_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0096_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0097_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0098_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0099_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0100_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0101_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0102_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0103_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0104_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0105_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0106_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0107_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0108_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0109_01,infected,Fl1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0110_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0111_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0112_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0113_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0114_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0115_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0116_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0117_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0118_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0119_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0120_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0121_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0122_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0123_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0124_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0125_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0126_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0127_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0128_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0129_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0130_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0131_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0132_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0133_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0134_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0135_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0136_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0137_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0138_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0139_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0140_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0141_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0142_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0143_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0144_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0145_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0146_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0147_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0148_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0149_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0150_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0151_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0152_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0153_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0154_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0155_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0156_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0157_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0158_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0159_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0160_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0161_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0162_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0163_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0164_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0165_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0166_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0167_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0168_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0169_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0170_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0171_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0172_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0173_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0174_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0175_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0176_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0177_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0178_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0179_01,infected,R. Norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0180_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0181_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0182_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0183_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0184_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0185_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0186_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0187_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0188_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0189_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0190_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0191_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0192_01,healthy,All Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0193_01,infected,All Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0194_01,healthy,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0195_01,infected,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0196_01,healthy,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0197_01,infected,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0198_01,healthy,Irish Cobbler,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0199_01,infected,Irish Cobbler,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0200_01,healthy,Russian Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0201_01,infected,Russian Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0202_01,healthy,Waneta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0203_01,infected,Waneta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0204_01,healthy,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0205_01,infected,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0206_01,healthy,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0207_01,infected,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0208_01,healthy,Milva,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0209_01,infected,Milva,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0210_01,healthy,Katahdin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0211_01,infected,Katahdin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0212_01,healthy,MN04844-07,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0213_01,infected,MN04844-07,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0214_01,healthy,Dakota Crisp,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0215_01,infected,Dakota Crisp,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0216_01,healthy,Satina,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0217_01,infected,Satina,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0218_01,healthy,Granola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0219_01,infected,Granola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0220_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0221_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0222_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0223_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0224_01,healthy,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0225_01,infected,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0226_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0227_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0228_01,healthy,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0229_01,healthy,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0230_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0231_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0232_01,healthy,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0233_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0234_01,healthy,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0235_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0236_01,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0237_01,infected,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0238_01,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0239_01,infected,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0240_01,healthy,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0241_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0242_01,healthy,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0243_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0245_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0246_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0247_01,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0248_01,healthy,Umatilla,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0249_01,infected,Umatilla,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0250_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0251_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0252_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0253_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0254_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0255_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0256_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0257_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0258_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0259_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0260_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0261_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0262_01,healthy,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0263_01,infected,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0264_01,healthy,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0265_01,infected,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0266_01,healthy,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0267_01,infected,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0268_01,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0269_01,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0270_01,healthy,?,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0271_01,infected,?,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0272_01,healthy,Dk Red Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0273_01,infected,Dk Red Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0274_01,healthy,French Fingerling,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0275_01,infected,French Fingerling,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0276_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0277_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0278_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0279_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0280_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0281_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0298_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0299_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0300_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0301_02,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0302_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0303_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0304_02,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0305_03,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0306_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0307_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0308_02,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0309_01,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0310_02,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0311_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0312_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0313_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0314_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0315_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0316_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0317_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0318_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0319_01,healthy,BEL,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0320_01,infected,BEL,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0321_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0322_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0323_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0324_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0325_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0326_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0327_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0328_02,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0329_01,healthy,German Butterball,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0330_01,infected,German Butterball,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0331_01,healthy,Mercury Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0332_01,infected,Mercury Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0333_01,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0334_02,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0335_01,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0336_02,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0337_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0338_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0339_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0340_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0341_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0342_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0343_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0344_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0345_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0346_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0347_01,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0348_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0349_01,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0350_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0351_02,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0352_01,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0353_01,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0354_01,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0355_01,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0356_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0357_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0358_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0359_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0360_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0361_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0362_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0363_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0364_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0365_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0366_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0367_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0368_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0369_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0370_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0371_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0372_01,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0373_02,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0374_01,infected,?,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0375_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0376_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0377_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0378_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0379_01,healthy,Norkotah C08,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0380_01,infected,Norkotah C08,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0381_01,healthy,Norkotah Tx296,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0382_01,infected,Norkotah Tx296,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0383_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0384_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0385_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0386_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0387_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0388_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0389_01,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0390_02,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0391_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0392_01,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0393_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0394_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0395_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0396_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0397_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0398_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0399_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0400_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0401_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0402_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0403_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0404_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0405_01,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0406_01,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0407_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0408_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0409_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0410_02,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0411_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0412_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0413_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0414_01,infected,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0415_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0416_01,infected,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0417_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0418_01,infected,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0419_01,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0420_02,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0421_03,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0422_04,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0423_05,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0424_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0425_02,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0426_03,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0427_04,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0428_05,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0429_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0430_02,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0431_03,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0432_02,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0433_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0434_03,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0435_05,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0436_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0437_02,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0438_03,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0439_04,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0440_05,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0441_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0442_02,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0443_03,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0444_04,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0445_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0446_02,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0447_03,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0448_04,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0449_05,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0450_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0451_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0452_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0453_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0454_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0455_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0456_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0457_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0458_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0459_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0460_01,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0461_02,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0462_03,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0463_04,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0464_05,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0465_06,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0466_07,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0467_08,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0468_01,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0469_02,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0470_03,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0471_04,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0472_01,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0473_02,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0474_03,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0475_04,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0476_05,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0477_01,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0478_02,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0479_03,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0480_04,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0481_05,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0482_01,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0483_02,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0484_03,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0485_04,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0486_05,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0487_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0488_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0489_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0490_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0491_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0492_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0493_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0494_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0495_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0496_02,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0497_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0498_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0499_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0500_02,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0501_03,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0502_04,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0503_05,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0504_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0505_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0506_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0507_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0508_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0509_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0510_02,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0511_03,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0512_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0513_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0514_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0515_01,infected,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0516_02,infected,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0517_03,infected,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0518_01,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0519_02,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0520_03,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0521_04,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0522_05,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0523_01,infected,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0524_02,infected,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0525_01,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0526_02,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0527_03,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0528_04,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0529_05,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0530_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0531_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0532_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0533_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0534_05,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0535_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0536_02,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0537_03,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0538_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0539_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0540_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0541_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0542_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0543_02,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0544_03,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0545_04,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0546_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0547_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0548_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0549_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0550_01,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0551_02,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0552_03,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0553_04,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0554_01,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0555_02,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0556_03,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0557_04,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0558_01,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0559_02,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0560_03,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0561_04,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0562_01,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0563_02,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0564_03,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0565_04,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0566_05,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0567_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0568_02,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0569_03,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0570_04,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0571_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0572_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0573_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0574_02,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0575_03,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0576_04,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0577_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0578_02,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0579_03,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0580_04,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0581_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0582_02,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0583_03,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0584_04,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0585_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0586_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0587_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0588_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0589_05,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0590_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0591_02,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0592_03,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0593_04,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0594_01,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0595_02,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0596_03,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0597_04,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0598_05,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0599_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0600_02,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0601_01,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0602_02,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0603_03,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0604_04,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0605_05,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0606_01,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0607_02,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0608_03,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0609_04,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0610_05,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0611_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0612_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0613_03,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0614_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0615_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0616_03,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0617_04,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0618_05,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0619_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0620_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0621_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0622_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0623_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0624_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0625_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0626_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0627_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0628_03,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0629_04,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0630_05,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0631_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0632_02,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0633_03,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0634_04,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0635_05,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0636_01,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0637_02,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0638_03,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0639_04,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0640_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0641_02,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0642_03,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0643_04,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0644_05,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0645_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0646_02,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0647_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0648_02,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0649_03,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0650_04,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0651_05,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0652_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0653_02,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0654_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0655_02,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0656_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0657_02,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0658_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0659_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0660_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0661_04,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0662_05,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0663_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0664_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0665_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0666_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0667_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0668_02,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0669_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0670_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0671_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0672_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0673_02,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0674_03,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0675_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0676_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0677_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0678_04,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0679_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0680_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0681_03,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0682_04,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0683_05,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0684_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0685_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0686_03,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0687_04,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0688_05,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0689_01,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0690_02,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0691_03,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0692_04,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0693_05,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0694_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0695_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0696_03,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0697_04,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0698_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0699_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0700_03,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0701_04,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0702_05,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0703_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0704_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0705_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0706_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0707_01,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0708_02,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0709_03,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0710_01,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0711_02,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0712_03,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0713_04,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0714_05,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0715_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0716_02,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0717_03,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0718_04,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0719_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0720_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0721_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0722_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0723_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0724_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0725_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0726_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0727_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0728_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0729_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0730_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0731_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0732_03,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0733_04,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0734_05,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0735_01,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0736_02,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0737_03,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0738_04,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0739_05,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0740_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0741_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0742_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0743_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0744_05,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0745_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0746_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0747_03,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0748_04,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0749_05,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0750_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0751_02,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0752_03,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0753_04,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0754_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0755_02,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0756_03,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0757_04,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0758_05,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0759_01,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0760_02,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0761_03,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0762_04,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0763_05,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0764_01,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0765_02,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0766_03,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0767_04,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0768_05,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0769_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0770_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0771_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0772_04,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0773_05,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0774_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0775_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0776_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0777_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
-ecosis_pvy_solanum_0778_05,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,157.86,svc-hr
+ecosis_pvy_solanum_0001_01,healthy,CO-04099-3W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0002_01,infected,CO-04099-3W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0003_01,infected,Colorado Rose,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0004_01,healthy,CO97226-2R/R,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0005_01,infected,CO97226-2R/R,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0006_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0007_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0008_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0009_01,infected,CO07131-1W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0010_01,infected,ATTX98453-6R,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0011_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0012_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0013_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0014_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0015_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0016_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0017_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0018_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0019_01,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0020_02,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0021_03,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0022_01,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0023_02,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0024_03,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0025_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0026_01,healthy,Austrian Cresent,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0027_01,infected,Austrian Cresent,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0028_01,healthy,Cherie,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0029_01,infected,Cherie,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0030_01,healthy,Cherie,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0031_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0032_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0033_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0034_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0035_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0036_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0037_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0038_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0039_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0040_01,infected,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0041_02,infected,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0042_01,healthy,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0043_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0044_01,infected,FL2215,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0045_01,infected,Mercury Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0046_01,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0047_01,infected,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0048_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0049_02,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0050_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0051_02,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0052_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0053_02,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0054_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0055_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0056_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0057_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0058_01,infected,AC99375-RU,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0059_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0060_01,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0061_02,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0062_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0063_02,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0064_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0065_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0066_01,infected,FL1867,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0067_01,infected,FL1867,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0068_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0069_01,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0070_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0071_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0072_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0073_01,infected,AC99375-RU,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0074_01,healthy,Chopin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0075_01,infected,Chopin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0076_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0077_01,healthy,Rooster,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0078_01,infected,Rooster,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0079_01,healthy,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0080_01,infected,Chipeta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0081_01,healthy,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0082_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0083_01,infected,Classic Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0084_01,infected,Latona,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0085_01,infected,Latona,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0086_01,infected,Mesa Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0087_01,healthy,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0088_01,infected,Rio Grand Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0089_01,infected,CO-04099-3W/Y,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0090_01,healthy,Purple Majesty,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0091_01,infected,Purple Majesty,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0092_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0093_02,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0094_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0095_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0096_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0097_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0098_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0099_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0100_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0101_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0102_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0103_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0104_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0105_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0106_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0107_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0108_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0109_01,infected,Fl1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0110_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0111_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0112_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0113_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0114_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0115_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0116_01,healthy,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0117_01,infected,FL1879,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0118_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0119_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0120_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0121_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0122_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0123_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0124_01,healthy,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0125_01,infected,FL1833,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0126_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0127_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0128_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0129_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0130_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0131_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0132_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0133_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0134_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0135_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0136_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0137_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0138_01,healthy,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0139_01,infected,FL2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0140_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0141_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0142_01,healthy,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0143_01,infected,Fl2137,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0144_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0145_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0146_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0147_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0148_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0149_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0150_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0151_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0152_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0153_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0154_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0155_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0156_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0157_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0158_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0159_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0160_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0161_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0162_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0163_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0164_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0165_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0166_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0167_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0168_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0169_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0170_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0171_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0172_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0173_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0174_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0175_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0176_01,healthy,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0177_01,infected,Onaway,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0178_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0179_01,infected,R. Norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0180_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0181_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0182_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0183_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0184_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0185_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0186_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0187_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0188_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0189_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0190_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0191_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0192_01,healthy,All Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0193_01,infected,All Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0194_01,healthy,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0195_01,infected,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0196_01,healthy,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0197_01,infected,Viking,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0198_01,healthy,Irish Cobbler,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0199_01,infected,Irish Cobbler,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0200_01,healthy,Russian Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0201_01,infected,Russian Blue,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0202_01,healthy,Waneta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0203_01,infected,Waneta,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0204_01,healthy,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0205_01,infected,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0206_01,healthy,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0207_01,infected,Norchip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0208_01,healthy,Milva,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0209_01,infected,Milva,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0210_01,healthy,Katahdin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0211_01,infected,Katahdin,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0212_01,healthy,MN04844-07,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0213_01,infected,MN04844-07,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0214_01,healthy,Dakota Crisp,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0215_01,infected,Dakota Crisp,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0216_01,healthy,Satina,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0217_01,infected,Satina,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0218_01,healthy,Granola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0219_01,infected,Granola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0220_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0221_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0222_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0223_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0224_01,healthy,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0225_01,infected,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0226_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0227_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0228_01,healthy,Cal White,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0229_01,healthy,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0230_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0231_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0232_01,healthy,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0233_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0234_01,healthy,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0235_01,infected,Dakota Pearl,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0236_01,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0237_01,infected,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0238_01,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0239_01,infected,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0240_01,healthy,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0241_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0242_01,healthy,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0243_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0245_01,infected,Yukon Gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0246_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0247_01,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0248_01,healthy,Umatilla,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0249_01,infected,Umatilla,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0250_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0251_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0252_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0253_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0254_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0255_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0256_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0257_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0258_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0259_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0260_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0261_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0262_01,healthy,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0263_01,infected,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0264_01,healthy,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0265_01,infected,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0266_01,healthy,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0267_01,infected,Red Pontiac,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0268_01,healthy,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0269_01,infected,Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0270_01,healthy,?,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0271_01,infected,?,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0272_01,healthy,Dk Red Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0273_01,infected,Dk Red Chieftan,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0274_01,healthy,French Fingerling,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0275_01,infected,French Fingerling,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0276_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0277_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0278_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0279_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0280_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0281_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0298_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0299_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0300_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0301_02,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0302_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0303_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0304_02,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0305_03,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0306_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0307_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0308_02,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0309_01,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0310_02,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0311_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0312_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0313_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0314_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0315_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0316_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0317_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0318_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0319_01,healthy,BEL,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0320_01,infected,BEL,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0321_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0322_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0323_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0324_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0325_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0326_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0327_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0328_02,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0329_01,healthy,German Butterball,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0330_01,infected,German Butterball,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0331_01,healthy,Mercury Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0332_01,infected,Mercury Russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0333_01,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0334_02,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0335_01,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0336_02,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0337_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0338_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0339_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0340_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0341_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0342_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0343_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0344_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0345_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0346_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0347_01,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0348_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0349_01,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0350_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0351_02,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0352_01,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0353_01,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0354_01,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0355_01,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0356_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0357_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0358_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0359_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0360_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0361_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0362_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0363_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0364_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0365_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0366_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0367_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0368_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0369_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0370_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0371_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0372_01,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0373_02,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0374_01,infected,?,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0375_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0376_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0377_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0378_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0379_01,healthy,Norkotah C08,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0380_01,infected,Norkotah C08,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0381_01,healthy,Norkotah Tx296,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0382_01,infected,Norkotah Tx296,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0383_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0384_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0385_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0386_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0387_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0388_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0389_01,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0390_02,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0391_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0392_01,infected,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0393_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0394_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0395_01,healthy,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0396_01,infected,Red LaSoda,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0397_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0398_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0399_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0400_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0401_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0402_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0403_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0404_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0405_01,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0406_01,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0407_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0408_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0409_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0410_02,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0411_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0412_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0413_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0414_01,infected,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0415_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0416_01,infected,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0417_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0418_01,infected,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0419_01,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0420_02,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0421_03,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0422_04,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0423_05,healthy,kennebec,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0424_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0425_02,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0426_03,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0427_04,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0428_05,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0429_01,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0430_02,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0431_03,infected,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0432_02,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0433_01,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0434_03,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0435_05,healthy,lamoka,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0436_01,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0437_02,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0438_03,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0439_04,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0440_05,infected,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0441_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0442_02,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0443_03,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0444_04,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0445_01,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0446_02,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0447_03,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0448_04,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0449_05,healthy,pike,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0450_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0451_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0452_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0453_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0454_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0455_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0456_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0457_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0458_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0459_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0460_01,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0461_02,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0462_03,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0463_04,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0464_05,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0465_06,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0466_07,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0467_08,healthy,teton russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0468_01,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0469_02,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0470_03,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0471_04,infected,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0472_01,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0473_02,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0474_03,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0475_04,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0476_05,healthy,tundra,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0477_01,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0478_02,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0479_03,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0480_04,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0481_05,infected,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0482_01,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0483_02,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0484_03,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0485_04,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0486_05,healthy,umatilla russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0487_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0488_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0489_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0490_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0491_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0492_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0493_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0494_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0495_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0496_02,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0497_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0498_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0499_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0500_02,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0501_03,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0502_04,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0503_05,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0504_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0505_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0506_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0507_04,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0508_05,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0509_01,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0510_02,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0511_03,infected,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0512_01,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0513_02,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0514_03,healthy,superior,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0515_01,infected,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0516_02,infected,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0517_03,infected,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0518_01,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0519_02,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0520_03,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0521_04,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0522_05,healthy,dakota russet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0523_01,infected,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0524_02,infected,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0525_01,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0526_02,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0527_03,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0528_04,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0529_05,healthy,dakota trailblazer,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0530_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0531_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0532_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0533_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0534_05,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0535_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0536_02,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0537_03,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0538_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0539_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0540_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0541_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0542_01,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0543_02,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0544_03,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0545_04,infected,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0546_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0547_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0548_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0549_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0550_01,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0551_02,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0552_03,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0553_04,infected,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0554_01,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0555_02,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0556_03,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0557_04,healthy,marcy,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0558_01,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0559_02,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0560_03,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0561_04,infected,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0562_01,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0563_02,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0564_03,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0565_04,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0566_05,healthy,peter wilcox,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0567_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0568_02,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0569_03,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0570_04,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0571_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0572_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0573_01,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0574_02,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0575_03,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0576_04,infected,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0577_01,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0578_02,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0579_03,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0580_04,healthy,red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0581_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0582_02,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0583_03,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0584_04,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0585_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0586_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0587_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0588_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0589_05,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0590_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0591_02,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0592_03,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0593_04,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0594_01,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0595_02,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0596_03,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0597_04,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0598_05,healthy,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0599_01,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0600_02,infected,w6234-4rus,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0601_01,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0602_02,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0603_03,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0604_04,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0605_05,infected,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0606_01,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0607_02,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0608_03,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0609_04,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0610_05,healthy,accumulator,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0611_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0612_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0613_03,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0614_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0615_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0616_03,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0617_04,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0618_05,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0619_01,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0620_02,infected,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0621_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0622_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0623_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0624_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0625_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0626_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0627_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0628_03,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0629_04,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0630_05,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0631_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0632_02,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0633_03,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0634_04,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0635_05,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0636_01,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0637_02,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0638_03,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0639_04,infected,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0640_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0641_02,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0642_03,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0643_04,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0644_05,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0645_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0646_02,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0647_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0648_02,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0649_03,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0650_04,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0651_05,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0652_01,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0653_02,infected,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0654_01,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0655_02,healthy,russet norkotah,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0656_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0657_02,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0658_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0659_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0660_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0661_04,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0662_05,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0663_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0664_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0665_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0666_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0667_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0668_02,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0669_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0670_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0671_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0672_01,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0673_02,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0674_03,infected,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0675_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0676_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0677_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0678_04,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0679_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0680_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0681_03,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0682_04,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0683_05,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0684_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0685_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0686_03,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0687_04,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0688_05,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0689_01,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0690_02,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0691_03,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0692_04,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0693_05,healthy,red lasoda 10-3,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0694_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0695_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0696_03,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0697_04,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0698_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0699_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0700_03,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0701_04,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0702_05,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0703_01,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0704_02,infected,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0705_01,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0706_02,healthy,russet burbank,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0707_01,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0708_02,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0709_03,infected,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0710_01,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0711_02,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0712_03,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0713_04,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0714_05,healthy,russet sebago,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0715_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0716_02,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0717_03,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0718_04,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0719_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0720_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0721_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0722_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0723_01,infected,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0724_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0725_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0726_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0727_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0728_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0729_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0730_01,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0731_02,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0732_03,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0733_04,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0734_05,healthy,atlantic,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0735_01,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0736_02,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0737_03,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0738_04,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0739_05,healthy,carola,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0740_01,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0741_02,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0742_03,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0743_04,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0744_05,healthy,dark red norland,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0745_01,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0746_02,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0747_03,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0748_04,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0749_05,healthy,goldrush,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0750_01,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0751_02,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0752_03,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0753_04,healthy,megachip,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0754_01,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0755_02,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0756_03,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0757_04,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0758_05,healthy,nicolet,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0759_01,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0760_02,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0761_03,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0762_04,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0763_05,healthy,pinnacle,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0764_01,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0765_02,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0766_03,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0767_04,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0768_05,healthy,red gold,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0769_01,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0770_02,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0771_03,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0772_04,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0773_05,healthy,silverton,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0774_01,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0775_02,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0776_03,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0777_04,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
+ecosis_pvy_solanum_0778_05,healthy,snowbird,Solanum,tuberosum,SOTU,USDA Plants,TRUE,2014,21.31,-157.86,svc-hr
