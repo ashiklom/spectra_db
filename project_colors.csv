@@ -1,4 +1,5 @@
 project_code,short_name,color
+all,All,black
 accp,ACCP,#FF0000FF
 angers,ANGERS,#FF9900FF
 barnes_2017,Barnes 2017,#FFCC00FF
@@ -13,12 +14,11 @@ ecosis_pepper,Pepper K/N,#FFCCCCFF
 ecosis_pvy_solanum,PVY solanum,#FFFF00FF
 ecosis_santamonica,Santa Monica Mtns.,#CCFF00FF
 ecosis_soybean_aphid,Soybean aphid,#358000FF
-ecosis_spectral_variation_leafcanopy,Spectral variation,#0000CCFF
-foster_beetle,Foster 2017,#99CCFFFF
-lopex,LOPEX,#00FFFFFF
-nasa_fft,NASA FFT,#CCFFFFFF
-nasa_hyspiri,NASA HyspIRI,#9900CCFF
-ngee_arctic,NGEE Arctic,#CC99FFFF
-ngee_tropics,NGEE Tropics,#996600FF
-wu_brazil,Wu 2016,#666600FF
-yang_pheno,Yang 2016,#666666FF
+foster_beetle,Foster 2017,#0000CCFF
+lopex,LOPEX,#99CCFFFF
+nasa_fft,NASA FFT,#00FFFFFF
+nasa_hyspiri,NASA HyspIRI,#CCFFFFFF
+ngee_arctic,NGEE Arctic,#9900CCFF
+ngee_tropics,NGEE Tropics,#CC99FFFF
+wu_brazil,Wu 2016,#996600FF
+yang_pheno,Yang 2016,#666600FF
