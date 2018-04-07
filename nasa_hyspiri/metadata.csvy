@@ -50,7 +50,7 @@
 #  - name: leaf_N_pct_mass
 #    type: number
 #    data_unit: '%'
-#  - name: leaf_CN_ratio_mass
+#  - name: leaf_CN_ratio
 #    type: number
 #    data_unit: ''
 #  - name: leaf_mass_per_area
@@ -62,7 +62,7 @@
 #    type: string
 #
 #---
-observation_id,collection_date,year,instrument_code,site_code,canopy_position,species_code,project_code,plot_code,sun_shade,latitude,longitude,leaf_C_pct_mass,leaf_H_pct_mass,leaf_N_pct_mass,leaf_CN_ratio_mass,leaf_mass_per_area,is_experiment,Database_ID
+observation_id,collection_date,year,instrument_code,site_code,canopy_position,species_code,project_code,plot_code,sun_shade,latitude,longitude,leaf_C_pct_mass,leaf_H_pct_mass,leaf_N_pct_mass,leaf_CN_ratio,leaf_mass_per_area,is_experiment,Database_ID
 nasa_hyspiri|CVARS_Row08_LemonTree_L1T7N_2013-06-07_asd-fs3|2013,2013-06-07,2013,asd-fs3,CVARS,T,CILI5,nasa_hyspiri,CVARS.Row08,sun,33.5217397563044,-116.156353326304,,,,,,FALSE,USDA Plants
 nasa_hyspiri|CVARS_Row08_LemonTree_L1T7O_2013-06-07_asd-fs3|2013,2013-06-07,2013,asd-fs3,CVARS,T,CILI5,nasa_hyspiri,CVARS.Row08,sun,33.5217397563044,-116.156353326304,,,,,,FALSE,USDA Plants
 nasa_hyspiri|CVARS_Row08_LemonTree_L2T7N_2013-06-07_asd-fs3|2013,2013-06-07,2013,asd-fs3,CVARS,T,CILI5,nasa_hyspiri,CVARS.Row08,sun,33.5217397563044,-116.156353326304,,,,,,FALSE,USDA Plants

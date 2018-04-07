@@ -48,7 +48,7 @@
   constraints:
     minimum: 0
 
-- trait: leaf_CN_ratio_mass
+- trait: leaf_CN_ratio
   description: Leaf carbon to nitrogen ratio
   unit: ""
   SI_unit: ""

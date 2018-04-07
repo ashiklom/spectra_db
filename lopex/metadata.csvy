@@ -55,7 +55,7 @@
 #  - name: leaf_N_pct_mass
 #    type: number
 #    data_unit: '%'
-#  - name: leaf_CN_ratio_mass
+#  - name: leaf_CN_ratio
 #    type: number
 #    data_unit: ''
 #  - name: leaf_protein_pct_mass
@@ -94,7 +94,7 @@
 #    type: boolean
 #
 #---
-observation_id,raw_species_code,leaf_prospect_N,leaf_chla_per_area,leaf_chlb_per_area,leaf_chltot_per_area,leaf_cartot_per_area,leaf_anth_per_area,leaf_water_thickness,leaf_mass_per_area,leaf_area,leaf_thickness,leaf_C_pct_mass,leaf_H_pct_mass,leaf_O_pct_mass,leaf_N_pct_mass,leaf_CN_ratio_mass,leaf_protein_pct_mass,leaf_cellulose_pct_mass,leaf_lignin_pct_mass,leaf_starch_pct_mass,species_code,scientific_name,Database_ID,site_code,plot_code,latitude,longitude,year,instrument_code,apparatus,is_experiment
+observation_id,raw_species_code,leaf_prospect_N,leaf_chla_per_area,leaf_chlb_per_area,leaf_chltot_per_area,leaf_cartot_per_area,leaf_anth_per_area,leaf_water_thickness,leaf_mass_per_area,leaf_area,leaf_thickness,leaf_C_pct_mass,leaf_H_pct_mass,leaf_O_pct_mass,leaf_N_pct_mass,leaf_CN_ratio,leaf_protein_pct_mass,leaf_cellulose_pct_mass,leaf_lignin_pct_mass,leaf_starch_pct_mass,species_code,scientific_name,Database_ID,site_code,plot_code,latitude,longitude,year,instrument_code,apparatus,is_experiment
 lopex_01,Acer pseudoplatanus L.,1.24,32.92,11.79,44.71,9.74,,0.00686,0.0033,4.1,94,47.57,5.99,38.76,2.73,17.4249084249084,18.045,19.08,8.93,1.505,ACPS,Acer pseudoplatanus L.,USDA Plants,ispra,ispra,45.803,8.63,1993,perkin-elmer-l19,integrating sphere,FALSE
 lopex_02,Acer pseudoplatanus L.,1.374,42.99,14.59,57.58,10.52,,0.00652,0.00406,4.1,107.6,48.23,6.39,37.64,2.85,16.9228070175439,17.075,18.105,9.205,0,ACPS,Acer pseudoplatanus L.,USDA Plants,ispra,ispra,45.803,8.63,1993,perkin-elmer-l19,integrating sphere,FALSE
 lopex_03,Alnus glutinosa L.,1.932,47.17,13.43,60.6,13.89,,0.00816,0.00656,4.1,152.4,49.41,6.35,37.6,3.4,14.5323529411765,22.105,14.13,12.045,1.63,ALGL2,Alnus glutinosa (L.) Gaertn.,USDA Plants,ispra,ispra,45.803,8.63,1993,perkin-elmer-l19,integrating sphere,FALSE

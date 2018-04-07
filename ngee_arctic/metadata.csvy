@@ -33,7 +33,7 @@
 #  - name: leaf_N_pct_mass
 #    type: number
 #    data_unit: '%'
-#  - name: leaf_CN_ratio_mass
+#  - name: leaf_CN_ratio
 #    type: number
 #    data_unit: ''
 #  - name: leaf_N_per_area
@@ -75,7 +75,7 @@
 #    type: boolean
 #
 #---
-observation_id,SampleName,year,site_code,plot_code,species_data_code,collection_date,leaf_mass_per_area,leaf_C_pct_mass,leaf_N_pct_mass,leaf_CN_ratio_mass,leaf_N_per_area,leaf_C_per_area,leaf_chla_per_area,leaf_chlb_per_area,leaf_chltot_per_area,leaf_cartot_per_area,leaf_area,projectcode,species_code,scientific_name,Database_ID,latitude,longitude,instrument_code,is_experiment
+observation_id,SampleName,year,site_code,plot_code,species_data_code,collection_date,leaf_mass_per_area,leaf_C_pct_mass,leaf_N_pct_mass,leaf_CN_ratio,leaf_N_per_area,leaf_C_per_area,leaf_chla_per_area,leaf_chlb_per_area,leaf_chltot_per_area,leaf_cartot_per_area,leaf_area,projectcode,species_code,scientific_name,Database_ID,latitude,longitude,instrument_code,is_experiment
 ngee_arctic|BNL1236|2013,BNL1236,2013,Barrow,Barrow.NA,SAPU15,2013-07-25T04:00:00Z,88.4865585077201,50.12,2.41,20.7966804979253,2.13252606003605,44.3494631240693,34.29,10.48,44.77,,,ngee_arctic,SAPU15,Salix pulchra Cham.,USDA Plants,71.275764,-156.641386,unknown,FALSE
 ngee_arctic|BNL1238|2013,BNL1238,2013,Barrow,Barrow.NA,SAPU15,2013-07-25T04:00:00Z,70.1230385164051,49.38,3.09,15.9805825242718,2.16680189015692,34.6267564194009,29.85,9.51,39.36,,,ngee_arctic,SAPU15,Salix pulchra Cham.,USDA Plants,71.275764,-156.641386,unknown,FALSE
 ngee_arctic|BNL1240|2013,BNL1240,2013,Barrow,Barrow.NA,SAPU15,2013-07-25T04:00:00Z,78.3241526275582,48.99,3.07,15.957654723127,2.40455148566604,38.3710023722408,32.13,9.84,41.97,,,ngee_arctic,SAPU15,Salix pulchra Cham.,USDA Plants,71.275764,-156.641386,unknown,FALSE

@@ -109,7 +109,7 @@
 #  - name: leaf_C_pct_mass
 #    type: number
 #    data_unit: '%'
-#  - name: leaf_CN_ratio_mass
+#  - name: leaf_CN_ratio
 #    type: number
 #    data_unit: ''
 #  - name: leaf_mass_per_area
@@ -132,7 +132,7 @@
 #    type: number
 #
 #---
-site_code,plot_code,species_data_code,canopy_position,sample_name,year,calibration,observation_id,instrument_code,apparatus,spectra_types,sun_shade,needle_old_new,needle_age,target_type,leaf_dN15,leaf_lignin_pct_mass,leaf_fiber_pct_mass,leaf_N_pct_mass,leaf_C_pct_mass,leaf_CN_ratio_mass,leaf_mass_per_area,leaf_water_thickness,species_code,scientific_name,Database_ID,is_experiment,latitude,longitude
+site_code,plot_code,species_data_code,canopy_position,sample_name,year,calibration,observation_id,instrument_code,apparatus,spectra_types,sun_shade,needle_old_new,needle_age,target_type,leaf_dN15,leaf_lignin_pct_mass,leaf_fiber_pct_mass,leaf_N_pct_mass,leaf_C_pct_mass,leaf_CN_ratio,leaf_mass_per_area,leaf_water_thickness,species_code,scientific_name,Database_ID,is_experiment,latitude,longitude
 AK,AK01,ACRU,B,AK01_ACRU_B,2009,Spectralon Ratio,nasa_fft|AK01_ACRU_B|2009,asd-fs3,Leaf clip,R,shade,,,leaf,,,,,,,,,ACRU,Acer rubrum L.,USDA Plants,FALSE,44.45206457,-73.74136205
 AK,AK01,ACRU,M,AK01_ACRU_M,2009,Spectralon Ratio,nasa_fft|AK01_ACRU_M|2009,asd-fs3,Leaf clip,R,shade,,,leaf,,,,,,,,,ACRU,Acer rubrum L.,USDA Plants,FALSE,44.45206457,-73.74136205
 AK,AK01,ACRU,T,AK01_ACRU_T,2009,Spectralon Ratio,nasa_fft|AK01_ACRU_T|2009,asd-fs3,Leaf clip,R,sun,,,leaf,,23.5380732,38.8725284,,,,,,ACRU,Acer rubrum L.,USDA Plants,FALSE,44.45206457,-73.74136205
